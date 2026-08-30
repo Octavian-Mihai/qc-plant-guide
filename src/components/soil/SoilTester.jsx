@@ -47,14 +47,14 @@ export default function SoilTester({ onSkip }) {
   return (
     <section id="soil-tester" className="card mx-auto max-w-3xl">
       <h2 className="section-title">{t('soil.title')}</h2>
-      <p className="mt-2 text-forest/70">{t('soil.subtitle')}</p>
+      <p className="mt-2 text-muted">{t('soil.subtitle')}</p>
 
       {/* Step indicators */}
       <div className="mt-4 flex gap-2" aria-label="Wizard progress">
         {[1, 2, 3].map((s) => (
           <div
             key={s}
-            className={`h-2 flex-1 rounded-full ${step >= s ? 'bg-forest' : 'bg-forest/20'}`}
+            className={`h-2 flex-1 rounded-full ${step >= s ? 'bg-forest dark:bg-forest-lighter' : 'bg-forest/20 dark:bg-forest/30'}`}
           />
         ))}
       </div>
@@ -62,7 +62,7 @@ export default function SoilTester({ onSkip }) {
       <div className="mt-6">
         {step === 1 && (
           <>
-            <p className="mb-4 font-medium text-forest-dark">{t('soil.step1')}</p>
+            <p className="mb-4 font-medium">{t('soil.step1')}</p>
             <div className="grid gap-3 sm:grid-cols-3">
               {methods.map((m) => (
                 <button
@@ -73,8 +73,8 @@ export default function SoilTester({ onSkip }) {
                     method === m.id ? 'border-forest ring-2 ring-forest-light' : ''
                   }`}
                 >
-                  <h4 className="font-semibold text-forest-dark">{m.label}</h4>
-                  <p className="mt-1 text-sm text-forest/70">{m.desc}</p>
+                  <h4 className="font-semibold">{m.label}</h4>
+                  <p className="mt-1 text-sm text-muted">{m.desc}</p>
                 </button>
               ))}
             </div>
@@ -83,7 +83,7 @@ export default function SoilTester({ onSkip }) {
 
         {step === 2 && (
           <>
-            <p className="mb-4 font-medium text-forest-dark">{t('soil.step2')}</p>
+            <p className="mb-4 font-medium">{t('soil.step2')}</p>
             {method === 'jar' && (
               <JarTest texture={texture} ph={ph} onTextureChange={setTexture} onPhChange={setPh} />
             )}
@@ -109,7 +109,7 @@ export default function SoilTester({ onSkip }) {
 
         {step === 3 && (
           <>
-            <p className="mb-4 font-medium text-forest-dark">{t('soil.step3')}</p>
+            <p className="mb-4 font-medium">{t('soil.step3')}</p>
             <div className="grid gap-2">
               {drainageOptions.map((opt) => (
                 <button
@@ -140,9 +140,9 @@ export default function SoilTester({ onSkip }) {
         )}
 
         {(step === 4 || soilTestResult) && soilTestResult && (
-          <div className="rounded-lg bg-forest/5 p-4">
-            <p className="font-semibold text-forest-dark">✓ {t('soil.result')}</p>
-            <p className="mt-1 text-forest">{getSoilSummary(soilTestResult, locale)}</p>
+          <div className="rounded-lg bg-forest/5 p-4 dark:bg-forest/10">
+            <p className="font-semibold">✓ {t('soil.result')}</p>
+            <p className="mt-1 text-forest dark:text-forest-lighter">{getSoilSummary(soilTestResult, locale)}</p>
           </div>
         )}
       </div>
@@ -150,7 +150,7 @@ export default function SoilTester({ onSkip }) {
       <button
         type="button"
         onClick={handleSkip}
-        className="mt-4 text-sm text-forest underline hover:text-forest-light"
+        className="link-forest mt-4 text-sm"
       >
         {t('soil.skip')}
       </button>

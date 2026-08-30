@@ -1,0 +1,202 @@
+[
+  {
+    "id": "japanese-beetle",
+    "nameEn": "Japanese Beetle",
+    "nameFr": "Scarabée japonais",
+    "imageUrl": "/assets/pests/japanese-beetle.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Metallic green body with copper-brown wing covers. About 1 cm long. Skeletonizes leaves, leaving lace-like damage.",
+      "fr": "Corps vert métallique avec élytres brun cuivré. Environ 1 cm de long. Squelettise les feuilles, laissant des dommages en dentelle."
+    },
+    "affectedPlants": ["4d157882-62b3-4d2c-ad67-59eaa172fbcb", "614de45e-b116-4380-9357-5b9913087ea8", "7843bf4f-8e3a-4d5c-b2a1-0f9e8d7c6b5a", "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"],
+    "naturalControls": {
+      "en": ["Hand-pick in early morning when sluggish", "Knock beetles into soapy water", "Use pheromone traps away from garden"],
+      "fr": ["Cueillette manuelle tôt le matin", "Faire tomber les scarabées dans de l'eau savonneuse", "Utiliser des pièges à phéromones loin du jardin"]
+    },
+    "beneficialInsects": {
+      "en": ["Parasitic wasps (Tiphia vernalis)", "Ground beetles"],
+      "fr": ["Guêpes parasitoïdes (Tiphia vernalis)", "Carabes"]
+    },
+    "organicTreatments": {
+      "en": ["Neem oil spray on affected plants", "Milky spore (long-term lawn treatment)", "Safer's insecticidal soap"],
+      "fr": ["Pulvérisation d'huile de neem", "Bacille milky spore (traitement à long terme)", "Savon insecticide Safer's"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c", "444cacbe-ec37-4760-ae88-35b3e205b244"]
+  },
+  {
+    "id": "aphids",
+    "nameEn": "Aphids",
+    "nameFr": "Pucerons",
+    "imageUrl": "/assets/pests/aphids.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Tiny soft-bodied insects (1-3 mm), green, black, or yellow. Cluster on new growth and undersides of leaves.",
+      "fr": "Minuscules insectes à corps mou (1-3 mm), vert, noir ou jaune. Se regroupent sur la nouvelle croissance et le dessous des feuilles."
+    },
+    "affectedPlants": ["4d157882-62b3-4d2c-ad67-59eaa172fbcb", "734cc4e7-b5ed-4966-975a-87c7515b7b92", "7843bf4f-973f-46ef-8bbb-84133fc1570d"],
+    "naturalControls": {
+      "en": ["Spray with strong water jet", "Introduce ladybugs and lacewings", "Remove heavily infested stems"],
+      "fr": ["Pulvériser avec un jet d'eau fort", "Introduire des coccinelles et des chrysopes", "Retirer les tiges fortement infestées"]
+    },
+    "beneficialInsects": {
+      "en": ["Ladybugs", "Lacewings", "Parasitic wasps"],
+      "fr": ["Coccinelles", "Chrysopes", "Guêpes parasitoïdes"]
+    },
+    "organicTreatments": {
+      "en": ["Insecticidal soap", "Neem oil", "Horticultural oil"],
+      "fr": ["Savon insecticide", "Huile de neem", "Huile horticole"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c", "444cacbe-ec37-4760-ae88-35b3e205b244", "550cc286-54cd-49c4-9374-85b5aa6ea2e7"]
+  },
+  {
+    "id": "slugs",
+    "nameEn": "Slugs",
+    "nameFr": "Limaces",
+    "imageUrl": "/assets/pests/slugs.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Soft-bodied mollusks, 2-8 cm long. Leave irregular holes in leaves and slime trails. Active at night and in wet weather.",
+      "fr": "Mollusques à corps mou, 2-8 cm de long. Laissent des trous irréguliers dans les feuilles et des traces de bave. Actifs la nuit et par temps humide."
+    },
+    "affectedPlants": ["dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1", "689826db-a9c0-4324-9220-f6cfbda050e4", "b98fe248-e432-4c0a-93ed-0e228f946c62"],
+    "naturalControls": {
+      "en": ["Beer traps in shallow containers", "Copper tape barriers around beds", "Hand-pick at dusk with flashlight"],
+      "fr": ["Pièges à bière dans des récipients peu profonds", "Barrières de ruban de cuivre autour des plates-bandes", "Cueillette manuelle au crépuscule avec lampe de poche"]
+    },
+    "beneficialInsects": {
+      "en": ["Ground beetles", "Toads and frogs"],
+      "fr": ["Carabes", "Crapauds et grenouilles"]
+    },
+    "organicTreatments": {
+      "en": ["Diatomaceous earth around plants", "Iron phosphate slug bait (pet-safe)", "Coffee grounds barrier"],
+      "fr": ["Terre de diatomée autour des plantes", "Appât à limaces au phosphate de fer", "Barrière de marc de café"]
+    },
+    "beneficialPlants": ["58ed56dc-88ef-4688-9bb4-f2ef25ac60b0", "4b2594e0-9f3e-4d2c-8b1a-0e9f8d7c6b5a"]
+  },
+  {
+    "id": "colorado-potato-beetle",
+    "nameEn": "Colorado Potato Beetle",
+    "nameFr": "Doryphore de la pomme de terre",
+    "imageUrl": "/assets/pests/colorado-potato-beetle.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Yellow-orange beetles with black stripes. Larvae are reddish with black spots. Defoliate solanaceous plants rapidly.",
+      "fr": "Coléoptères jaune-orange avec des rayures noires. Les larves sont rougeâtres avec des taches noires. Défolient rapidement les solanacées."
+    },
+    "affectedPlants": [],
+    "naturalControls": {
+      "en": ["Hand-pick adults and larvae daily", "Rotate crops annually", "Use floating row covers"],
+      "fr": ["Cueillette manuelle quotidienne des adultes et larves", "Rotation des cultures annuelle", "Utiliser des voiles flottants"]
+    },
+    "beneficialInsects": {
+      "en": ["Ladybugs", "Ground beetles", "Parasitic wasps"],
+      "fr": ["Coccinelles", "Carabes", "Guêpes parasitoïdes"]
+    },
+    "organicTreatments": {
+      "en": ["Bt var. tenebrionis (Novodor)", "Spinosad spray", "Neem oil on larvae"],
+      "fr": ["Bt var. tenebrionis (Novodor)", "Pulvérisation de spinosad", "Huile de neem sur les larves"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c", "444cacbe-ec37-4760-ae88-35b3e205b244"]
+  },
+  {
+    "id": "squash-vine-borer",
+    "nameEn": "Squash Vine Borer",
+    "nameFr": "Pyrale de la courge",
+    "imageUrl": "/assets/pests/squash-vine-borer.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Red-orange moth with black wings. Larvae bore into squash stems, causing wilting. Frass (sawdust-like) at stem base.",
+      "fr": "Papillon de nuit rouge-orange aux ailes noires. Les larves forent les tiges de courge, causant le flétrissement. Sciure à la base de la tige."
+    },
+    "affectedPlants": [],
+    "naturalControls": {
+      "en": ["Slit stem and remove larvae with needle", "Wrap stem base with aluminum foil", "Plant after peak borer season (late June)"],
+      "fr": ["Inciser la tige et retirer les larves", "Envelopper la base de la tige de papier aluminium", "Planter après la saison de pic (fin juin)"]
+    },
+    "beneficialInsects": {
+      "en": ["Parasitic wasps", "Braconid wasps"],
+      "fr": ["Guêpes parasitoïdes", "Braconides"]
+    },
+    "organicTreatments": {
+      "en": ["Bt injection into stem", "Row covers until flowering", "Remove and destroy infested vines"],
+      "fr": ["Injection de Bt dans la tige", "Voiles jusqu'à la floraison", "Retirer et détruire les vignes infestées"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c"]
+  },
+  {
+    "id": "cabbage-worm",
+    "nameEn": "Cabbage Worm",
+    "nameFr": "Ver du chou",
+    "imageUrl": "/assets/pests/cabbage-worm.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Velvety green caterpillars (2-3 cm) from white cabbage butterflies. Eat large holes in brassica leaves.",
+      "fr": "Chenilles veloutées vertes (2-3 cm) de papillons blancs du chou. Mangent de grands trous dans les feuilles de crucifères."
+    },
+    "affectedPlants": [],
+    "naturalControls": {
+      "en": ["Hand-pick caterpillars", "Floating row covers over brassicas", "Plant dill and fennel to attract parasitic wasps"],
+      "fr": ["Cueillette manuelle des chenilles", "Voiles flottants sur les crucifères", "Planter aneth et fenouil pour attirer les guêpes parasitoïdes"]
+    },
+    "beneficialInsects": {
+      "en": ["Parasitic wasps (Cotesia glomerata)", "Yellow jackets"],
+      "fr": ["Guêpes parasitoïdes (Cotesia glomerata)", "Guêpes jaunes"]
+    },
+    "organicTreatments": {
+      "en": ["Bt (Bacillus thuringiensis) spray", "Spinosad for heavy infestations", "Neem oil on eggs"],
+      "fr": ["Pulvérisation de Bt (Bacillus thuringiensis)", "Spinosad pour infestations lourdes", "Huile de neem sur les œufs"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c", "444cacbe-ec37-4760-ae88-35b3e205b244"]
+  },
+  {
+    "id": "spider-mites",
+    "nameEn": "Spider Mites",
+    "nameFr": "Acariens",
+    "imageUrl": "/assets/pests/spider-mites.svg",
+    "pestType": "insect",
+    "identification": {
+      "en": "Tiny red or yellow dots (0.5 mm). Fine webbing on leaf undersides. Stippled, bronzed leaves in hot dry weather.",
+      "fr": "Minuscules points rouges ou jaunes (0,5 mm). Toiles fines sous les feuilles. Feuilles piquetées, bronzées par temps chaud et sec."
+    },
+    "affectedPlants": ["734cc4e7-b5ed-4966-975a-87c7515b7b92", "7843bf4f-973f-46ef-8bbb-84133fc1570d", "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0"],
+    "naturalControls": {
+      "en": ["Increase humidity with misting", "Spray with water to dislodge mites", "Introduce predatory mites (Phytoseiulus)"],
+      "fr": ["Augmenter l'humidité par brumisation", "Pulvériser d'eau pour déloger les acariens", "Introduire des acariens prédateurs (Phytoseiulus)"]
+    },
+    "beneficialInsects": {
+      "en": ["Predatory mites", "Lacewing larvae", "Ladybugs"],
+      "fr": ["Acariens prédateurs", "Larves de chrysopes", "Coccinelles"]
+    },
+    "organicTreatments": {
+      "en": ["Insecticidal soap", "Horticultural oil", "Neem oil every 5-7 days"],
+      "fr": ["Savon insecticide", "Huile horticole", "Huile de neem tous les 5-7 jours"]
+    },
+    "beneficialPlants": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c"]
+  },
+  {
+    "id": "deer",
+    "nameEn": "White-tailed Deer",
+    "nameFr": "Cerf de Virginie",
+    "imageUrl": "/assets/pests/deer.svg",
+    "pestType": "mammal",
+    "identification": {
+      "en": "Large hoofed mammals. Browse on tender shoots, buds, and fruit. Leave ragged torn edges on leaves and stripped bark on trees.",
+      "fr": "Grands mammifères ongulés. Broutent les pousses tendres, bourgeons et fruits. Laissent des bords déchirés sur les feuilles et l'écorce arrachée sur les arbres."
+    },
+    "affectedPlants": ["4d157882-62b3-4d2c-ad67-59eaa172fbcb", "7843bf4f-973f-46ef-8bbb-84133fc1570d", "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1"],
+    "naturalControls": {
+      "en": ["Install 2.4 m (8 ft) fence", "Motion-activated sprinklers", "Plant deer-resistant species as perimeter"],
+      "fr": ["Installer une clôture de 2,4 m (8 pi)", "Arrosage automatique à détection de mouvement", "Planter des espèces résistantes en périmètre"]
+    },
+    "beneficialInsects": {
+      "en": [],
+      "fr": []
+    },
+    "organicTreatments": {
+      "en": ["Egg-based repellent sprays", "Irish Spring soap bars hung in mesh bags", "Human hair or blood meal barriers"],
+      "fr": ["Pulvérisations répulsives à base d'œufs", "Savon Irish Spring suspendu en sacs", "Barrières de cheveux humains ou de farine de sang"]
+    },
+    "beneficialPlants": ["4b2594e0-9f3e-4d2c-8b1a-0e9f8d7c6b5a", "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0", "431a72d4-e3fb-4f47-a5c3-8bb90b096424"]
+  }
+]

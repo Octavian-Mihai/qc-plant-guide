@@ -12,8 +12,8 @@ const OptionCard = memo(function OptionCard({ selected, onClick, title, descript
       }`}
       aria-pressed={selected}
     >
-      <h4 className="font-semibold text-forest-dark">{title}</h4>
-      {description && <p className="mt-1 text-sm text-forest/70">{description}</p>}
+      <h4 className="font-semibold">{title}</h4>
+      {description && <p className="mt-1 text-sm text-muted">{description}</p>}
     </button>
   );
 });
@@ -39,13 +39,13 @@ function JarTest({ texture, ph, onTextureChange, onPhChange }) {
     <div className="space-y-6">
       {/* Jar test diagram */}
       <div className="mx-auto flex max-w-xs items-end justify-center gap-4">
-        <div className="relative h-48 w-20 rounded-b-lg border-2 border-forest/30 bg-white">
+        <div className="relative h-48 w-20 rounded-b-lg border-2 border-forest/30 bg-white dark:border-forest/40 dark:bg-darkbg">
           <div className="absolute bottom-0 h-[30%] w-full bg-amber-700/60" title="Sand layer" />
           <div className="absolute bottom-[30%] h-[20%] w-full bg-amber-500/50" title="Silt layer" />
           <div className="absolute bottom-[50%] h-[35%] w-full bg-amber-800/40" title="Clay layer" />
           <div className="absolute top-2 h-[15%] w-full bg-blue-100/50" title="Water layer" />
         </div>
-        <ol className="text-sm text-forest/80">
+        <ol className="text-sm text-subtle">
           <li>1. Fill jar ⅓ with soil</li>
           <li>2. Add water, shake well</li>
           <li>3. Wait 24 hours</li>
@@ -54,7 +54,7 @@ function JarTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">Texture result:</p>
+        <p className="mb-2 font-medium">Texture result:</p>
         <div className="grid gap-2 sm:grid-cols-2">
           {textures.map((opt) => (
             <OptionCard
@@ -68,7 +68,7 @@ function JarTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">pH (optional strip test):</p>
+        <p className="mb-2 font-medium">pH (optional strip test):</p>
         <div className="grid gap-2 sm:grid-cols-3">
           {phOptions.map((opt) => (
             <OptionCard

@@ -18,18 +18,18 @@ function Microgreens() {
     <div className="mx-auto max-w-4xl space-y-8 px-4 py-8">
       <header className="text-center">
         <h1 className="section-title">{t('microgreens.title')}</h1>
-        <p className="mt-2 text-forest/70">{t('microgreens.subtitle')}</p>
+        <p className="mt-2 text-muted">{t('microgreens.subtitle')}</p>
       </header>
 
       {/* Beginner's Top 3 */}
       <section className="grid gap-4 sm:grid-cols-3">
         {TOP3.map(({ key, days }) => (
           <div key={key} className="card text-center">
-            <h3 className="font-display text-lg font-semibold text-forest-dark">
+            <h3 className="font-display text-lg font-semibold">
               {t(`microgreens.${key}`)}
             </h3>
-            <p className="mt-2 text-sm text-forest/70">{t(`microgreens.${key}Desc`)}</p>
-            <p className="mt-2 text-xs font-medium text-forest">{days} days</p>
+            <p className="mt-2 text-sm text-muted">{t(`microgreens.${key}Desc`)}</p>
+            <p className="mt-2 text-xs font-medium text-forest dark:text-forest-lighter">{days} days</p>
           </div>
         ))}
       </section>

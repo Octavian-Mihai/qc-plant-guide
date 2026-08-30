@@ -1,0 +1,90 @@
+{
+  "rules": [
+    {
+      "plantA": "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "plantB": "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "relationship": "good",
+      "reasonEn": "Both native trees that share similar soil preferences and create layered canopy.",
+      "reasonFr": "Deux arbres natifs partageant des préférences de sol similaires et créant un couvert en étages."
+    },
+    {
+      "plantA": "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "plantB": "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "relationship": "good",
+      "reasonEn": "Wild Bergamot and New England Aster attract complementary pollinators and bloom sequentially.",
+      "reasonFr": "La monarde et l'aster de la Nouvelle-Angleterre attirent des pollinisateurs complémentaires et fleurissent en séquence."
+    },
+    {
+      "plantA": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "plantB": "614de45e-b116-4380-9357-5b9913087ea8",
+      "relationship": "good",
+      "reasonEn": "Apple varieties cross-pollinate for better fruit set.",
+      "reasonFr": "Les variétés de pommiers se pollinisent mutuellement pour une meilleure fructification."
+    },
+    {
+      "plantA": "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "plantB": "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "relationship": "good",
+      "reasonEn": "Black-Eyed Susan and Coneflower share pollinators and drought tolerance.",
+      "reasonFr": "Le rudbeckie et l'échinacée partagent les pollinisateurs et la tolérance à la sécheresse."
+    },
+    {
+      "plantA": "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "plantB": "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "relationship": "good",
+      "reasonEn": "Milkweed and Black-Eyed Susan both support monarch butterflies.",
+      "reasonFr": "L'asclépiade et le rudbeckie soutiennent tous deux les papillons monarques."
+    }
+  ],
+  "allelopathic": [
+    {
+      "id": "black-walnut",
+      "nameEn": "Black Walnut",
+      "nameFr": "Noyer noir",
+      "effectEn": "Releases juglone, toxic to tomatoes, potatoes, and many other plants within its root zone.",
+      "effectFr": "Libère de la juglone, toxique pour les tomates, pommes de terre et de nombreuses autres plantes dans sa zone racinaire."
+    },
+    {
+      "id": "sunflower",
+      "nameEn": "Sunflower",
+      "nameFr": "Tournesol",
+      "effectEn": "Allelopathic compounds can inhibit growth of nearby plants; plant at garden edges.",
+      "effectFr": "Des composés allélopathiques peuvent inhiber la croissance des plantes voisines; planter en bordure."
+    }
+  ],
+  "threeSisters": {
+    "corn": { "nameEn": "Corn", "nameFr": "Maïs", "roleEn": "Provides structure for beans to climb", "roleFr": "Fournit une structure pour que les haricots grimpent" },
+    "beans": { "nameEn": "Beans", "nameFr": "Haricots", "roleEn": "Fix nitrogen in soil for corn and squash", "roleFr": "Fixe l'azote dans le sol pour le maïs et la courge" },
+    "squash": { "nameEn": "Squash", "nameFr": "Courge", "roleEn": "Large leaves shade soil and suppress weeds", "roleFr": "Grandes feuilles ombragent le sol et suppriment les mauvaises herbes" }
+  },
+  "pollinatorCombos": [
+    {
+      "id": "late-season",
+      "nameEn": "Late Season Pollinator Combo",
+      "nameFr": "Combo pollinisateur de fin de saison",
+      "plantIds": ["9b809faa-6b1e-4f51-940b-1a932f31bb8c", "f106c2b6-23e5-4c59-850f-97a03236f314", "550cc286-54cd-49c4-9374-85b5aa6ea2e7"],
+      "descriptionEn": "Wild Bergamot, New England Aster, and Goldenrod provide nectar from mid-summer through fall.",
+      "descriptionFr": "La monarde, l'aster de la Nouvelle-Angleterre et la verge d'or fournissent du nectar de la mi-été à l'automne."
+    },
+    {
+      "id": "monarch",
+      "nameEn": "Monarch Butterfly Garden",
+      "nameFr": "Jardin pour papillons monarques",
+      "plantIds": ["cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3", "444cacbe-ec37-4760-ae88-35b3e205b244", "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"],
+      "descriptionEn": "Butterfly Milkweed, Black-Eyed Susan, and Coneflower support monarchs and other butterflies.",
+      "descriptionFr": "L'asclépiade, le rudbeckie et l'échinacée soutiennent les monarques et autres papillons."
+    }
+  ],
+  "successionChains": [
+    {
+      "id": "spring-summer",
+      "nameEn": "Spring to Summer Succession",
+      "nameFr": "Succession printemps-été",
+      "steps": [
+        { "seasonEn": "Early Spring", "seasonFr": "Début printemps", "cropEn": "Lettuce & Peas", "cropFr": "Laitue et pois", "weeksEn": "Weeks 1–4 after last frost", "weeksFr": "Semaines 1–4 après la dernière gelée" },
+        { "seasonEn": "Late Spring", "seasonFr": "Fin printemps", "cropEn": "Beans & Squash", "cropFr": "Haricots et courge", "weeksEn": "Weeks 5–8", "weeksFr": "Semaines 5–8" },
+        { "seasonEn": "Fall", "seasonFr": "Automne", "cropEn": "Cover Crop (Clover)", "cropFr": "Culture de couverture (trèfle)", "weeksEn": "After harvest", "weeksFr": "Après la récolte" }
+      ]
+    }
+  ]
+}

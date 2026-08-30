@@ -47,11 +47,11 @@ function Timeline() {
               }`}>
                 {i + 1}
               </div>
-              {i < 6 && <div className="w-0.5 flex-1 bg-forest/20" />}
+              {i < 6 && <div className="w-0.5 flex-1 bg-forest/20 dark:bg-forest/30" />}
             </div>
             <div className="flex-1 pb-4">
               <img src={IMAGES[i]} alt={`Day ${i + 1}`} className="mb-2 h-16 w-24 rounded object-cover" />
-              <p className="text-sm text-forest/80">{step}</p>
+              <p className="text-sm text-subtle">{step}</p>
             </div>
           </div>
         ))}

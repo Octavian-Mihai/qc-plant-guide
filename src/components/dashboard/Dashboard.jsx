@@ -20,13 +20,13 @@ export default function Dashboard() {
           <h1 className="font-display text-4xl font-bold md:text-5xl">{t('hero.title')}</h1>
           <p className="mt-4 text-lg text-forest-lighter">{t('hero.subtitle')}</p>
           <div className="mt-6 flex flex-wrap justify-center gap-3">
-            <a href="#soil-tester" className="btn-primary bg-white text-forest hover:bg-cream">
+            <a href="#soil-tester" className="btn-hero">
               {t('hero.cta')}
             </a>
-            <button type="button" onClick={scrollToResults} className="btn-secondary border-white text-white hover:bg-white/10">
+            <button type="button" onClick={scrollToResults} className="btn-hero">
               {t('hero.skipSoil')}
             </button>
-            <Link to="/microgreens" className="btn-secondary border-white text-white hover:bg-white/10">
+            <Link to="/microgreens" className="btn-hero">
               {t('nav.microgreens')}
             </Link>
           </div>
