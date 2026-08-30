@@ -4,6 +4,8 @@ A beginner-friendly, bilingual (English / French) web app for gardeners in **Sou
 
 **Live repo:** [github.com/Octavian-Mihai/qc-plant-guide](https://github.com/Octavian-Mihai/qc-plant-guide)
 
+**Live link:** [https://qc-plant-guide.vercel.app/](https://qc-plant-guide.vercel.app/)
+
 ---
 
 ## Screenshots
@@ -103,73 +105,6 @@ Toggle light/dark theme from the navbar — preference saved automatically.
 - **Soil matcher** — scored tiers (`strong` / `moderate` / `none`) in `soilMatcher.js`
 - **Notification service** — shared between seed starting and microgreens modules (Browser Notification API)
 
----
-
-## Routes
-
-| Route | Description |
-|-------|-------------|
-| `/` | Dashboard — hero, soil wizard, filters, plant grid |
-| `/plant/:id` | Plant detail modal (shareable link) |
-| `/favorites` | Saved plants + shareable wishlist |
-| `/compare` | Side-by-side comparison (max 3 plants) |
-| `/garden-planner` | Drag-and-drop bed designer |
-| `/companions` | Companion planting guide |
-| `/ipm` | Integrated pest management |
-| `/seed-starting` | Seed starting scheduler |
-| `/microgreens` | Microgreens 101 |
-| `/learn` | Education center hub |
-| `/learn/zones` | Hardiness zone map |
-| `/learn/planting` | Frost date calculator |
-| `/learn/soil-testing` | Soil testing deep dive |
-| `/learn/native-plants` | Native plant guide |
-| `/learn/winter-care` | Winter protection guide |
-
----
-
-## Getting Started
-
-```bash
-git clone https://github.com/Octavian-Mihai/qc-plant-guide.git
-cd qc-plant-guide
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-### Optional: plant images
-
-Copy `.env.example` to `.env` and add an Unsplash access key:
-
-```bash
-cp .env.example .env
-```
-
-```env
-VITE_UNSPLASH_ACCESS_KEY=your_key_here
-```
-
-Get a free key at [unsplash.com/developers](https://unsplash.com/developers). The app works without it — placeholders are used instead.
-
-### Build for production
-
-```bash
-npm run build
-npm run preview   # preview the dist/ output locally
-```
-
-Output directory: `dist/`
-
----
-
-## Deploy to Vercel
-
-1. Import the repository on [vercel.com](https://vercel.com)
-2. **Build command:** `npm run build`
-3. **Output directory:** `dist`
-4. **Environment variable (optional):** `VITE_UNSPLASH_ACCESS_KEY`
-5. SPA rewrites are already configured in `vercel.json`
 
 ---
 
