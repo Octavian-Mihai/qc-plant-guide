@@ -116,7 +116,7 @@ export default function PlantDetailModal() {
             <button type="button" onClick={() => addToCompare(plant.id)} className="btn-secondary">
               {t('compare.add')}
             </button>
-            <Link to={`/companions`} className="btn-secondary">{t('companions.viewForPlant')}</Link>
+            <Link to={`/companions?plant=${plant.id}`} className="btn-secondary">{t('companions.viewForPlant')}</Link>
             <button type="button" onClick={handlePrintDetail} className="btn-secondary">{t('print.print')}</button>
             <button type="button" onClick={() => exportPlantDetailPDF(plant, description)} className="btn-secondary">
               {t('print.exportPdf')}

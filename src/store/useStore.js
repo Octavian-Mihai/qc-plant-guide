@@ -87,6 +87,7 @@ const useStore = create((set, get) => ({
   compareList: /** @type {string[]} */ (loadJSON(STORAGE_KEYS.compareList, [])),
   gardenLayouts: /** @type {GardenLayout[]} */ (loadJSON(STORAGE_KEYS.gardenLayouts, [])),
   activeLayoutId: /** @type {string|null} */ (null),
+  pendingGardenLayout: /** @type {GardenLayout|null} */ (null),
   seedCityId: 'montreal',
   seedSchedules: /** @type {SeedReminder[]} */ (loadJSON(STORAGE_KEYS.seedReminders, [])),
   theme: initialTheme,
@@ -227,6 +228,7 @@ const useStore = create((set, get) => ({
   },
 
   setActiveLayoutId: (activeLayoutId) => set({ activeLayoutId }),
+  setPendingGardenLayout: (pendingGardenLayout) => set({ pendingGardenLayout }),
   setSeedCityId: (seedCityId) => set({ seedCityId }),
 
   addSeedReminder: (reminder) => {

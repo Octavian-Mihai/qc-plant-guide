@@ -1,4 +1,5 @@
-import { useState, useCallback, useMemo } from 'react';
+import { useState, useCallback, useMemo, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { DndContext, DragOverlay, PointerSensor, useSensor, useSensors } from '@dnd-kit/core';
 import useStore from '../../store/useStore';
 import { useTranslation } from '../../i18n/useTranslation';
@@ -6,8 +7,9 @@ import PlantPalette, { getPlantEmoji } from './PlantPalette';
 import GardenBedGrid from './GardenBedGrid';
 import SpacingCalculator from './SpacingCalculator';
 import CompanionHints from './CompanionHints';
-import { getBedDimensions, getCellSpan, getCompanionStatus, CELL_SIZE_CM } from '../../utils/plantHelpers';
+import { getBedDimensions, getCellSpan, getCompanionStatus, CELL_SIZE_CM, createThreeSistersLayout } from '../../utils/plantHelpers';
 import { exportGardenLayoutPDF } from '../../services/pdfService';
+import companionsData from '../../data/companions.json';
 
 /** @typedef {import('../../types').GardenLayout} GardenLayout */
 /** @typedef {import('../../types').GardenBedSize} GardenBedSize */
@@ -33,6 +35,9 @@ export default function GardenPlanner() {
   const deleteGardenLayout = useStore((s) => s.deleteGardenLayout);
   const activeLayoutId = useStore((s) => s.activeLayoutId);
   const setActiveLayoutId = useStore((s) => s.setActiveLayoutId);
+  const pendingGardenLayout = useStore((s) => s.pendingGardenLayout);
+  const setPendingGardenLayout = useStore((s) => s.setPendingGardenLayout);
+  const [searchParams] = useSearchParams();
 
   const [bedSize, setBedSize] = useState(/** @type {GardenBedSize} */ ('4x4'));
   const [layout, setLayout] = useState(() => createEmptyLayout('4x4', t('garden.defaultName')));
@@ -40,6 +45,33 @@ export default function GardenPlanner() {
   const [selectedCell, setSelectedCell] = useState(null);
   const [activeDragPlant, setActiveDragPlant] = useState(null);
   const [hints, setHints] = useState([]);
+  const [prefillApplied, setPrefillApplied] = useState(false);
+
+  useEffect(() => {
+    if (prefillApplied) return;
+    if (pendingGardenLayout) {
+      setLayout(pendingGardenLayout);
+      setBedSize(pendingGardenLayout.bedSize);
+      setActiveLayoutId(pendingGardenLayout.id);
+      setPendingGardenLayout(null);
+      setHints([]);
+      setPrefillApplied(true);
+      return;
+    }
+    if (searchParams.get('prefill') === 'three-sisters') {
+      const ts = companionsData.threeSisters;
+      const prefilled = createThreeSistersLayout(
+        ts.corn.plantId,
+        ts.beans.plantId,
+        ts.squash.plantId,
+        t('companions.threeSistersLayoutName')
+      );
+      setLayout(prefilled);
+      setBedSize('4x4');
+      setHints([]);
+      setPrefillApplied(true);
+    }
+  }, [pendingGardenLayout, searchParams, setActiveLayoutId, setPendingGardenLayout, t, prefillApplied]);
 
   const { rows, cols } = getBedDimensions(layout.bedSize);
 

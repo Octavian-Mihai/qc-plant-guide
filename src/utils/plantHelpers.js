@@ -8,6 +8,7 @@
 /** @typedef {import('../types').SoilTestResult} SoilTestResult */
 
 import { matchSoilCompatibility, getSoilMatchScore } from '../services/soilMatcher';
+import companionData from '../data/companions.json';
 
 const ORIGIN_ORDER = { 'native-qc': 0, adaptive: 1, 'fruit-bearing': 2, introduced: 3 };
 
@@ -29,6 +30,7 @@ export function filterPlants(plants, filters) {
     if (query) {
       const haystack = [
         plant.name,
+        plant.nameFr,
         plant.scientificName,
         plant.description,
         ...(plant.tags || []),
@@ -145,10 +147,10 @@ export function sortPlants(plants, query = '', soilTestResult = null) {
 }
 
 function nameMatchScore(plant, query) {
-  const name = plant.name.toLowerCase();
-  if (name === query) return 100;
-  if (name.startsWith(query)) return 80;
-  if (name.includes(query)) return 50;
+  const names = [plant.name, plant.nameFr].filter(Boolean).map((n) => n.toLowerCase());
+  if (names.some((n) => n === query)) return 100;
+  if (names.some((n) => n.startsWith(query))) return 80;
+  if (names.some((n) => n.includes(query))) return 50;
   return 0;
 }
 
@@ -214,6 +216,12 @@ export function getPlantDescription(plant, locale) {
   return plant.description;
 }
 
+/** Localized common name; falls back to English `name`. */
+export function getPlantName(plant, locale) {
+  if (locale === 'fr' && plant?.nameFr) return plant.nameFr;
+  return plant?.name || '';
+}
+
 /** @param {Plant} plant @param {'en'|'fr'} locale @param {Function} t */
 export function getPlantAttributeChips(plant, locale, t) {
   const chips = [];
@@ -226,12 +234,138 @@ export function getPlantAttributeChips(plant, locale, t) {
   return chips;
 }
 
-/** @param {string} plantId @param {Plant[]} plants @param {Plant} placed */
+/**
+ * Find a companions.json rule for a pair (order-independent).
+ * @param {string} idA
+ * @param {string} idB
+ * @param {import('../types').CompanionRule[]} [rules]
+ */
+function findCompanionRule(idA, idB, rules = companionData.rules) {
+  return rules.find(
+    (r) =>
+      (r.plantA === idA && r.plantB === idB) ||
+      (r.plantA === idB && r.plantB === idA)
+  );
+}
+
+/**
+ * Bidirectional companion pair with optional rule reason.
+ * Good if A lists B, B lists A, or a rule says good.
+ * Avoid if either side lists the other in avoidIds or a rule says bad.
+ * Avoid wins over good when both apply.
+ * @param {Plant|string} plantA
+ * @param {Plant|string} plantB
+ * @param {Plant[]} plants
+ * @param {import('../types').CompanionRule[]} [rules]
+ * @returns {{ status: 'good'|'bad'|'neutral', reasonEn: string, reasonFr: string }}
+ */
+export function getCompanionPair(plantA, plantB, plants, rules = companionData.rules) {
+  const empty = { status: /** @type {const} */ ('neutral'), reasonEn: '', reasonFr: '' };
+  const resolve = (ref) => {
+    if (!ref) return null;
+    if (typeof ref === 'string') return plants.find((p) => p.id === ref) || { id: ref, companionIds: [], avoidIds: [] };
+    return ref;
+  };
+  const a = resolve(plantA);
+  const b = resolve(plantB);
+  if (!a?.id || !b?.id || a.id === b.id) return empty;
+
+  const rule = findCompanionRule(a.id, b.id, rules);
+  const listedAvoid =
+    a.avoidIds?.includes(b.id) || b.avoidIds?.includes(a.id) || rule?.relationship === 'bad';
+  const listedGood =
+    a.companionIds?.includes(b.id) || b.companionIds?.includes(a.id) || rule?.relationship === 'good';
+
+  if (listedAvoid) {
+    return {
+      status: 'bad',
+      reasonEn: rule?.reasonEn || '',
+      reasonFr: rule?.reasonFr || '',
+    };
+  }
+  if (listedGood) {
+    return {
+      status: 'good',
+      reasonEn: rule?.reasonEn || '',
+      reasonFr: rule?.reasonFr || '',
+    };
+  }
+  return empty;
+}
+
+/**
+ * Bidirectional companion status for garden planner and matrix.
+ * @param {string} plantId
+ * @param {Plant[]} plants
+ * @param {Plant} placed
+ */
 export function getCompanionStatus(plantId, plants, placed) {
   if (!placed || placed.id === plantId) return 'neutral';
-  if (placed.companionIds?.includes(plantId)) return 'good';
-  if (placed.avoidIds?.includes(plantId)) return 'bad';
-  return 'neutral';
+  return getCompanionPair(placed, plantId, plants).status;
+}
+
+const MONTH_KEYS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
+
+/** @param {string} periodStr @returns {string[]} month keys such as 'jul' */
+export function getBloomMonthKeys(periodStr) {
+  if (!periodStr || periodStr.toLowerCase() === 'n/a' || periodStr === '—') return [];
+
+  const monthMap = {
+    jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
+    jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11,
+    january: 0, february: 1, march: 2, april: 3, june: 5,
+    july: 6, august: 7, september: 8, october: 9, november: 10, december: 11,
+  };
+
+  const parts = periodStr.split(/[-–—to]+/i).map((p) => p.trim().toLowerCase());
+  const months = parts
+    .map((p) => {
+      const key = Object.keys(monthMap).find((k) => p.startsWith(k));
+      return key ? monthMap[key] : null;
+    })
+    .filter((m) => m !== null);
+
+  if (months.length === 0) return [];
+  if (months.length === 1) return [MONTH_KEYS[months[0]]];
+
+  const [start, end] = months;
+  const keys = [];
+  let cur = start;
+  for (let i = 0; i < 12; i++) {
+    keys.push(MONTH_KEYS[cur]);
+    if (cur === end) break;
+    cur = (cur + 1) % 12;
+  }
+  return keys;
+}
+
+/**
+ * Prefill a 4×4 Three Sisters bed: squash at corners, corn in the center, beans around corn.
+ * @param {string} cornId
+ * @param {string} beansId
+ * @param {string} squashId
+ * @param {string} name
+ * @returns {import('../types').GardenLayout}
+ */
+export function createThreeSistersLayout(cornId, beansId, squashId, name) {
+  const bedSize = /** @type {const} */ ('4x4');
+  const pattern = [
+    [squashId, beansId, beansId, squashId],
+    [beansId, cornId, cornId, beansId],
+    [beansId, cornId, cornId, beansId],
+    [squashId, beansId, beansId, squashId],
+  ];
+  const cells = [];
+  for (let r = 0; r < 4; r++) {
+    for (let c = 0; c < 4; c++) {
+      cells.push({ row: r, col: c, plantId: pattern[r][c] });
+    }
+  }
+  const now = new Date().toISOString();
+  const id = typeof crypto !== 'undefined' && crypto.randomUUID
+    ? crypto.randomUUID()
+    : `three-sisters-${now}`;
+  return { id, name, bedSize, cells, createdAt: now, updatedAt: now };
 }
 
 /** @param {import('../types').GardenBedSize} bedSize */

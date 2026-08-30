@@ -34,28 +34,233 @@
       "relationship": "good",
       "reasonEn": "Milkweed and Black-Eyed Susan both support monarch butterflies.",
       "reasonFr": "L'asclépiade et le rudbeckie soutiennent tous deux les papillons monarques."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "relationship": "bad",
+      "reasonEn": "Juglone from Black Walnut roots and leaf litter is toxic to apple trees.",
+      "reasonFr": "La juglone des racines et de la litière du noyer noir est toxique pour les pommiers."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "614de45e-b116-4380-9357-5b9913087ea8",
+      "relationship": "bad",
+      "reasonEn": "McIntosh and other apples decline in the juglone zone of Black Walnut.",
+      "reasonFr": "Le McIntosh et les autres pommiers déclinent dans la zone de juglone du noyer noir."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "f583b277-6361-427d-bf07-09d08bca91e2",
+      "relationship": "bad",
+      "reasonEn": "Pears are highly sensitive to walnut juglone; keep them well outside the drip line.",
+      "reasonFr": "Les poiriers sont très sensibles à la juglone; tenez-les hors de la zone racinaire."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "2a577c81-2112-4c2b-972d-b579632c53d9",
+      "relationship": "bad",
+      "reasonEn": "Cherry trees suffer dieback when planted near Black Walnut.",
+      "reasonFr": "Les cerisiers dépérissent près du noyer noir."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "relationship": "bad",
+      "reasonEn": "Blueberries are juglone-sensitive and also need acidic soil walnuts do not provide.",
+      "reasonFr": "Les bleuets sont sensibles à la juglone et ont besoin d'un sol acide que le noyer n'offre pas."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "3b459759-45fe-43f0-9324-495005c76b4d",
+      "relationship": "bad",
+      "reasonEn": "Lowbush blueberry fails in juglone-affected soil under Black Walnut.",
+      "reasonFr": "Le bleuet nain échoue dans un sol contaminé par la juglone sous le noyer noir."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "53e01557-1740-4f69-95ef-cceac625b46f",
+      "relationship": "bad",
+      "reasonEn": "Grapevines are injured by walnut juglone in the root zone.",
+      "reasonFr": "Les vignes sont endommagées par la juglone dans la zone racinaire du noyer."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "relationship": "good",
+      "reasonEn": "White Pine is relatively juglone-tolerant and can share a woodland edge with Black Walnut.",
+      "reasonFr": "Le pin blanc tolère relativement la juglone et peut cohabiter en lisière avec le noyer noir."
+    },
+    {
+      "plantA": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "plantB": "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "relationship": "bad",
+      "reasonEn": "Sunflower leachates inhibit low groundcovers such as Wild Strawberry.",
+      "reasonFr": "Les exsudats du tournesol inhibent les couvre-sols bas comme le fraisier sauvage."
+    },
+    {
+      "plantA": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "plantB": "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "relationship": "bad",
+      "reasonEn": "Bunchberry is a small woodland perennial easily suppressed by sunflower allelopathy.",
+      "reasonFr": "Le quatre-temps, petite vivace forestière, est facilement inhibé par le tournesol."
+    },
+    {
+      "plantA": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "plantB": "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "relationship": "bad",
+      "reasonEn": "Sedum and other compact perennials grow poorly beside allelopathic sunflowers.",
+      "reasonFr": "Les sédums et autres vivaces compactes poussent mal à côté des tournesols allélopathiques."
+    },
+    {
+      "plantA": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "plantB": "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "relationship": "bad",
+      "reasonEn": "Sunflower allelopathy can stunt nearby corn; keep sunflowers on the bed edge, not in the sisters mound.",
+      "reasonFr": "L'allélopathie du tournesol peut rabougrir le maïs; gardez-le en bordure, pas dans le monticule des sœurs."
+    },
+    {
+      "plantA": "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "plantB": "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "relationship": "bad",
+      "reasonEn": "Russian Sage prefers alkaline, dry soil; Highbush Blueberry needs acidic, moist organic soil.",
+      "reasonFr": "La sauge de Russie préfère un sol alcalin et sec; le bleuet en corymbe exige un sol acide et humide."
+    },
+    {
+      "plantA": "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "plantB": "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+      "relationship": "good",
+      "reasonEn": "Pole beans climb corn and fix nitrogen the corn will use — classic Three Sisters pairing.",
+      "reasonFr": "Les haricots à rames grimpent sur le maïs et fixent l'azote — pairing classique des trois sœurs."
+    },
+    {
+      "plantA": "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "plantB": "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074",
+      "relationship": "good",
+      "reasonEn": "Squash leaves shade soil at the base of corn, conserving moisture and suppressing weeds.",
+      "reasonFr": "Les feuilles de courge ombragent le pied du maïs, conservent l'humidité et étouffent les adventices."
+    },
+    {
+      "plantA": "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+      "plantB": "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074",
+      "relationship": "good",
+      "reasonEn": "Beans feed squash with nitrogen while squash mulches the bean roots.",
+      "reasonFr": "Les haricots nourrissent la courge en azote tandis que la courge paillis les racines des haricots."
+    },
+    {
+      "plantA": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "plantB": "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "relationship": "good",
+      "reasonEn": "Serviceberry and Wild Rose bloom in sequence and both feed native bees and birds.",
+      "reasonFr": "L'amélanchier et le rosier sauvage fleurissent en séquence et nourrissent abeilles et oiseaux."
+    },
+    {
+      "plantA": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "plantB": "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "relationship": "good",
+      "reasonEn": "Serviceberry spring bloom plus Highbush Cranberry fall fruit stretch wildlife food across the season.",
+      "reasonFr": "La floraison printanière de l'amélanchier et les fruits d'automne de la viorne étirent la nourriture pour la faune."
+    },
+    {
+      "plantA": "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "plantB": "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "relationship": "good",
+      "reasonEn": "Wild Strawberry carpets spring; Black-Eyed Susan takes the summer meadow overlay.",
+      "reasonFr": "Le fraisier sauvage tapisse le printemps; le rudbeckie prend le relais en été."
+    },
+    {
+      "plantA": "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "plantB": "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "relationship": "good",
+      "reasonEn": "Aster and Goldenrod provide sequential late-season nectar before Quebec frost.",
+      "reasonFr": "L'aster et la verge d'or offrent un nectar tardif en séquence avant les gelées québécoises."
+    },
+    {
+      "plantA": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "plantB": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "relationship": "good",
+      "reasonEn": "Serviceberry as orchard understory shares bloom time and pollinators with apple.",
+      "reasonFr": "L'amélanchier en sous-étage de verger partage floraison et pollinisateurs avec le pommier."
+    },
+    {
+      "plantA": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "plantB": "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "relationship": "good",
+      "reasonEn": "Coneflower draws pollinators into the apple understory through summer.",
+      "reasonFr": "L'échinacée attire les pollinisateurs dans le sous-étage du pommier tout l'été."
+    },
+    {
+      "plantA": "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "plantB": "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "relationship": "good",
+      "reasonEn": "June strawberries fruit first; raspberries follow in the same berry patch.",
+      "reasonFr": "Les fraises de juin fructifient d'abord; les framboises suivent dans le même carré."
+    },
+    {
+      "plantA": "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "plantB": "53e01557-1740-4f69-95ef-cceac625b46f",
+      "relationship": "good",
+      "reasonEn": "Raspberries and grapes can share a sunny berry row if trellised with adequate spacing.",
+      "reasonFr": "Framboisiers et vignes peuvent partager une rangée ensoleillée avec un palissage espacé."
+    },
+    {
+      "plantA": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "plantB": "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "relationship": "good",
+      "reasonEn": "Balsam Fir is among the more juglone-tolerant evergreens for a walnut woodland edge.",
+      "reasonFr": "Le sapin baumier est parmi les conifères les plus tolérants à la juglone en lisière de noyer."
     }
   ],
   "allelopathic": [
     {
       "id": "black-walnut",
+      "plantId": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
       "nameEn": "Black Walnut",
       "nameFr": "Noyer noir",
-      "effectEn": "Releases juglone, toxic to tomatoes, potatoes, and many other plants within its root zone.",
-      "effectFr": "Libère de la juglone, toxique pour les tomates, pommes de terre et de nombreuses autres plantes dans sa zone racinaire."
+      "effectEn": "Releases juglone, toxic to fruit trees, blueberries, grapes, and many other plants within its root zone.",
+      "effectFr": "Libère de la juglone, toxique pour les fruitiers, bleuets, vignes et de nombreuses autres plantes dans sa zone racinaire."
     },
     {
       "id": "sunflower",
+      "plantId": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
       "nameEn": "Sunflower",
       "nameFr": "Tournesol",
-      "effectEn": "Allelopathic compounds can inhibit growth of nearby plants; plant at garden edges.",
-      "effectFr": "Des composés allélopathiques peuvent inhiber la croissance des plantes voisines; planter en bordure."
+      "effectEn": "Allelopathic compounds can inhibit growth of nearby small perennials and strawberries; plant at garden edges.",
+      "effectFr": "Des composés allélopathiques peuvent inhiber les petites vivaces et fraisiers voisins; planter en bordure."
     }
   ],
   "threeSisters": {
-    "corn": { "nameEn": "Corn", "nameFr": "Maïs", "roleEn": "Provides structure for beans to climb", "roleFr": "Fournit une structure pour que les haricots grimpent" },
-    "beans": { "nameEn": "Beans", "nameFr": "Haricots", "roleEn": "Fix nitrogen in soil for corn and squash", "roleFr": "Fixe l'azote dans le sol pour le maïs et la courge" },
-    "squash": { "nameEn": "Squash", "nameFr": "Courge", "roleEn": "Large leaves shade soil and suppress weeds", "roleFr": "Grandes feuilles ombragent le sol et suppriment les mauvaises herbes" }
+    "noteEn": "Indigenous polyculture adapted to a short Quebec season: plant after May 10, harvest before October 10.",
+    "noteFr": "Polyculture autochtone adaptée à la courte saison québécoise : planter après le 10 mai, récolter avant le 10 octobre.",
+    "timingEn": "Plant after May 10 · Harvest before Oct 10",
+    "timingFr": "Planter après le 10 mai · Récolter avant le 10 oct.",
+    "corn": {
+      "plantId": "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "nameEn": "Corn",
+      "nameFr": "Maïs",
+      "roleEn": "Provides structure for beans to climb",
+      "roleFr": "Fournit une structure pour que les haricots grimpent",
+      "timingEn": "Direct-sow after May 10 in blocks; pick ears before Oct 10 frost.",
+      "timingFr": "Semer en blocs après le 10 mai; récolter les épis avant le gel du 10 oct."
+    },
+    "beans": {
+      "plantId": "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+      "nameEn": "Pole Beans",
+      "nameFr": "Haricots à rames",
+      "roleEn": "Fix nitrogen in soil for corn and squash",
+      "roleFr": "Fixent l'azote dans le sol pour le maïs et la courge",
+      "timingEn": "Sow after May 10 once nights stay above 10°C; harvest through September.",
+      "timingFr": "Semer après le 10 mai quand les nuits restent au-dessus de 10 °C; récolter jusqu'en septembre."
+    },
+    "squash": {
+      "plantId": "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074",
+      "nameEn": "Winter Squash",
+      "nameFr": "Courge d'hiver",
+      "roleEn": "Large leaves shade soil and suppress weeds",
+      "roleFr": "Grandes feuilles ombragent le sol et suppriment les mauvaises herbes",
+      "timingEn": "Transplant after May 10; cure fruit before the Oct 10 frost window.",
+      "timingFr": "Transplanter après le 10 mai; sécher les fruits avant la fenêtre de gel du 10 oct."
+    }
   },
   "pollinatorCombos": [
     {
@@ -73,17 +278,117 @@
       "plantIds": ["cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3", "444cacbe-ec37-4760-ae88-35b3e205b244", "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"],
       "descriptionEn": "Butterfly Milkweed, Black-Eyed Susan, and Coneflower support monarchs and other butterflies.",
       "descriptionFr": "L'asclépiade, le rudbeckie et l'échinacée soutiennent les monarques et autres papillons."
+    },
+    {
+      "id": "spring-birds",
+      "nameEn": "Spring Birds and Bees",
+      "nameFr": "Oiseaux et abeilles du printemps",
+      "plantIds": ["7287f6c9-bacf-42e9-8e7c-4645b5444d0d", "431a72d4-e3fb-4f47-a5c3-8bb90b096424", "3f504319-4837-4c91-93c4-d9c800fe6c62"],
+      "descriptionEn": "Serviceberry, Wild Rose, and Highbush Cranberry feed native bees in spring and birds on fruit through fall.",
+      "descriptionFr": "L'amélanchier, le rosier sauvage et la viorne nourrissent les abeilles au printemps et les oiseaux jusqu'à l'automne."
     }
   ],
   "successionChains": [
     {
-      "id": "spring-summer",
-      "nameEn": "Spring to Summer Succession",
-      "nameFr": "Succession printemps-été",
+      "id": "native-meadow",
+      "nameEn": "Native Meadow",
+      "nameFr": "Prairie native",
       "steps": [
-        { "seasonEn": "Early Spring", "seasonFr": "Début printemps", "cropEn": "Lettuce & Peas", "cropFr": "Laitue et pois", "weeksEn": "Weeks 1–4 after last frost", "weeksFr": "Semaines 1–4 après la dernière gelée" },
-        { "seasonEn": "Late Spring", "seasonFr": "Fin printemps", "cropEn": "Beans & Squash", "cropFr": "Haricots et courge", "weeksEn": "Weeks 5–8", "weeksFr": "Semaines 5–8" },
-        { "seasonEn": "Fall", "seasonFr": "Automne", "cropEn": "Cover Crop (Clover)", "cropFr": "Culture de couverture (trèfle)", "weeksEn": "After harvest", "weeksFr": "Après la récolte" }
+        {
+          "seasonEn": "Spring",
+          "seasonFr": "Printemps",
+          "cropEn": "Wild Strawberry",
+          "cropFr": "Fraisier sauvage",
+          "weeksEn": "Bloom and fruit Apr–Jun",
+          "weeksFr": "Floraison et fruits avr.–juin",
+          "plantIds": ["b98fe248-e432-4c0a-93ed-0e228f946c62"]
+        },
+        {
+          "seasonEn": "Summer",
+          "seasonFr": "Été",
+          "cropEn": "Black-Eyed Susan / Bergamot",
+          "cropFr": "Rudbeckie / Monarde",
+          "weeksEn": "Peak nectar Jul–Aug",
+          "weeksFr": "Nectar maximal juil.–août",
+          "plantIds": ["444cacbe-ec37-4760-ae88-35b3e205b244", "9b809faa-6b1e-4f51-940b-1a932f31bb8c"]
+        },
+        {
+          "seasonEn": "Fall",
+          "seasonFr": "Automne",
+          "cropEn": "Aster + Goldenrod",
+          "cropFr": "Aster + Verge d'or",
+          "weeksEn": "Late nectar until frost",
+          "weeksFr": "Nectar tardif jusqu'au gel",
+          "plantIds": ["f106c2b6-23e5-4c59-850f-97a03236f314", "550cc286-54cd-49c4-9374-85b5aa6ea2e7"]
+        }
+      ]
+    },
+    {
+      "id": "berry-patch",
+      "nameEn": "Berry Patch",
+      "nameFr": "Carré de petits fruits",
+      "steps": [
+        {
+          "seasonEn": "Early summer",
+          "seasonFr": "Début d'été",
+          "cropEn": "June-bearing strawberry",
+          "cropFr": "Fraisier de juin",
+          "weeksEn": "Harvest June",
+          "weeksFr": "Récolte en juin",
+          "plantIds": ["dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1"]
+        },
+        {
+          "seasonEn": "Mid-summer",
+          "seasonFr": "Mi-été",
+          "cropEn": "Raspberry",
+          "cropFr": "Framboisier",
+          "weeksEn": "Harvest July–August",
+          "weeksFr": "Récolte juil.–août",
+          "plantIds": ["81ba5df9-dcbf-43c7-b0fd-ddef50115564"]
+        },
+        {
+          "seasonEn": "Fall",
+          "seasonFr": "Automne",
+          "cropEn": "Grape",
+          "cropFr": "Vigne",
+          "weeksEn": "Concord/Valiant fruit before Oct frost",
+          "weeksFr": "Fruits Concord/Valiant avant le gel d'oct.",
+          "plantIds": ["53e01557-1740-4f69-95ef-cceac625b46f"]
+        }
+      ]
+    },
+    {
+      "id": "orchard-understory",
+      "nameEn": "Fruit Tree Understory",
+      "nameFr": "Sous-étage de verger",
+      "steps": [
+        {
+          "seasonEn": "Spring bloom",
+          "seasonFr": "Floraison printanière",
+          "cropEn": "Apple + Serviceberry",
+          "cropFr": "Pommier + Amélanchier",
+          "weeksEn": "Shared pollinators Apr–May",
+          "weeksFr": "Pollinisateurs partagés avr.–mai",
+          "plantIds": ["4d157882-62b3-4d2c-ad67-59eaa172fbcb", "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"]
+        },
+        {
+          "seasonEn": "Summer",
+          "seasonFr": "Été",
+          "cropEn": "Coneflower",
+          "cropFr": "Échinacée",
+          "weeksEn": "Pollinator draw Jul–Sep",
+          "weeksFr": "Attractif juil.–sep.",
+          "plantIds": ["2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"]
+        },
+        {
+          "seasonEn": "Fall fruit",
+          "seasonFr": "Fruits d'automne",
+          "cropEn": "Highbush Cranberry",
+          "cropFr": "Viorne trilobée",
+          "weeksEn": "Wildlife fruit Aug–Oct",
+          "weeksFr": "Fruits pour la faune août–oct.",
+          "plantIds": ["3f504319-4837-4c91-93c4-d9c800fe6c62"]
+        }
       ]
     }
   ]

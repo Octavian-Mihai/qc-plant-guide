@@ -1,5 +1,7 @@
 import { useDraggable } from '@dnd-kit/core';
 import useStore from '../../store/useStore';
+import { useTranslation } from '../../i18n/useTranslation';
+import { getPlantName } from '../../utils/plantHelpers';
 
 const CATEGORY_EMOJI = {
   tree: '🌳',
@@ -10,6 +12,8 @@ const CATEGORY_EMOJI = {
   vine: '🌱',
   groundcover: '🍃',
   evergreen: '🌲',
+  vegetable: '🌽',
+  annual: '🌻',
 };
 
 function getPlantEmoji(plant) {
@@ -18,6 +22,7 @@ function getPlantEmoji(plant) {
 }
 
 function DraggablePlant({ plant }) {
+  const { locale } = useTranslation();
   const { attributes, listeners, setNodeRef, isDragging } = useDraggable({
     id: `palette-${plant.id}`,
     data: { plantId: plant.id },
@@ -33,17 +38,22 @@ function DraggablePlant({ plant }) {
       }`}
     >
       <span className="text-lg">{getPlantEmoji(plant)}</span>
-      <span className="truncate font-medium">{plant.name}</span>
+      <span className="truncate font-medium">{getPlantName(plant, locale)}</span>
     </div>
   );
 }
 
 /** Searchable draggable plant list for garden planner. */
 export default function PlantPalette({ search, onSearchChange }) {
+  const { locale } = useTranslation();
   const filteredPlants = useStore((s) => s.filteredPlants);
   const query = search.toLowerCase();
   const plants = query
-    ? filteredPlants.filter((p) => p.name.toLowerCase().includes(query))
+    ? filteredPlants.filter((p) =>
+        getPlantName(p, locale).toLowerCase().includes(query)
+        || p.name.toLowerCase().includes(query)
+        || (p.nameFr || '').toLowerCase().includes(query)
+      )
     : filteredPlants.slice(0, 20);
 
   return (

@@ -46,6 +46,7 @@ export interface TroubleshootingItem {
 export interface Plant {
   id: string;
   name: string;
+  nameFr?: string;
   scientificName: string;
   description: string;
   descriptionFr?: string;

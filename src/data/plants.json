@@ -2,6 +2,7 @@
   {
     "id": "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
     "name": "Sugar Maple",
+    "nameFr": "Érable à sucre",
     "scientificName": "Acer saccharum",
     "origin": "native-qc",
     "isNative": true,
@@ -68,13 +69,19 @@
     "companionIds": [
       "f28bb77d-509e-47c6-8839-96fae5e5c849",
       "900ac3c3-a487-4b81-a806-2e90b28ea69b",
-      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "f28bb77d-509e-47c6-8839-96fae5e5c849",
     "name": "Red Oak",
+    "nameFr": "Chêne rouge",
     "scientificName": "Quercus rubra",
     "origin": "native-qc",
     "isNative": true,
@@ -140,13 +147,19 @@
     "saltTolerant": false,
     "companionIds": [
       "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
-      "900ac3c3-a487-4b81-a806-2e90b28ea69b"
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "3b459759-45fe-43f0-9324-495005c76b4d",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "900ac3c3-a487-4b81-a806-2e90b28ea69b",
     "name": "White Pine",
+    "nameFr": "Pin blanc",
     "scientificName": "Pinus strobus",
     "origin": "native-qc",
     "isNative": true,
@@ -212,13 +225,21 @@
     "saltTolerant": false,
     "companionIds": [
       "f28bb77d-509e-47c6-8839-96fae5e5c849",
-      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e"
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "3b459759-45fe-43f0-9324-495005c76b4d",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "ac014d84-3672-4d0f-a4fe-318f9eb60706",
     "name": "Balsam Fir",
+    "nameFr": "Sapin baumier",
     "scientificName": "Abies balsamea",
     "origin": "native-qc",
     "isNative": true,
@@ -284,13 +305,19 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "046855b9-ffe1-43e5-bf98-c1b3a255327f"
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "046855b9-ffe1-43e5-bf98-c1b3a255327f",
     "name": "Paper Birch",
+    "nameFr": "Bouleau à papier",
     "scientificName": "Betula papyrifera",
     "origin": "native-qc",
     "isNative": true,
@@ -357,13 +384,20 @@
     "saltTolerant": false,
     "companionIds": [
       "ac014d84-3672-4d0f-a4fe-318f9eb60706",
-      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "3b1dc978-3915-4edb-ba74-6e499eb62458",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "3b1dc978-3915-4edb-ba74-6e499eb62458",
     "name": "Trembling Aspen",
+    "nameFr": "Peuplier faux-tremble",
     "scientificName": "Populus tremuloides",
     "origin": "native-qc",
     "isNative": true,
@@ -429,13 +463,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
     "name": "Red Osier Dogwood",
+    "nameFr": "Cornouiller stolonifère",
     "scientificName": "Cornus sericea",
     "origin": "native-qc",
     "isNative": true,
@@ -503,13 +542,22 @@
     "saltTolerant": true,
     "companionIds": [
       "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
-      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "3b1dc978-3915-4edb-ba74-6e499eb62458",
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "73968cc9-761b-476b-9286-866e160eeedd",
     "name": "Staghorn Sumac",
+    "nameFr": "Sumac vinaigrier",
     "scientificName": "Rhus typhina",
     "origin": "native-qc",
     "isNative": true,
@@ -580,13 +628,21 @@
     "deerResistant": true,
     "saltTolerant": true,
     "companionIds": [
-      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d"
+    ]
   },
   {
     "id": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
     "name": "Serviceberry",
+    "nameFr": "Amélanchier",
     "scientificName": "Amelanchier canadensis",
     "origin": "native-qc",
     "isNative": true,
@@ -654,13 +710,28 @@
     "saltTolerant": false,
     "companionIds": [
       "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
-      "1dbc59bf-df59-4599-99c5-578ffdf2dce9"
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "3b1dc978-3915-4edb-ba74-6e499eb62458",
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
+      "719a15c0-3cf4-451c-9723-31e155909ffd",
+      "614de45e-b116-4380-9357-5b9913087ea8",
+      "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "1f89fa64-d689-4cbe-8200-ef310eed61e2",
     "name": "Chokecherry",
+    "nameFr": "Cerisier de Virginie",
     "scientificName": "Prunus virginiana",
     "origin": "native-qc",
     "isNative": true,
@@ -728,13 +799,19 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "3f504319-4837-4c91-93c4-d9c800fe6c62",
     "name": "Highbush Cranberry",
+    "nameFr": "Pimbina",
     "scientificName": "Viburnum trilobum",
     "origin": "native-qc",
     "isNative": true,
@@ -802,13 +879,20 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "fdd78bd7-294a-449b-901a-5d5668f86fb1",
     "name": "Nannyberry",
+    "nameFr": "Viorne flexible",
     "scientificName": "Viburnum lentago",
     "origin": "native-qc",
     "isNative": true,
@@ -876,13 +960,20 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
     "name": "Wild Rose",
+    "nameFr": "Rosier sauvage",
     "scientificName": "Rosa acicularis",
     "origin": "native-qc",
     "isNative": true,
@@ -954,13 +1045,22 @@
     "saltTolerant": false,
     "companionIds": [
       "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
-      "1f89fa64-d689-4cbe-8200-ef310eed61e2"
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "73968cc9-761b-476b-9286-866e160eeedd",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+      "ab0e156d-9de4-477b-82d7-08bd0e887a42"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
     "name": "Blue Flag Iris",
+    "nameFr": "Iris versicolore",
     "scientificName": "Iris versicolor",
     "origin": "native-qc",
     "isNative": true,
@@ -1027,13 +1127,22 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "baa6dadd-9773-4b8b-8343-e94297023cf9"
+      "baa6dadd-9773-4b8b-8343-e94297023cf9",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
+      "73968cc9-761b-476b-9286-866e160eeedd",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "baa6dadd-9773-4b8b-8343-e94297023cf9",
     "name": "Cardinal Flower",
+    "nameFr": "Lobélie cardinale",
     "scientificName": "Lobelia cardinalis",
     "origin": "native-qc",
     "isNative": true,
@@ -1100,13 +1209,19 @@
     "saltTolerant": false,
     "companionIds": [
       "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
-      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
     "name": "Joe-Pye Weed",
+    "nameFr": "Eupatoire maculée",
     "scientificName": "Eutrochium maculatum",
     "origin": "native-qc",
     "isNative": true,
@@ -1176,13 +1291,22 @@
     "saltTolerant": false,
     "companionIds": [
       "f106c2b6-23e5-4c59-850f-97a03236f314",
-      "550cc286-54cd-49c4-9374-85b5aa6ea2e7"
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "baa6dadd-9773-4b8b-8343-e94297023cf9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d"
+    ]
   },
   {
     "id": "444cacbe-ec37-4760-ae88-35b3e205b244",
     "name": "Black-Eyed Susan",
+    "nameFr": "Rudbeckie hérissée",
     "scientificName": "Rudbeckia hirta",
     "origin": "native-qc",
     "isNative": true,
@@ -1249,13 +1373,22 @@
     "saltTolerant": true,
     "companionIds": [
       "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
-      "550cc286-54cd-49c4-9374-85b5aa6ea2e7"
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "73968cc9-761b-476b-9286-866e160eeedd",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
     "name": "Wild Bergamot",
+    "nameFr": "Monarde fistuleuse",
     "scientificName": "Monarda fistulosa",
     "origin": "native-qc",
     "isNative": true,
@@ -1329,13 +1462,25 @@
     "companionIds": [
       "f106c2b6-23e5-4c59-850f-97a03236f314",
       "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
-      "baa6dadd-9773-4b8b-8343-e94297023cf9"
+      "baa6dadd-9773-4b8b-8343-e94297023cf9",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "73968cc9-761b-476b-9286-866e160eeedd",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "3b459759-45fe-43f0-9324-495005c76b4d",
+      "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
+      "15c67328-c841-4c1b-886a-59c8f94166fb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
     "name": "Butterfly Milkweed",
+    "nameFr": "Asclépiade tubéreuse",
     "scientificName": "Asclepias tuberosa",
     "origin": "native-qc",
     "isNative": true,
@@ -1402,13 +1547,20 @@
     "saltTolerant": false,
     "companionIds": [
       "444cacbe-ec37-4760-ae88-35b3e205b244",
-      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "f106c2b6-23e5-4c59-850f-97a03236f314",
     "name": "New England Aster",
+    "nameFr": "Aster de Nouvelle-Angleterre",
     "scientificName": "Symphyotrichum novae-angliae",
     "origin": "native-qc",
     "isNative": true,
@@ -1477,13 +1629,19 @@
     "companionIds": [
       "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
       "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
-      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
     "name": "Goldenrod",
+    "nameFr": "Verge d'or",
     "scientificName": "Solidago canadensis",
     "origin": "native-qc",
     "isNative": true,
@@ -1553,13 +1711,20 @@
     "companionIds": [
       "f106c2b6-23e5-4c59-850f-97a03236f314",
       "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
-      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "73968cc9-761b-476b-9286-866e160eeedd"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
     "name": "Virginia Creeper",
+    "nameFr": "Vigne vierge",
     "scientificName": "Parthenocissus quinquefolia",
     "origin": "native-qc",
     "isNative": true,
@@ -1626,13 +1791,18 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "b98fe248-e432-4c0a-93ed-0e228f946c62"
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "b98fe248-e432-4c0a-93ed-0e228f946c62",
     "name": "Wild Strawberry",
+    "nameFr": "Fraisier des champs",
     "scientificName": "Fragaria virginiana",
     "origin": "native-qc",
     "isNative": true,
@@ -1702,13 +1872,23 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb"
+      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "689826db-a9c0-4324-9220-f6cfbda050e4"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "3b459759-45fe-43f0-9324-495005c76b4d",
     "name": "Lowbush Blueberry",
+    "nameFr": "Bleuet nain",
     "scientificName": "Vaccinium angustifolium",
     "origin": "native-qc",
     "isNative": true,
@@ -1779,13 +1959,23 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "719a15c0-3cf4-451c-9723-31e155909ffd",
+      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
     "name": "Bunchberry",
+    "nameFr": "Quatre-temps",
     "scientificName": "Cornus canadensis",
     "origin": "native-qc",
     "isNative": true,
@@ -1851,12 +2041,24 @@
     "droughtTolerant": false,
     "deerResistant": true,
     "saltTolerant": false,
-    "companionIds": [],
-    "avoidIds": []
+    "companionIds": [
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "3b459759-45fe-43f0-9324-495005c76b4d"
+    ],
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "719a15c0-3cf4-451c-9723-31e155909ffd",
     "name": "Haskap",
+    "nameFr": "Camérisier",
     "scientificName": "Lonicera caerulea",
     "origin": "adaptive",
     "isNative": false,
@@ -1926,13 +2128,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "3b459759-45fe-43f0-9324-495005c76b4d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "1cb66fef-54f8-407e-9329-ee086fee74a9",
     "name": "Hardy Kiwi",
+    "nameFr": "Kiwi rustique",
     "scientificName": "Actinidia arguta",
     "origin": "adaptive",
     "isNative": false,
@@ -1996,13 +2203,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "53e01557-1740-4f69-95ef-cceac625b46f"
+      "53e01557-1740-4f69-95ef-cceac625b46f",
+      "311e8c99-481d-415f-8594-995150991321"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
     "name": "Sea Buckthorn",
+    "nameFr": "Argousier",
     "scientificName": "Hippophae rhamnoides",
     "origin": "adaptive",
     "isNative": false,
@@ -2072,12 +2283,21 @@
     "droughtTolerant": true,
     "deerResistant": true,
     "saltTolerant": true,
-    "companionIds": [],
-    "avoidIds": []
+    "companionIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ],
+    "avoidIds": [
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
+    ]
   },
   {
     "id": "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
     "name": "Rugosa Rose",
+    "nameFr": "Rosier rugueux",
     "scientificName": "Rosa rugosa",
     "origin": "adaptive",
     "isNative": false,
@@ -2145,12 +2365,19 @@
     "droughtTolerant": true,
     "deerResistant": true,
     "saltTolerant": true,
-    "companionIds": [],
-    "avoidIds": []
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ],
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "4b2594e0-2d24-47ec-806b-d91c1940ce95",
     "name": "Russian Sage",
+    "nameFr": "Sauge de Russie",
     "scientificName": "Salvia yangii",
     "origin": "adaptive",
     "isNative": false,
@@ -2217,13 +2444,29 @@
     "saltTolerant": true,
     "companionIds": [
       "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
-      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
+      "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
+      "1c0e5051-c407-4216-8278-093073c308d3"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "3b459759-45fe-43f0-9324-495005c76b4d",
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+      "baa6dadd-9773-4b8b-8343-e94297023cf9",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7"
+    ]
   },
   {
     "id": "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
     "name": "Sedum",
+    "nameFr": "Sédum",
     "scientificName": "Sedum spectabile",
     "origin": "adaptive",
     "isNative": false,
@@ -2290,13 +2533,22 @@
     "saltTolerant": true,
     "companionIds": [
       "4b2594e0-2d24-47ec-806b-d91c1940ce95",
-      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "baa6dadd-9773-4b8b-8343-e94297023cf9"
+    ]
   },
   {
     "id": "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
     "name": "Daylilies",
+    "nameFr": "Hémérocalles",
     "scientificName": "Hemerocallis hybrid",
     "origin": "adaptive",
     "isNative": false,
@@ -2366,13 +2618,20 @@
     "saltTolerant": true,
     "companionIds": [
       "7843bf4f-973f-46ef-8bbb-84133fc1570d",
-      "15c67328-c841-4c1b-886a-59c8f94166fb"
+      "15c67328-c841-4c1b-886a-59c8f94166fb",
+      "1c0e5051-c407-4216-8278-093073c308d3",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "7843bf4f-973f-46ef-8bbb-84133fc1570d",
     "name": "Peonies",
+    "nameFr": "Pivoines",
     "scientificName": "Paeonia lactiflora",
     "origin": "adaptive",
     "isNative": false,
@@ -2438,13 +2697,21 @@
     "saltTolerant": false,
     "companionIds": [
       "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
-      "d01fd57e-7a45-4428-9b0b-5a69950aa336"
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336",
+      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92",
+      "1c0e5051-c407-4216-8278-093073c308d3",
+      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "d01fd57e-7a45-4428-9b0b-5a69950aa336",
     "name": "Bearded Iris",
+    "nameFr": "Iris barbu",
     "scientificName": "Iris germanica",
     "origin": "adaptive",
     "isNative": false,
@@ -2510,13 +2777,18 @@
     "saltTolerant": false,
     "companionIds": [
       "7843bf4f-973f-46ef-8bbb-84133fc1570d",
-      "db78c60b-b803-4dbc-8449-4229f1bcc5c8"
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "1c0e5051-c407-4216-8278-093073c308d3",
+      "15c67328-c841-4c1b-886a-59c8f94166fb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "1c0e5051-c407-4216-8278-093073c308d3",
     "name": "Oriental Poppy",
+    "nameFr": "Pavot d'Orient",
     "scientificName": "Papaver orientale",
     "origin": "adaptive",
     "isNative": false,
@@ -2581,13 +2853,19 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
     "name": "Lupine",
+    "nameFr": "Lupin",
     "scientificName": "Lupinus polyphyllus",
     "origin": "adaptive",
     "isNative": false,
@@ -2653,13 +2931,18 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d"
+      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
     "name": "Delphinium",
+    "nameFr": "Delphinium",
     "scientificName": "Delphinium elatum",
     "origin": "adaptive",
     "isNative": false,
@@ -2724,13 +3007,17 @@
     "saltTolerant": false,
     "companionIds": [
       "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
-      "7843bf4f-973f-46ef-8bbb-84133fc1570d"
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "15c67328-c841-4c1b-886a-59c8f94166fb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "15c67328-c841-4c1b-886a-59c8f94166fb",
     "name": "Shasta Daisy",
+    "nameFr": "Marguerite de Shasta",
     "scientificName": "Leucanthemum x superbum",
     "origin": "adaptive",
     "isNative": false,
@@ -2796,13 +3083,19 @@
     "saltTolerant": false,
     "companionIds": [
       "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
-      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336",
+      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
     "name": "Coneflower",
+    "nameFr": "Échinacée",
     "scientificName": "Echinacea purpurea",
     "origin": "adaptive",
     "isNative": false,
@@ -2874,13 +3167,24 @@
     "companionIds": [
       "444cacbe-ec37-4760-ae88-35b3e205b244",
       "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
-      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0"
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
+      "15c67328-c841-4c1b-886a-59c8f94166fb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   },
   {
     "id": "bf55e865-0566-4808-abb5-8bebcc52571e",
     "name": "Russian Hawthorn",
+    "nameFr": "Aubépine de Russie",
     "scientificName": "Crataegus ambigua",
     "origin": "adaptive",
     "isNative": false,
@@ -2946,13 +3250,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "27eece07-52ed-450b-92ca-d456f2975aa8"
+      "27eece07-52ed-450b-92ca-d456f2975aa8",
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "27eece07-52ed-450b-92ca-d456f2975aa8",
     "name": "Siberian Crabapple",
+    "nameFr": "Pommier de Sibérie",
     "scientificName": "Malus baccata",
     "origin": "adaptive",
     "isNative": false,
@@ -3020,13 +3328,19 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "bf55e865-0566-4808-abb5-8bebcc52571e"
+      "bf55e865-0566-4808-abb5-8bebcc52571e",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
+      "614de45e-b116-4380-9357-5b9913087ea8"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
     "name": "Ussurian Pear",
+    "nameFr": "Poirier de l'Oussouri",
     "scientificName": "Pyrus ussuriensis",
     "origin": "adaptive",
     "isNative": false,
@@ -3093,13 +3407,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "27eece07-52ed-450b-92ca-d456f2975aa8"
+      "27eece07-52ed-450b-92ca-d456f2975aa8",
+      "f583b277-6361-427d-bf07-09d08bca91e2",
+      "7218088d-ee0a-45f4-a868-ac6cc282dbd6"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "fba9d338-e411-40aa-aac9-0d2754a72195",
     "name": "Amur Maple",
+    "nameFr": "Érable de l'Amour",
     "scientificName": "Acer ginnala",
     "origin": "adaptive",
     "isNative": false,
@@ -3164,13 +3483,17 @@
     "deerResistant": false,
     "saltTolerant": true,
     "companionIds": [
-      "734cc4e7-b5ed-4966-975a-87c7515b7b92"
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92",
+      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "734cc4e7-b5ed-4966-975a-87c7515b7b92",
     "name": "Korean Lilac",
+    "nameFr": "Lilas de Corée",
     "scientificName": "Syringa meyeri",
     "origin": "adaptive",
     "isNative": false,
@@ -3237,13 +3560,18 @@
     "saltTolerant": false,
     "companionIds": [
       "fba9d338-e411-40aa-aac9-0d2754a72195",
-      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29"
+      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "bf55e865-0566-4808-abb5-8bebcc52571e"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29",
     "name": "Dwarf Korean Lilac",
+    "nameFr": "Lilas de Corée nain",
     "scientificName": "Syringa meyeri Palibin",
     "origin": "adaptive",
     "isNative": false,
@@ -3308,13 +3636,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "734cc4e7-b5ed-4966-975a-87c7515b7b92"
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92",
+      "fba9d338-e411-40aa-aac9-0d2754a72195",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
     "name": "Honeycrisp Apple",
+    "nameFr": "Pomme Honeycrisp",
     "scientificName": "Malus domestica Honeycrisp",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3381,13 +3714,23 @@
     "saltTolerant": false,
     "companionIds": [
       "614de45e-b116-4380-9357-5b9913087ea8",
-      "f583b277-6361-427d-bf07-09d08bca91e2"
+      "f583b277-6361-427d-bf07-09d08bca91e2",
+      "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "719a15c0-3cf4-451c-9723-31e155909ffd",
+      "27eece07-52ed-450b-92ca-d456f2975aa8",
+      "84c9ed83-38a7-4367-93c8-f4ee033a5f81"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "614de45e-b116-4380-9357-5b9913087ea8",
     "name": "McIntosh Apple",
+    "nameFr": "Pomme McIntosh",
     "scientificName": "Malus domestica McIntosh",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3456,13 +3799,19 @@
     "saltTolerant": false,
     "companionIds": [
       "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
-      "2a577c81-2112-4c2b-972d-b579632c53d9"
+      "2a577c81-2112-4c2b-972d-b579632c53d9",
+      "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
+      "27eece07-52ed-450b-92ca-d456f2975aa8",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
     "name": "Valley Land Apple",
+    "nameFr": "Pomme Valley Land",
     "scientificName": "Malus domestica Valley Land",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3529,13 +3878,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "614de45e-b116-4380-9357-5b9913087ea8"
+      "614de45e-b116-4380-9357-5b9913087ea8",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "2a577c81-2112-4c2b-972d-b579632c53d9",
     "name": "Montmorency Cherry",
+    "nameFr": "Cerise Montmorency",
     "scientificName": "Prunus cerasus Montmorency",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3601,13 +3955,17 @@
     "saltTolerant": false,
     "companionIds": [
       "614de45e-b116-4380-9357-5b9913087ea8",
-      "ab0e156d-9de4-477b-82d7-08bd0e887a42"
+      "ab0e156d-9de4-477b-82d7-08bd0e887a42",
+      "602425cd-288a-4542-a824-17cfdfa46d71"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "ab0e156d-9de4-477b-82d7-08bd0e887a42",
     "name": "Nanking Cherry",
+    "nameFr": "Cerisier de Nankin",
     "scientificName": "Prunus tomentosa",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3677,13 +4035,17 @@
     "saltTolerant": false,
     "companionIds": [
       "2a577c81-2112-4c2b-972d-b579632c53d9",
-      "602425cd-288a-4542-a824-17cfdfa46d71"
+      "602425cd-288a-4542-a824-17cfdfa46d71",
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "602425cd-288a-4542-a824-17cfdfa46d71",
     "name": "Evans Cherry",
+    "nameFr": "Cerise Evans",
     "scientificName": "Prunus cerasus Evans",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3753,11 +4115,14 @@
       "ab0e156d-9de4-477b-82d7-08bd0e887a42",
       "2a577c81-2112-4c2b-972d-b579632c53d9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "84c9ed83-38a7-4367-93c8-f4ee033a5f81",
     "name": "Redhaven Peach",
+    "nameFr": "Pêche Redhaven",
     "scientificName": "Prunus persica Redhaven",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3820,13 +4185,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "f583b277-6361-427d-bf07-09d08bca91e2"
+      "f583b277-6361-427d-bf07-09d08bca91e2",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "f583b277-6361-427d-bf07-09d08bca91e2",
     "name": "Bartlett Pear",
+    "nameFr": "Poire Bartlett",
     "scientificName": "Pyrus communis Bartlett",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3891,13 +4260,18 @@
     "saltTolerant": false,
     "companionIds": [
       "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
-      "7218088d-ee0a-45f4-a868-ac6cc282dbd6"
+      "7218088d-ee0a-45f4-a868-ac6cc282dbd6",
+      "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
+      "84c9ed83-38a7-4367-93c8-f4ee033a5f81"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "7218088d-ee0a-45f4-a868-ac6cc282dbd6",
     "name": "Flemish Beauty Pear",
+    "nameFr": "Poire Beauté flamande",
     "scientificName": "Pyrus communis Flemish Beauty",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -3964,13 +4338,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "f583b277-6361-427d-bf07-09d08bca91e2"
+      "f583b277-6361-427d-bf07-09d08bca91e2",
+      "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
     "name": "Red Raspberry",
+    "nameFr": "Framboisier rouge",
     "scientificName": "Rubus idaeus",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4040,13 +4418,18 @@
     "saltTolerant": false,
     "companionIds": [
       "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
-      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e"
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "275ff5cb-d174-46da-869b-26b21d54ebdc",
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
     "name": "Golden Raspberry",
+    "nameFr": "Framboisier doré",
     "scientificName": "Rubus idaeus Anne",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4113,13 +4496,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "81ba5df9-dcbf-43c7-b0fd-ddef50115564"
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "275ff5cb-d174-46da-869b-26b21d54ebdc"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "275ff5cb-d174-46da-869b-26b21d54ebdc",
     "name": "Black Raspberry",
+    "nameFr": "Framboisier noir",
     "scientificName": "Rubus occidentalis",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4187,13 +4574,17 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "81ba5df9-dcbf-43c7-b0fd-ddef50115564"
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "311049c4-4dcd-4bae-b9ae-4c125f2e2386"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
     "name": "June-bearing Strawberry",
+    "nameFr": "Fraisier à jours courts",
     "scientificName": "Fragaria x ananassa",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4260,13 +4651,19 @@
     "saltTolerant": false,
     "companionIds": [
       "689826db-a9c0-4324-9220-f6cfbda050e4",
-      "b98fe248-e432-4c0a-93ed-0e228f946c62"
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "689826db-a9c0-4324-9220-f6cfbda050e4",
     "name": "Everbearing Strawberry",
+    "nameFr": "Fraisier remontant",
     "scientificName": "Fragaria x ananassa Seascape",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4330,13 +4727,18 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1"
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
     "name": "Highbush Blueberry",
+    "nameFr": "Bleuet en corymbe",
     "scientificName": "Vaccinium corymbosum",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4406,13 +4808,18 @@
     "saltTolerant": false,
     "companionIds": [
       "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
-      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9"
+      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
+      "3b459759-45fe-43f0-9324-495005c76b4d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
     "name": "Half-High Blueberry",
+    "nameFr": "Bleuet mi-haut",
     "scientificName": "Vaccinium corymbosum x angustifolium",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4482,13 +4889,18 @@
     "deerResistant": true,
     "saltTolerant": false,
     "companionIds": [
-      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e"
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "3b459759-45fe-43f0-9324-495005c76b4d"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ]
   },
   {
     "id": "53e01557-1740-4f69-95ef-cceac625b46f",
     "name": "Concord Grape",
+    "nameFr": "Raisin Concord",
     "scientificName": "Vitis labrusca Concord",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4556,11 +4968,14 @@
       "311e8c99-481d-415f-8594-995150991321",
       "1cb66fef-54f8-407e-9329-ee086fee74a9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
   },
   {
     "id": "311e8c99-481d-415f-8594-995150991321",
     "name": "Valiant Grape",
+    "nameFr": "Raisin Valiant",
     "scientificName": "Vitis spp. Valiant",
     "origin": "fruit-bearing",
     "isNative": false,
@@ -4627,8 +5042,459 @@
     "deerResistant": false,
     "saltTolerant": false,
     "companionIds": [
-      "53e01557-1740-4f69-95ef-cceac625b46f"
+      "53e01557-1740-4f69-95ef-cceac625b46f",
+      "1cb66fef-54f8-407e-9329-ee086fee74a9"
     ],
-    "avoidIds": []
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
+  },
+  {
+    "id": "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+    "name": "Black Walnut",
+    "nameFr": "Noyer noir",
+    "scientificName": "Juglans nigra",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "20-30 m",
+    "spread": "15-25 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 55,
+    "tags": [
+      "tree",
+      "native",
+      "allelopathic",
+      "nut"
+    ],
+    "description": "Black Walnut is a stately eastern native that produces edible nuts and valuable timber, but it releases juglone from roots, leaves, and hulls. In Quebec, keep fruit trees, blueberries, and many garden crops well outside the drip line — often 15 m or more. Evergreens such as White Pine and Balsam Fir tolerate juglone better than apples or pears. Plant in full sun on deep, well-drained loam in zones 4–6. Fallen leaves and hulls should be composted separately. A reference species for allelopathy planning rather than a mixed orchard tree.",
+    "descriptionFr": "Le noyer noir est un grand arbre natif qui produit des noix comestibles mais libère de la juglone, toxique pour de nombreux fruitiers et petits fruits. Au Québec, éloignez pommiers, poiriers, cerisiers et bleuets de sa zone racinaire.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ],
+    "heightCmMin": 2000,
+    "heightCmMax": 3000,
+    "spacingCm": 1500,
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "coarse",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [
+      "seeds"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "73968cc9-761b-476b-9286-866e160eeedd"
+    ],
+    "avoidIds": [
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "614de45e-b116-4380-9357-5b9913087ea8",
+      "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
+      "f583b277-6361-427d-bf07-09d08bca91e2",
+      "7218088d-ee0a-45f4-a868-ac6cc282dbd6",
+      "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
+      "27eece07-52ed-450b-92ca-d456f2975aa8",
+      "2a577c81-2112-4c2b-972d-b579632c53d9",
+      "ab0e156d-9de4-477b-82d7-08bd0e887a42",
+      "602425cd-288a-4542-a824-17cfdfa46d71",
+      "84c9ed83-38a7-4367-93c8-f4ee033a5f81",
+      "3b459759-45fe-43f0-9324-495005c76b4d",
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
+      "53e01557-1740-4f69-95ef-cceac625b46f",
+      "311e8c99-481d-415f-8594-995150991321",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+      "3b1dc978-3915-4edb-ba74-6e499eb62458",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2",
+      "3f504319-4837-4c91-93c4-d9c800fe6c62",
+      "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "719a15c0-3cf4-451c-9723-31e155909ffd",
+      "1cb66fef-54f8-407e-9329-ee086fee74a9",
+      "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "bf55e865-0566-4808-abb5-8bebcc52571e",
+      "fba9d338-e411-40aa-aac9-0d2754a72195",
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92",
+      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29",
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
+      "275ff5cb-d174-46da-869b-26b21d54ebdc",
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "689826db-a9c0-4324-9220-f6cfbda050e4",
+      "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074"
+    ]
+  },
+  {
+    "id": "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+    "name": "Sunflower",
+    "nameFr": "Tournesol",
+    "scientificName": "Helianthus annuus",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-3 m",
+    "spread": "0.4-0.8 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Oct-Apr",
+    "costCad": 8,
+    "tags": [
+      "annual",
+      "pollinator",
+      "allelopathic",
+      "edible"
+    ],
+    "description": "Garden sunflower is a Quebec-hardy annual sown after May 10 when soil has warmed. Tall cultivars shade and leach allelopathic compounds that can stunt nearby small perennials and strawberries — site them on the north or east edge of beds, not among compact natives. Birds and bees use the late-summer bloom; harvest heads before the first hard frost (often by October 10 in southern Quebec). Direct-sow in full sun. Not a perennial; replant each year after last frost.",
+    "descriptionFr": "Le tournesol est un annuel rustique au Québec, semé après le 10 mai. Ses composés allélopathiques peuvent inhiber les petites vivaces et fraisiers voisins; planter en bordure. Récolter avant le 10 octobre.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 300,
+    "spacingCm": 45,
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "coarse",
+    "wildlifeAttracts": [
+      "bees",
+      "birds",
+      "butterflies"
+    ],
+    "edibleParts": [
+      "seeds"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "73968cc9-761b-476b-9286-866e160eeedd",
+      "471b04e8-0fdc-45ab-b2fa-af6aed27451d"
+    ],
+    "avoidIds": [
+      "b98fe248-e432-4c0a-93ed-0e228f946c62",
+      "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "baa6dadd-9773-4b8b-8343-e94297023cf9",
+      "1c0e5051-c407-4216-8278-093073c308d3",
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336",
+      "15c67328-c841-4c1b-886a-59c8f94166fb",
+      "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
+      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+      "689826db-a9c0-4324-9220-f6cfbda050e4",
+      "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074"
+    ]
+  },
+  {
+    "id": "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+    "name": "Corn",
+    "nameFr": "Maïs",
+    "scientificName": "Zea mays",
+    "origin": "introduced",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5
+    ],
+    "height": "1.8-2.5 m",
+    "spread": "0.4-0.6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Aug",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Oct-Apr",
+    "costCad": 6,
+    "tags": [
+      "annual",
+      "vegetable",
+      "three-sisters"
+    ],
+    "description": "Quebec-hardy sweet or flint corn for short-season gardens (zones 4–5). Direct-sow after May 10 when soil is at least 15°C; plant in blocks for pollination, not single rows. In the Three Sisters polyculture, corn is the trellis for pole beans. Harvest ears before the average first frost around October 10. Needs full sun, rich loam, and steady water. Choose early varieties (70–80 days) for southern and central Quebec.",
+    "descriptionFr": "Maïs rustique pour la saison courte du Québec (zones 4–5). Semer après le 10 mai en blocs pour la pollinisation. Tuteur des haricots dans les trois sœurs. Récolter avant le 10 octobre.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ],
+    "heightCmMin": 180,
+    "heightCmMax": 250,
+    "spacingCm": 30,
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "coarse",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [
+      "seeds"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+      "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074"
+    ],
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042",
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3"
+    ]
+  },
+  {
+    "id": "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163",
+    "name": "Pole Beans",
+    "nameFr": "Haricots grimpants",
+    "scientificName": "Phaseolus vulgaris",
+    "origin": "introduced",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "1.8-3 m",
+    "spread": "0.3-0.5 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Aug",
+    "harvestPeriod": "Jul-Sep",
+    "dormancyPeriod": "Oct-Apr",
+    "costCad": 5,
+    "tags": [
+      "annual",
+      "vegetable",
+      "three-sisters",
+      "nitrogen-fixer"
+    ],
+    "description": "Pole beans climb corn stalks in the Three Sisters planting and fix nitrogen for corn and squash. Sow after May 10 in Quebec once nights stay above 10°C. Choose early climbing cultivars suited to zones 4–5. Harvest pods through summer and clear vines before October 10 frost. Full sun and well-drained loam; avoid soggy clay. Do not plant beside allelopathic sunflowers.",
+    "descriptionFr": "Haricots à rames qui grimpent sur le maïs et fixent l'azote pour les trois sœurs. Semer après le 10 mai au Québec; récolter avant le 10 octobre. Éviter le voisinage du tournesol.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ],
+    "heightCmMin": 180,
+    "heightCmMax": 300,
+    "spacingCm": 20,
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit",
+      "seeds"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074"
+    ],
+    "avoidIds": [
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
+  },
+  {
+    "id": "1e7f4a90-2b5c-4d83-a6e1-9f8c3b5d2074",
+    "name": "Winter Squash",
+    "nameFr": "Courge d'hiver",
+    "scientificName": "Cucurbita maxima",
+    "origin": "introduced",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5
+    ],
+    "height": "0.4-0.6 m",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Aug",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Oct-Apr",
+    "costCad": 7,
+    "tags": [
+      "annual",
+      "vegetable",
+      "three-sisters"
+    ],
+    "description": "Winter squash (buttercup, hubbard, or similar short-season types) is the living mulch of the Three Sisters: large leaves shade soil and suppress weeds around corn and beans. Transplant or direct-sow after May 10 in Quebec; fruit must mature before the October 10 frost window. Full sun, rich moist loam, and room to sprawl. Cure fruits in a warm dry spot for winter storage. Zone 4–5 hardy as an annual crop only.",
+    "descriptionFr": "Courge d'hiver à saison courte, paillis vivant des trois sœurs. Planter après le 10 mai au Québec et récolter avant le 10 octobre. Grandes feuilles qui ombragent le sol.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ],
+    "heightCmMin": 40,
+    "heightCmMax": 60,
+    "spacingCm": 90,
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "coarse",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit",
+      "seeds"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "5a1b8e34-9c2d-4f67-b0e8-3d4c6a9f1e75",
+      "8d3c6f21-4a9b-4e18-9d52-c7b0e4f8a163"
+    ],
+    "avoidIds": [
+      "7c4e9a12-3b8f-4d21-9e56-a1c8f0b247d3",
+      "2f8d1c90-6e4a-4b73-8c15-d9e3a7f5b042"
+    ]
   }
 ]
