@@ -1,0 +1,3147 @@
+[
+  {
+    "id": "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+    "name": "Sugar Maple",
+    "scientificName": "Acer saccharum",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "20-35 m",
+    "spread": "15-25 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Apr-May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 45,
+    "tags": [
+      "tree",
+      "fall color",
+      "native"
+    ],
+    "description": "Sugar Maple is Quebec's iconic native tree, famous for spectacular autumn foliage in shades of gold, orange, and crimson. It thrives in well-drained, slightly acidic loam across Southern and Central Quebec hardiness zones 3 through 6. Mature specimens provide excellent shade and support native wildlife including birds and squirrels. Plant bare-root saplings in early spring after the ground thaws but before bud break. This long-lived tree requires minimal maintenance once established, though young trees benefit from mulching and protection from lawn equipment. Avoid compacted or salty soils near roadways. Sugar Maples contribute to biodiversity and are the source of maple syrup, making them both ecologically and culturally significant for Quebec gardeners seeking authentic native landscaping.",
+    "descriptionFr": "L'érable à sucre est l'arbre emblématique du Québec, célèbre pour son feuillage automnal spectaculaire. Il prospère dans un sol limoneux légèrement acide et bien drainé dans les zones 3 à 6.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "f28bb77d-509e-47c6-8839-96fae5e5c849",
+    "name": "Red Oak",
+    "scientificName": "Quercus rubra",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "20-30 m",
+    "spread": "15-20 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 40,
+    "tags": [
+      "tree",
+      "native",
+      "acorn"
+    ],
+    "description": "Red Oak is a majestic native Quebec tree valued for its broad spreading canopy and brilliant red fall color. Adaptable to various soil types including sandy loam and clay-loam, it prefers acidic, well-drained conditions. This long-lived oak supports hundreds of native insect and bird species, making it an ecological cornerstone in Quebec landscapes. Plant container-grown or balled-and-burlapped specimens in spring. Young trees need regular watering during the first two years but become quite drought tolerant once established. Avoid planting too close to buildings due to eventual size. Red Oak acorns feed wildlife and the tree's strong wood has historical significance in Quebec forestry.",
+    "descriptionFr": "Le chêne rouge est un majestueux arbre natif du Québec, prisé pour son large feuillage et sa couleur rouge automnale.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+    "name": "White Pine",
+    "scientificName": "Pinus strobus",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "25-40 m",
+    "spread": "6-10 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "sandy",
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 35,
+    "tags": [
+      "evergreen",
+      "native",
+      "windbreak"
+    ],
+    "description": "White Pine is Eastern Canada's tallest native conifer, forming elegant soft-needled evergreen specimens perfect for windbreaks and naturalized borders in Quebec. It prefers sandy, acidic, well-drained soils and full sun, tolerating partial shade when young. Fast-growing in youth, White Pine creates habitat for birds and small mammals. Plant in spring avoiding wet clay sites. Prune only dead or damaged branches. Watch for white pine blister rust and avoid planting near currants or gooseberries. This native evergreen adds year-round structure to Quebec gardens while requiring minimal care once roots establish.",
+    "descriptionFr": "Le pin blanc est le plus grand conifère natif de l'Est du Canada, formant de élégants spécimens persistants parfaits pour les brise-vent.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+    "name": "Balsam Fir",
+    "scientificName": "Abies balsamea",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "height": "15-25 m",
+    "spread": "4-8 m",
+    "sunRequirements": "partial-shade",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "moist"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 30,
+    "tags": [
+      "evergreen",
+      "native",
+      "Christmas tree"
+    ],
+    "description": "Balsam Fir is a quintessential Quebec native evergreen known for its fragrant needles and classic Christmas tree shape. It thrives in cool, moist, acidic soils of zones 2 through 5, making it ideal for northern and central Quebec gardens. This shade-tolerant conifer provides winter shelter for birds and adds evergreen beauty to mixed borders. Plant in spring with ample organic matter. Protect from hot, dry winds in exposed sites. Balsam Fir prefers consistent moisture but tolerates brief dry spells once established. Its resinous buds produce the beloved balsam fir scent synonymous with Quebec forests.",
+    "descriptionFr": "Le sapin baumier est un conifère natif emblématique du Québec, connu pour ses aiguilles parfumées et sa forme de sapin de Noël.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "046855b9-ffe1-43e5-bf98-c1b3a255327f",
+    "name": "Paper Birch",
+    "scientificName": "Betula papyrifera",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "15-25 m",
+    "spread": "8-12 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "moist"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 38,
+    "tags": [
+      "tree",
+      "native",
+      "white bark"
+    ],
+    "description": "Paper Birch displays stunning white peeling bark that glows against winter snowscapes across Quebec. This native pioneer species prefers cool, moist, acidic soils and full sun to partial shade. It grows relatively quickly but has a shorter lifespan than oak or maple. Plant in groups for visual impact and to reduce sunscald on trunks. Keep soil consistently moist especially during establishment. Paper Birch supports native moth caterpillars and provides seeds for finches. Avoid planting near driveways where de-icing salt accumulates, as birches are salt-sensitive.",
+    "descriptionFr": "Le bouleau à papier affiche une écorce blanche éclatante qui brille contre les paysages hivernaux du Québec.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "3b1dc978-3915-4edb-ba74-6e499eb62458",
+    "name": "Trembling Aspen",
+    "scientificName": "Populus tremuloides",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "15-25 m",
+    "spread": "8-15 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 25,
+    "tags": [
+      "tree",
+      "native",
+      "fall color"
+    ],
+    "description": "Trembling Aspen is one of North America's most widely distributed native trees, recognizable by leaves that flutter in the slightest breeze and turn golden-yellow in autumn. Extremely cold hardy across zones 1 through 6, it suits virtually all Quebec regions. Aspens colonize through root suckers, forming natural groves ideal for large properties and reclamation projects. Plant in full sun with well-drained soil. Expect sucker growth that can be managed by mowing or cutting. This fast-growing native provides food and habitat for wildlife while adding dynamic movement and fall color to Quebec landscapes.",
+    "descriptionFr": "Le peuplier faux-tremble est reconnaissable à ses feuilles qui tremblent au moindre vent et deviennent jaune doré en automne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
+    "name": "Red Osier Dogwood",
+    "scientificName": "Cornus sericea",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "1.5-3 m",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "loamy",
+      "moist",
+      "clay"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 18,
+    "tags": [
+      "shrub",
+      "native",
+      "winter interest"
+    ],
+    "description": "Red Osier Dogwood is a hardy native Quebec shrub prized for its vivid red stems that provide striking winter color after leaf drop. It thrives in moist to wet soils including clay, making it perfect for rain gardens, stream banks, and low areas. White flower clusters in spring attract pollinators, and white berries feed birds. Plant in full sun for brightest stem color. Prune one-third of oldest stems annually in early spring to encourage new red growth. This versatile native tolerates flooding and heavy clay, offering four-season interest with minimal maintenance for Quebec gardeners.",
+    "descriptionFr": "Le cornouiller stolonifère est un arbuste natif prisé pour ses tiges rouges vives qui offrent une couleur hivernale saisissante.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "73968cc9-761b-476b-9286-866e160eeedd",
+    "name": "Staghorn Sumac",
+    "scientificName": "Rhus typhina",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "3-6 m",
+    "spread": "3-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 22,
+    "tags": [
+      "shrub",
+      "native",
+      "fall color"
+    ],
+    "description": "Staghorn Sumac is a dramatic native Quebec shrub forming colony-forming thickets with tropical-looking compound leaves and velvety stems. Brilliant red-orange fall foliage and upright crimson fruit clusters make it a standout in naturalistic gardens. Extremely drought tolerant once established, it prefers poor, sandy, well-drained soils and full sun. Plant with room to spread or manage suckers annually. Sumac berries can be used for tart lemonade-like beverages. This low-maintenance native supports birds and butterflies while adding bold texture and autumn fire to Quebec landscapes.",
+    "descriptionFr": "Le sumac vinaigrier est un arbuste natif dramatique formant des colonies avec un feuillage composé tropical et des tiges veloutées.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+    "name": "Serviceberry",
+    "scientificName": "Amelanchier canadensis",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "3-8 m",
+    "spread": "3-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Apr-May",
+    "harvestPeriod": "Jun-Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 35,
+    "tags": [
+      "shrub",
+      "native",
+      "edible"
+    ],
+    "description": "Serviceberry, also called Saskatoon berry, is a versatile native Quebec shrub or small tree offering white spring blossoms, edible blue-purple berries, and orange-red fall foliage. Berries taste like blueberries with almond notes and are excellent fresh, in jams, or pies. Plant in well-drained, slightly acidic loam with full sun for best fruit production. Birds compete for berries, so net plants if you want a harvest. Minimal pruning needed beyond removing dead wood. This multi-season native is perfect for edible landscaping in Quebec zones 3 through 6.",
+    "descriptionFr": "L'amélanchier du Canada est un arbuste natif polyvalent offrant des fleurs blanches au printemps et des baies comestibles en été.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "1f89fa64-d689-4cbe-8200-ef310eed61e2",
+    "name": "Chokecherry",
+    "scientificName": "Prunus virginiana",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "3-6 m",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 28,
+    "tags": [
+      "shrub",
+      "native",
+      "edible"
+    ],
+    "description": "Chokecherry is a hardy native Quebec shrub producing fragrant white flower racemes and tart dark berries used traditionally in jellies, syrups, and wines. Extremely adaptable, it grows in clay, loam, or sandy soils across zones 2 through 6. Full sun maximizes flowering and fruit set. Berries are astringent raw but delicious when cooked with sugar. This tough native tolerates drought, cold, and poor soils while supporting pollinators and birds. Plant as a hedge, windbreak, or naturalized border element with minimal care requirements.",
+    "descriptionFr": "Le cerisier de Virginie est un arbuste natif robuste produisant des grappes de fleurs blanches parfumées et des baies tartes.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "3f504319-4837-4c91-93c4-d9c800fe6c62",
+    "name": "Highbush Cranberry",
+    "scientificName": "Viburnum trilobum",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "3-5 m",
+    "spread": "3-4 m",
+    "sunRequirements": "partial-shade",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "moist",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 32,
+    "tags": [
+      "shrub",
+      "native",
+      "edible"
+    ],
+    "description": "Highbush Cranberry is a native Quebec viburnum with maple-like leaves, lacecap white flowers, and bright red berries persisting into winter. Despite the name, it is not a true cranberry but produces tart fruit excellent for jelly after frost sweetens them. Thrives in moist, well-drained loam with partial shade to full sun. Provides food for birds and stunning fall red foliage. Low maintenance with occasional renewal pruning. This native shrub adds ornamental and edible value to Quebec gardens in cold climates.",
+    "descriptionFr": "La viorne trilobée est un viburnum natif avec des feuilles en forme d'érable et des baies rouges vives persistant en hiver.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "fdd78bd7-294a-449b-901a-5d5668f86fb1",
+    "name": "Nannyberry",
+    "scientificName": "Viburnum lentago",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "4-8 m",
+    "spread": "3-5 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "moist"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 30,
+    "tags": [
+      "shrub",
+      "native",
+      "edible"
+    ],
+    "description": "Nannyberry is a large native Quebec shrub or small tree with glossy foliage, creamy spring flowers, and sweet edible blue-black berries ripening after frost. Adaptable to clay and loam soils, it serves as an excellent native hedge or specimen plant. Fall color ranges from burgundy to purple. Berries attract birds but are tasty fresh when fully ripe. Tolerates shade when young but fruits best in sun. Minimal pruning required. This underused native combines ornamental beauty with edible fruit for Quebec food forests.",
+    "descriptionFr": "La viorne flexible est un grand arbuste natif avec un feuillage brillant et des baies comestibles bleu-noir.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+    "name": "Wild Rose",
+    "scientificName": "Rosa acicularis",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "0.5-1.5 m",
+    "spread": "1-2 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 20,
+    "tags": [
+      "shrub",
+      "native",
+      "rose hips"
+    ],
+    "description": "Wild Rose is Alberta and Quebec's hardy native rose species featuring single pink blossoms and vitamin-rich rose hips in autumn. Extremely cold hardy in zones 2 through 6, it thrives in poor sandy or rocky soils with full sun. Rose hips make excellent tea and jelly. This low spreading shrub provides thorny cover for nesting birds and requires virtually no maintenance beyond optional deadheading. Perfect for naturalized borders, slopes, and xeriscaping in Quebec's challenging climates.",
+    "descriptionFr": "Le rosier aciculaire est l'espèce de rose native robuste avec des fleurs roses simples et des cynorrhodons riches en vitamines.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+    "name": "Blue Flag Iris",
+    "scientificName": "Iris versicolor",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "clay",
+      "moist",
+      "acidic"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 15,
+    "tags": [
+      "perennial",
+      "native",
+      "wetland"
+    ],
+    "description": "Blue Flag Iris is Quebec's provincial floral emblem, displaying elegant violet-blue flowers with yellow markings above sword-like foliage. Native to wetlands and shorelines, it thrives in moist to wet clay or loam at pond edges and rain gardens. Full sun produces the best blooms. Divide clumps every three to four years in late summer. This stunning native perennial supports pollinators and adds vertical structure to water features. Hardy and low maintenance once established in appropriate moist sites across Quebec zones 3 through 7.",
+    "descriptionFr": "L'iris versicolore est l'emblème floral du Québec, affichant des fleurs violet-bleu élégantes au-dessus d'un feuillage en forme d'épée.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "baa6dadd-9773-4b8b-8343-e94297023cf9",
+    "name": "Cardinal Flower",
+    "scientificName": "Lobelia cardinalis",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-120 cm",
+    "spread": "30-45 cm",
+    "sunRequirements": "partial-shade",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "clay",
+      "loamy",
+      "moist"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "native",
+      "hummingbird"
+    ],
+    "description": "Cardinal Flower produces intense scarlet-red flower spikes that hummingbirds cannot resist, making it a must-have native perennial for Quebec shade gardens with moist soil. It prefers rich, clay-loam along stream banks and pond margins in partial shade. Short-lived as a perennial but self-seeds readily in ideal conditions. Mulch heavily for winter protection in zone 3. This dramatic native adds vertical color from midsummer through fall and supports critical pollinator relationships in Quebec ecosystems.",
+    "descriptionFr": "La lobélie cardinale produit des épis de fleurs rouge écarlate intenses que les colibris ne peuvent pas résister.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
+    "name": "Joe-Pye Weed",
+    "scientificName": "Eutrochium maculatum",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "1.5-2.5 m",
+    "spread": "1-1.5 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "high",
+    "soilPreference": [
+      "clay",
+      "loamy",
+      "moist"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 14,
+    "tags": [
+      "perennial",
+      "native",
+      "pollinator"
+    ],
+    "description": "Joe-Pye Weed is a towering native Quebec perennial forming massive domes of dusty pink-purple flowers that butterflies flock to in late summer. It thrives in moist clay or loam with full sun to light shade, making it ideal for rain gardens and back-of-border placements. Leave standing through winter for seed heads and cut back in spring. This clay-tolerant native adds architectural height and critical late-season nectar for monarchs and swallowtails across Quebec zones 3 through 7.",
+    "descriptionFr": "L'eupatoire maculée est une vivace native imposante formant des dômes massifs de fleurs rose-violet que les papillons adorent.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "444cacbe-ec37-4760-ae88-35b3e205b244",
+    "name": "Black-Eyed Susan",
+    "scientificName": "Rudbeckia hirta",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "30-45 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 10,
+    "tags": [
+      "perennial",
+      "native",
+      "pollinator"
+    ],
+    "description": "Black-Eyed Susan brings cheerful golden-yellow daisy flowers with dark centers to Quebec gardens from midsummer through fall. This tough native perennial tolerates drought, poor soil, and full sun, making it perfect for beginner gardeners. Self-seeds freely in open beds. Deadhead to extend blooming or leave seed heads for goldfinches. Pairs beautifully with native grasses and coneflowers. Low maintenance and long blooming, it is one of the most reliable native perennials for Southern Quebec zones 3 through 7.",
+    "descriptionFr": "La rudbeckie hirta apporte des fleurs marguerites jaune doré joyeuses aux jardins du Québec de la mi-été à l'automne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+    "name": "Wild Bergamot",
+    "scientificName": "Monarda fistulosa",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-120 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jul-Aug",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "native",
+      "pollinator"
+    ],
+    "description": "Wild Bergamot, also called Bee Balm, produces lavender-pink tufted flowers with a minty fragrance that attracts bees, butterflies, and hummingbirds. This native Quebec perennial thrives in dry to medium well-drained soils with full sun. Leaves make excellent tea. Spreads by rhizomes so give it room or plant in containers. Powdery mildew may appear in humid conditions; ensure good air circulation. A essential native for pollinator gardens across Quebec hardiness zones 3 through 7.",
+    "descriptionFr": "La monarde fistuleuse produit des fleurs touffues rose-lavande au parfum mentholé qui attire abeilles et papillons.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
+    "name": "Butterfly Milkweed",
+    "scientificName": "Asclepias tuberosa",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "30-60 cm",
+    "spread": "30-45 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Aug",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 14,
+    "tags": [
+      "perennial",
+      "native",
+      "monarch"
+    ],
+    "description": "Butterfly Milkweed is essential for monarch butterfly conservation, serving as a larval host plant while producing vibrant orange flower clusters. This native Quebec perennial demands well-drained sandy or gravelly soil and full sun; it will not tolerate wet feet. Deep taproot makes it drought tolerant but difficult to transplant once established. Leave seed pods for winter interest and self-seeding. Plant multiple specimens for impact. Supporting monarch migration makes this one of the most ecologically important native perennials for Quebec gardeners.",
+    "descriptionFr": "L'asclépiade tubéreuse est essentielle pour la conservation du monarque, servant de plante hôte larvaire avec des fleurs orange vives.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "f106c2b6-23e5-4c59-850f-97a03236f314",
+    "name": "New England Aster",
+    "scientificName": "Symphyotrichum novae-angliae",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "90-180 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "moist"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Aug-Oct",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "native",
+      "fall bloom"
+    ],
+    "description": "New England Aster closes the gardening season with masses of purple-pink daisy flowers on tall stems, providing critical late-season nectar for migrating butterflies. This native Quebec perennial prefers moist loam or clay in full sun. Pinch stems in early summer for bushier plants. Cut back after frost. Pairs with goldenrod for classic autumn meadow combinations. Hardy, reliable, and beautiful, it is a cornerstone of native fall gardens across Quebec zones 3 through 7.",
+    "descriptionFr": "L'aster de Nouvelle-Angleterre clôt la saison avec des masses de fleurs marguerites violet-rose, nectar crucial pour les papillons migrateurs.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+    "name": "Goldenrod",
+    "scientificName": "Solidago canadensis",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "90-180 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "clay"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Aug-Oct",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 10,
+    "tags": [
+      "perennial",
+      "native",
+      "pollinator"
+    ],
+    "description": "Goldenrod fills Quebec meadows and gardens with plumes of brilliant yellow flowers in late summer and fall, supporting countless pollinators despite myths about hay fever (ragweed is the actual culprit). This vigorous native spreads by rhizomes and seed, best suited for naturalized areas and large borders. Extremely adaptable to clay, sand, or loam with full sun. Cut back in spring to control spread. An iconic Quebec native wildflower that provides essential late-season resources for bees and butterflies.",
+    "descriptionFr": "La verge d'or remplit les prés du Québec de panaches de fleurs jaune brillant en fin d'été, soutenant d'innombrables pollinisateurs.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
+    "name": "Virginia Creeper",
+    "scientificName": "Parthenocissus quinquefolia",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "10-20 m (climbing)",
+    "spread": "3-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 16,
+    "tags": [
+      "vine",
+      "native",
+      "fall color"
+    ],
+    "description": "Virginia Creeper is a vigorous native Quebec vine attaching to walls and fences via adhesive pads, producing spectacular crimson fall foliage. Five-leaflet compound leaves create dense coverage for privacy screens and erosion control on slopes. Tolerates shade but colors best in sun. Berries feed birds. Requires sturdy support and annual pruning to control growth. Do not plant on wood siding as pads may damage surfaces. An excellent native alternative to invasive ivy for Quebec vertical gardening.",
+    "descriptionFr": "Le vigne vierge est une vigne native vigoureuse produisant un feuillage cramoisie spectaculaire en automne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "b98fe248-e432-4c0a-93ed-0e228f946c62",
+    "name": "Wild Strawberry",
+    "scientificName": "Fragaria virginiana",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "10-15 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jun-Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 8,
+    "tags": [
+      "groundcover",
+      "native",
+      "edible"
+    ],
+    "description": "Wild Strawberry is a charming native Quebec groundcover producing small intensely flavored berries and white spring flowers. Perfect for edging paths, rock gardens, and woodland margins in well-drained acidic soil. Spreads by runners to form matts that suppress weeds. Birds and children love the tiny fruits. Tolerates light foot traffic. Low maintenance edible native ideal for permaculture understory plantings across Quebec zones 3 through 7.",
+    "descriptionFr": "Le fraisier des bois est un couvre-sol natif charmant produisant de petites baies intensément parfumées.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "3b459759-45fe-43f0-9324-495005c76b4d",
+    "name": "Lowbush Blueberry",
+    "scientificName": "Vaccinium angustifolium",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "15-60 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "sandy",
+      "acidic",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 15,
+    "tags": [
+      "shrub",
+      "native",
+      "edible"
+    ],
+    "description": "Lowbush Blueberry is the wild blueberry of Quebec's Laurentians and Eastern Townships, thriving in sandy, acidic, well-drained soils with full sun. Brilliant red fall foliage adds ornamental value beyond delicious small berries prized for baking and freezing. Requires acidic soil pH 4.5-5.5; amend with peat or sulfur if needed. Minimal pruning; mow every few years to rejuvenate commercial patches. This iconic Quebec native fruit plant is essential for edible landscaping in acidic sandy sites.",
+    "descriptionFr": "Le bleuet à feuilles étroites est le bleuet sauvage des Laurentides, prospérant dans les sols sableux acides.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
+    "name": "Bunchberry",
+    "scientificName": "Cornus canadensis",
+    "origin": "native-qc",
+    "isNative": true,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "10-20 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "partial-shade",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "moist"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "groundcover",
+      "native",
+      "woodland"
+    ],
+    "description": "Bunchberry is a delicate native Quebec woodland groundcover with whorls of leaves, dogwood-style white flowers, and clusters of bright red berries. Requires cool, moist, acidic humus-rich soil in partial to full shade mimicking forest floor conditions. Slow to establish but forms beautiful carpets once settled. Berries are edible but bland. Perfect for shade gardens, bog edges, and native woodland plantings in zones 2 through 6. A jewel of Quebec's boreal and mixed forests.",
+    "descriptionFr": "Le cornouiller du Canada est un couvre-sol forestier natif délicat avec des fleurs blanches et des grappes de baies rouges.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "719a15c0-3cf4-451c-9723-31e155909ffd",
+    "name": "Haskap",
+    "scientificName": "Lonicera caerulea",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1-2 m",
+    "spread": "1-2 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Apr-May",
+    "harvestPeriod": "Jun-Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 25,
+    "tags": [
+      "shrub",
+      "adaptive",
+      "edible"
+    ],
+    "description": "Haskap, or honeyberry, is a cold-hardy adaptive shrub from Siberia and Japan that thrives in Quebec's harsh winters. Elongated blue berries ripen before strawberries with complex flavor resembling blueberries and raspberries. Plant two compatible varieties for cross-pollination. Prefers well-drained loam with full sun. First fruit within two to three years. Extremely pest resistant and low maintenance. A rising star in Quebec edible landscaping and commercial berry production across zones 2 through 6.",
+    "descriptionFr": "La camerise est un arbuste adaptatif résistant au froid dont les baies bleues mûrissent avant les fraises.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "1cb66fef-54f8-407e-9329-ee086fee74a9",
+    "name": "Hardy Kiwi",
+    "scientificName": "Actinidia arguta",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "4-6 m (vine)",
+    "spread": "3-5 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 35,
+    "tags": [
+      "vine",
+      "adaptive",
+      "edible"
+    ],
+    "description": "Hardy Kiwi produces grape-sized smooth-skinned kiwis without peeling on vigorous vines hardy to zone 4 with protection. Requires both male and female plants for fruit set. Train on sturdy trellises in full sun with well-drained loam. Prune heavily in winter for productivity. Fruits ripen after first frost for best sweetness. An exciting adaptive fruit for adventurous Quebec gardeners in milder microclimates of zones 4 through 6.",
+    "descriptionFr": "Le kiwi rustique produit des kiwis de la taille d'un raisin à peau lisse sur des vignes vigousses.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
+    "name": "Sea Buckthorn",
+    "scientificName": "Hippophae rhamnoides",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "3-6 m",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "loamy",
+      "well-drained",
+      "alkaline"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Apr-May",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 28,
+    "tags": [
+      "shrub",
+      "adaptive",
+      "edible"
+    ],
+    "description": "Sea Buckthorn is a nitrogen-fixing adaptive shrub from Eurasia producing tangy orange berries packed with vitamins on thorny branches. Extremely drought and salt tolerant, ideal for challenging Quebec sites with poor sandy soil. Requires male pollinator for every four to five females. Harvest berries by cutting branches and freezing. Used in juices, oils, and cosmetics. Fixes nitrogen improving surrounding soil. A tough adaptive plant for permaculture and edible hedgerows in zones 3 through 6.",
+    "descriptionFr": "L'argousier est un arbuste adaptatif fixateur d'azote produisant des baies orange acidulées riches en vitamines.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
+    "name": "Rugosa Rose",
+    "scientificName": "Rosa rugosa",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1-2 m",
+    "spread": "1-2 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Aug",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 22,
+    "tags": [
+      "shrub",
+      "adaptive",
+      "rose hips"
+    ],
+    "description": "Rugosa Rose is an exceptionally hardy adaptive rose tolerating salt spray, sandy soil, and Quebec winters without protection. Fragrant single pink or white flowers repeat through summer followed by large vitamin C-rich rose hips. Perfect for coastal-inspired and seaside gardens inland. Spreading habit makes excellent erosion control on slopes. Virtually disease free compared to hybrid teas. Low maintenance adaptive shrub for zones 2 through 6 with stunning fragrance and winter hip display.",
+    "descriptionFr": "Le rosier rugueux est un rosier adaptatif exceptionnellement rustique tolérant le sable et les hivers québécois.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+    "name": "Russian Sage",
+    "scientificName": "Salvia yangii",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "90-120 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "well-drained",
+      "alkaline"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "May-Jun",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 16,
+    "tags": [
+      "perennial",
+      "adaptive",
+      "drought tolerant"
+    ],
+    "description": "Russian Sage creates airy clouds of lavender-blue flowers on silvery aromatic foliage, thriving in hot dry alkaline soils where other plants struggle. This Central Asian adaptive perennial needs full sun and sharp drainage to survive Quebec winters; avoid wet clay. Cut back to 15 cm in spring. Drought tolerant once established. Pairs with ornamental grasses for xeriscape borders. A beautiful adaptive choice for well-drained sunny sites in Quebec zones 4 through 7.",
+    "descriptionFr": "La sauge russe crée des nuages aérés de fleurs bleu-lavande, prospérant dans les sols alcalins secs.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+    "name": "Sedum",
+    "scientificName": "Sedum spectabile",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "30-60 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Aug-Oct",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "adaptive",
+      "succulent"
+    ],
+    "description": "Showy Sedum is a foolproof adaptive succulent perennial with fleshy leaves and massive pink flower heads attracting butterflies in fall. Thrives in poor sandy well-drained soil with full sun; ideal for rock gardens, green roofs, and dry borders. Leave seed heads for winter interest. Divide every few years in spring. Extremely drought tolerant and deer resistant. One of the easiest adaptive perennials for beginner Quebec gardeners in zones 3 through 7.",
+    "descriptionFr": "La sedum spectabile est une vivace succulente adaptative infallible avec d'énormes têtes de fleurs roses en automne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+    "name": "Daylilies",
+    "scientificName": "Hemerocallis hybrid",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Aug",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 14,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Daylilies are among the most adaptable and forgiving perennials for Quebec gardens, producing trumpet flowers in every color except true blue. Each bloom lasts one day but plants produce dozens sequentially. Tolerates clay, drought, and neglect once established. Full sun to partial shade. Divide crowded clumps every five years. Edible flower buds popular in Asian cuisine. Virtually pest free. An essential adaptive workhorse for borders and mass plantings across zones 3 through 7.",
+    "descriptionFr": "Les hémérocalles sont parmi les vivaces les plus adaptables pour les jardins du Québec, produisant des fleurs en trompette.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+    "name": "Peonies",
+    "scientificName": "Paeonia lactiflora",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-100 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Sep-Oct",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 25,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Peonies are long-lived adaptive perennials producing extravagant fragrant blooms in late spring, living fifty years or more with minimal care. Plant bare-root divisions in fall with eyes no deeper than 5 cm; too deep prevents flowering. Full sun and well-drained loam essential. Ants on buds are harmless. Support heavy double varieties with rings. A classic Quebec garden favorite passed down through generations, thriving in zones 3 through 7 with spectacular spring display.",
+    "descriptionFr": "Les pivoines sont des vivaces adaptatives longévives produisant des fleurs extravagantes et parfumées au printemps.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "d01fd57e-7a45-4428-9b0b-5a69950aa336",
+    "name": "Bearded Iris",
+    "scientificName": "Iris germanica",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "30-45 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Jul-Aug",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Bearded Iris offers architectural sword foliage and stunning ruffled flowers in endless color combinations. Rhizomes must sit partially exposed on soil surface in full sun with excellent drainage to prevent rot. Divide every three to four years after flowering. Drought tolerant and deer resistant. Perfect for hot dry border edges in Quebec gardens. Low maintenance adaptive perennial providing reliable spring color across zones 3 through 7.",
+    "descriptionFr": "L'iris barbu offre un feuillage en épée architectural et des fleurs froncées dans d'innombrables combinaisons de couleurs.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "1c0e5051-c407-4216-8278-093073c308d3",
+    "name": "Oriental Poppy",
+    "scientificName": "Papaver orientale",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Jul-Mar",
+    "costCad": 10,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Oriental Poppy delivers huge silky flowers in scarlet, orange, pink, or white on hairy foliage, then goes dormant in summer heat. Plant in full sun with well-drained soil; avoid disturbance as poppies resent transplanting. Goes dormant after bloom; plant companions like daylilies to fill gaps. Self-seeds in gravel paths. Striking adaptive perennial for Quebec cottage gardens in zones 3 through 7 with unforgettable spring impact.",
+    "descriptionFr": "Le pavot oriental offre d'énormes fleurs soyeuses en écarlate, orange, rose ou blanc.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
+    "name": "Lupine",
+    "scientificName": "Lupinus polyphyllus",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "60-120 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Lupine produces tall spikes of pea-like flowers in blue, purple, pink, and white, fixing nitrogen to improve soil fertility. Prefers slightly acidic well-drained loam in full sun to partial shade. Short-lived perennial but self-seeds in ideal conditions. Protect from aphids with strong water spray. Classic adaptive cottage garden plant for Quebec zones 3 through 6 with dramatic vertical spring and early summer blooms.",
+    "descriptionFr": "Le lupin produit de hautes épis de fleurs en forme de pois en bleu, violet, rose et blanc.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
+    "name": "Delphinium",
+    "scientificName": "Delphinium elatum",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1.2-1.8 m",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Jul",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 18,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Delphinium creates towering spires of blue, purple, pink, or white flowers that define English cottage garden elegance in Quebec. Requires rich well-drained loam, full sun, and staking against wind and rain. Slugs are the main pest; use copper barriers or diatomaceous earth. Cut spent spikes for possible rebloom. Mulch crowns for winter protection in zone 3. High maintenance but unmatched vertical drama for adaptive perennial borders.",
+    "descriptionFr": "Le delphinium crée des épis imposants de fleurs bleues, violettes, roses ou blanches.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "15c67328-c841-4c1b-886a-59c8f94166fb",
+    "name": "Shasta Daisy",
+    "scientificName": "Leucanthemum x superbum",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-90 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "alkaline",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jun-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 10,
+    "tags": [
+      "perennial",
+      "adaptive"
+    ],
+    "description": "Shasta Daisy is a classic white daisy adaptive perennial blooming prolifically from early summer through fall. Tolerates alkaline soils where many plants fail, making it ideal for Quebec urban gardens with lime-heavy soil. Full sun and moderate moisture. Deadhead for extended bloom. Divide every two to three years. Cheerful, reliable, and low maintenance adaptive flower for beginner gardeners in zones 4 through 7.",
+    "descriptionFr": "La marguerite Shasta est une vivace adaptative classique fleurissant abondamment de l'été à l'automne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+    "name": "Coneflower",
+    "scientificName": "Echinacea purpurea",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "60-120 cm",
+    "spread": "45-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Jul-Sep",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 14,
+    "tags": [
+      "perennial",
+      "adaptive",
+      "pollinator"
+    ],
+    "description": "Purple Coneflower is a prairie adaptive perennial with raised orange cone centers surrounded by purple-pink petals, attracting butterflies and goldfinches. Extremely drought tolerant once established in full sun with well-drained loam. Leave seed heads standing for winter bird food. Medicinal uses for immune support. Self-seeds gently. A pollinator garden essential for Quebec zones 3 through 7 with months of reliable color.",
+    "descriptionFr": "L'échinacée pourpre est une vivace adaptative des prairies attirant papillons et chardonnerets.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "bf55e865-0566-4808-abb5-8bebcc52571e",
+    "name": "Russian Hawthorn",
+    "scientificName": "Crataegus ambigua",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "4-6 m",
+    "spread": "4-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 40,
+    "tags": [
+      "tree",
+      "adaptive"
+    ],
+    "description": "Russian Hawthorn is a small thorny adaptive tree with white spring flowers and red berries feeding birds through winter. Extremely cold hardy and drought tolerant once established. Tolerates urban pollution and compacted soils. Perfect small ornamental tree for Quebec city gardens needing four-season interest. Low maintenance with minimal pruning beyond shaping when young. Hardy adaptive choice for zones 3 through 6.",
+    "descriptionFr": "L'aubépine de Crimée est un petit arbre adaptatif épineux avec des fleurs blanches au printemps et des baies rouges.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "27eece07-52ed-450b-92ca-d456f2975aa8",
+    "name": "Siberian Crabapple",
+    "scientificName": "Malus baccata",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "6-10 m",
+    "spread": "5-8 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 45,
+    "tags": [
+      "tree",
+      "adaptive",
+      "edible"
+    ],
+    "description": "Siberian Crabapple is one of the hardiest flowering trees available, surviving zone 2 winters while producing clouds of white spring blossoms and tiny tart apples for jelly. Adaptable to various soils with full sun. Excellent pollinator for other apple varieties. Small persistent fruit feeds birds all winter. Disease resistant compared to domestic apples. A tough adaptive ornamental fruit tree for harsh Quebec climates.",
+    "descriptionFr": "Le pommier de Sibérie est l'un des arbres florifères les plus rustiques, survivant aux hivers de zone 2.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
+    "name": "Ussurian Pear",
+    "scientificName": "Pyrus ussuriensis",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "8-12 m",
+    "spread": "6-8 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 50,
+    "tags": [
+      "tree",
+      "adaptive",
+      "edible"
+    ],
+    "description": "Ussurian Pear is a cold-hardy adaptive pear tree from Northeast Asia producing small gritty fruit best for canning and preserves rather than fresh eating. White spring flowers and glossy foliage provide ornamental value. Tolerates clay soil and Quebec winters better than European pears. Requires cross-pollination with another pear variety. Fire blight resistant. An adaptive fruit tree option for Quebec zones 3 through 6 where standard pears fail.",
+    "descriptionFr": "Le poirier de Mandchourie est un poirier adaptatif rustique produisant de petits fruits ideal pour la conserve.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "fba9d338-e411-40aa-aac9-0d2754a72195",
+    "name": "Amur Maple",
+    "scientificName": "Acer ginnala",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "4-6 m",
+    "spread": "4-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "clay",
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 35,
+    "tags": [
+      "tree",
+      "adaptive"
+    ],
+    "description": "Amur Maple is a compact adaptive maple tree with brilliant red fall color, perfect for small Quebec yards where sugar maples grow too large. Tolerates clay soil, drought, and urban conditions. Can be grown as multi-stem shrub or single-trunk tree. Fragrant yellow spring flowers. Self-seeds readily so remove seedlings if unwanted. Low maintenance adaptive tree for zones 3 through 7 with reliable autumn display.",
+    "descriptionFr": "L'érable de Mandchourie est un érable adaptatif compact avec une couleur rouge automnale brillante.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "734cc4e7-b5ed-4966-975a-87c7515b7b92",
+    "name": "Korean Lilac",
+    "scientificName": "Syringa meyeri",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "1.5-2.5 m",
+    "spread": "2-3 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "alkaline"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 30,
+    "tags": [
+      "shrub",
+      "adaptive"
+    ],
+    "description": "Korean Lilac is a compact adaptive shrub producing fragrant lavender flower panicles without the powdery mildew problems of common lilacs. Blooms reliably in Quebec springs on neat rounded form suitable for foundations and small gardens. Full sun and well-drained soil. Prune immediately after flowering if shaping needed. Disease resistant and low maintenance adaptive lilac for zones 3 through 7.",
+    "descriptionFr": "Le lilas de Meyer est un arbuste adaptatif compact produisant des panicules de fleurs lavande parfumées.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29",
+    "name": "Dwarf Korean Lilac",
+    "scientificName": "Syringa meyeri Palibin",
+    "origin": "adaptive",
+    "isNative": false,
+    "isFruitBearing": false,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "height": "1-1.5 m",
+    "spread": "1.5-2 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "—",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 28,
+    "tags": [
+      "shrub",
+      "adaptive"
+    ],
+    "description": "Dwarf Korean Lilac Palibin is an even more compact adaptive cultivar reaching only one meter tall, perfect for containers, borders, and small Quebec urban gardens. Same fragrant lavender blooms and mildew resistance as standard Korean Lilac on a miniature scale. Full sun required. Minimal pruning. An ideal adaptive flowering shrub for tight spaces in zones 3 through 7 with legendary spring fragrance.",
+    "descriptionFr": "Le lilas de Meyer nain Palibin est un cultivar adaptatif encore plus compact, parfait pour les petits jardins urbains.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+    "name": "Honeycrisp Apple",
+    "scientificName": "Malus domestica Honeycrisp",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "4-6 m",
+    "spread": "4-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 55,
+    "tags": [
+      "tree",
+      "fruit",
+      "apple"
+    ],
+    "description": "Honeycrisp Apple is America's most popular apple variety, prized for explosively crisp juicy texture and balanced sweet-tart flavor. Requires another apple variety for cross-pollination and full sun with well-drained loam. Susceptible to apple scab in humid Quebec summers; choose resistant rootstock and prune for airflow. Thin fruit for larger apples. Harvest when seeds turn brown. High maintenance but rewarding for Quebec fruit growers in zones 4 through 6.",
+    "descriptionFr": "La pomme Honeycrisp est prisée pour sa texture croquante juteuse et sa saveur équilibrée sucrée-acidulée.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "614de45e-b116-4380-9357-5b9913087ea8",
+    "name": "McIntosh Apple",
+    "scientificName": "Malus domestica McIntosh",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "4-6 m",
+    "spread": "4-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 50,
+    "tags": [
+      "tree",
+      "fruit",
+      "apple",
+      "quebec heritage"
+    ],
+    "description": "McIntosh Apple is Quebec's heritage apple discovered near Dundela, Ontario in 1811, becoming the defining Canadian apple with tender white flesh and tart aromatic flavor perfect for pies and sauce. Thrives in Quebec's cool climate in zones 4 through 6. Requires cross-pollination. Prone to scab; spray or choose resistant cultivars. Harvest when mostly red with green background. A cultural icon and essential Quebec fruit tree for home orchards.",
+    "descriptionFr": "La pomme McIntosh est la pomme patrimoniale du Québec, découverte en 1811, devenue l'emblème de la pomme canadienne.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
+    "name": "Valley Land Apple",
+    "scientificName": "Malus domestica Valley Land",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5
+    ],
+    "height": "4-6 m",
+    "spread": "4-6 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 48,
+    "tags": [
+      "tree",
+      "fruit",
+      "apple",
+      "cold hardy"
+    ],
+    "description": "Valley Land Apple is a Canadian cold-hardy apple cultivar developed for harsh prairie and northern climates, making it excellent for colder Quebec regions in zones 3 through 5. Medium-sized red fruit with good fresh-eating quality and excellent storage life. Requires pollinator companion. Standard apple care including annual pruning, pest monitoring, and thinning. A reliable fruit-bearing choice for Quebec gardeners in shorter growing season areas.",
+    "descriptionFr": "La pomme Valley Land est un cultivar canadien rustique au froid, excellent pour les régions plus froides du Québec.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "2a577c81-2112-4c2b-972d-b579632c53d9",
+    "name": "Montmorency Cherry",
+    "scientificName": "Prunus cerasus Montmorency",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "4-5 m",
+    "spread": "3-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 45,
+    "tags": [
+      "tree",
+      "fruit",
+      "cherry"
+    ],
+    "description": "Montmorency Cherry is the standard sour cherry for pie, jam, and wine production, perfectly suited to Quebec's climate in zones 4 through 6. Self-fertile white spring blossoms followed by bright red tart cherries in July. Full sun and well-drained loam. Net trees against birds or harvest promptly. Prune in late winter maintaining open center. Productive and reliable sour cherry for Quebec home orchards and preserving enthusiasts.",
+    "descriptionFr": "La cerise Montmorency est la cerise acide standard pour tartes, confitures et vin, parfaitement adaptée au climat québécois.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "ab0e156d-9de4-477b-82d7-08bd0e887a42",
+    "name": "Nanking Cherry",
+    "scientificName": "Prunus tomentosa",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-2.5 m",
+    "spread": "2-3 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "low",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "low",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "Apr-May",
+    "harvestPeriod": "Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 30,
+    "tags": [
+      "shrub",
+      "fruit",
+      "cherry"
+    ],
+    "description": "Nanking Cherry is an extremely hardy fruit-bearing shrub from Asia producing profuse pink spring flowers and sweet-tart red cherries on compact plants. Self-fertile but plant two for heavier crops. Tolerates drought and poor soil in full sun. Birds love the fruit; harvest when fully red. Minimal pruning needed. Perfect edible hedge for Quebec zones 2 through 6 where standard cherries may not survive.",
+    "descriptionFr": "Le cerisier de Nanking est un arbuste fruitier extrêmement rustique produisant des fleurs roses profuses.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "602425cd-288a-4542-a824-17cfdfa46d71",
+    "name": "Evans Cherry",
+    "scientificName": "Prunus cerasus Evans",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "height": "4-5 m",
+    "spread": "3-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 42,
+    "tags": [
+      "tree",
+      "fruit",
+      "cherry",
+      "cold hardy"
+    ],
+    "description": "Evans Cherry is a legendary Alberta-developed sour cherry surviving zone 2 winters while producing large red fruit excellent for baking. Self-fertile and extremely productive once established in full sun with well-drained soil. Blooms late avoiding most frost damage. Standard cherry pest management applies. The best cold-hardy sour cherry option for northern Quebec fruit growers in zones 2 through 5.",
+    "descriptionFr": "La cerise Evans est une cerise acide légendaire développée en Alberta, survivant aux hivers de zone 2.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "84c9ed83-38a7-4367-93c8-f4ee033a5f81",
+    "name": "Redhaven Peach",
+    "scientificName": "Prunus persica Redhaven",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      5
+    ],
+    "height": "4-5 m",
+    "spread": "3-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 55,
+    "tags": [
+      "tree",
+      "fruit",
+      "peach",
+      "zone 5 only"
+    ],
+    "description": "Redhaven Peach is the most reliable peach for Quebec's warmest zone 5 microclimates along the St. Lawrence River valley. Produces medium-sized freestone fruit with excellent flavor when given full sun, shelter from wind, and well-drained loam. Flowers early and may need frost protection. Prune annually to open center. Only recommended for Montreal area and mildest Quebec sites. High maintenance but possible reward for zone 5 gardeners willing to protect blooms.",
+    "descriptionFr": "La pêche Redhaven est la pêche la plus fiable pour les microclimats les plus chauds de la zone 5 du Québec.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "f583b277-6361-427d-bf07-09d08bca91e2",
+    "name": "Bartlett Pear",
+    "scientificName": "Pyrus communis Bartlett",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      5,
+      6
+    ],
+    "height": "4-6 m",
+    "spread": "3-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 52,
+    "tags": [
+      "tree",
+      "fruit",
+      "pear"
+    ],
+    "description": "Bartlett Pear is the world's most popular pear variety producing golden buttery fruit perfect for fresh eating and canning. Requires another pear variety for pollination and full sun in well-drained loam. Fire blight is the main concern in humid Quebec; prune affected branches immediately. Harvest when green and ripen indoors. Best suited to milder Quebec zone 5 and 6 locations with good air circulation and proactive disease management.",
+    "descriptionFr": "La poire Bartlett est la variété de poire la plus populaire au monde, produisant des fruits dorés beurrés.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "7218088d-ee0a-45f4-a868-ac6cc282dbd6",
+    "name": "Flemish Beauty Pear",
+    "scientificName": "Pyrus communis Flemish Beauty",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "4-6 m",
+    "spread": "3-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "clay",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 48,
+    "tags": [
+      "tree",
+      "fruit",
+      "pear",
+      "cold hardy"
+    ],
+    "description": "Flemish Beauty Pear is a cold-hardy heirloom pear variety well suited to Quebec zones 4 through 6, producing large russeted fruit with rich aromatic flavor when fully ripened on the tree. Partially self-fertile but benefits from pollinator. More fire blight tolerant than Bartlett. Full sun and well-drained soil. A heritage fruit tree choice for Quebec orchards seeking reliable pear production in cooler climates.",
+    "descriptionFr": "La poire Flemish Beauty est une variété patrimoniale rustique au froid, bien adaptée aux zones 4 à 6 du Québec.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+    "name": "Red Raspberry",
+    "scientificName": "Rubus idaeus",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-2 m",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 18,
+    "tags": [
+      "berry",
+      "fruit",
+      "raspberry"
+    ],
+    "description": "Red Raspberry is a classic summer-bearing cane fruit producing sweet red berries on two-year-old canes. Plant in full sun with well-drained slightly acidic loam; support with trellis or posts. Prune out fruited canes after harvest leaving new growth for next year. Mulch to retain moisture and suppress weeds. Extremely productive in Quebec zones 3 through 6 with minimal disease issues when properly spaced for air circulation.",
+    "descriptionFr": "La framboise rouge est un petit fruit classique produisant des baies rouges sucrées sur des cannes bisannuelles.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
+    "name": "Golden Raspberry",
+    "scientificName": "Rubus idaeus Anne",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-2 m",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 20,
+    "tags": [
+      "berry",
+      "fruit",
+      "raspberry"
+    ],
+    "description": "Golden Raspberry Anne produces unique amber-yellow berries with honey-sweet flavor on everbearing canes yielding two crops in Quebec. Full sun and well-drained loam with consistent moisture during fruiting. Same pruning as red raspberries. Birds may prefer red varieties leaving golden berries for you. A delightful fruit-bearing novelty for Quebec berry patches in zones 4 through 6.",
+    "descriptionFr": "La framboise dorée Anne produit des baies ambre-jaune uniques au goût miel sucré.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "275ff5cb-d174-46da-869b-26b21d54ebdc",
+    "name": "Black Raspberry",
+    "scientificName": "Rubus occidentalis",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-2 m",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 18,
+    "tags": [
+      "berry",
+      "fruit",
+      "raspberry"
+    ],
+    "description": "Black Raspberry produces intense dark purple berries with distinctive flavor prized for jam and wine. Arching canes root at tips; manage spread by mowing or cutting. Full sun and well-drained acidic soil. Prune similarly to red raspberries. More disease resistant than some brambles. A productive fruit-bearing bramble for Quebec zones 4 through 6 with unique flavor profile.",
+    "descriptionFr": "La framboise noire produit des baies violet foncé intenses au goût distinctive, prisées pour les confitures.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
+    "name": "June-bearing Strawberry",
+    "scientificName": "Fragaria x ananassa",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "height": "15-20 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained",
+      "acidic"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jun-Jul",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 12,
+    "tags": [
+      "berry",
+      "fruit",
+      "strawberry"
+    ],
+    "description": "June-bearing Strawberry delivers one large concentrated harvest of sweet berries ideal for jam making and freezing. Plant in full sun with well-drained acidic loam raised beds to prevent crown rot. Renovate beds after harvest by mowing and thinning. Mulch with straw over winter. Replace plantings every three to four years. The classic Quebec strawberry patch choice for zones 3 through 6 with unbeatable early summer flavor.",
+    "descriptionFr": "La fraise remontante de juin offre une grande récolte concentrée de baies sucrées idéale pour les confitures.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "689826db-a9c0-4324-9220-f6cfbda050e4",
+    "name": "Everbearing Strawberry",
+    "scientificName": "Fragaria x ananassa Seascape",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "15-20 cm",
+    "spread": "30-60 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Oct",
+    "harvestPeriod": "Jun-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 14,
+    "tags": [
+      "berry",
+      "fruit",
+      "strawberry"
+    ],
+    "description": "Everbearing Strawberry Seascape produces steady crops from June through fall frost, perfect for fresh eating throughout the season. Full sun and well-drained soil with regular watering during fruiting. Remove runners to focus energy on fruit or let spread for groundcover. Protect from slugs with straw mulch. Ideal for containers and small Quebec gardens in zones 4 through 6 wanting extended harvest windows.",
+    "descriptionFr": "La fraise remontante Seascape produit des récoltes régulières de juin aux gelées automnales.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
+    "name": "Highbush Blueberry",
+    "scientificName": "Vaccinium corymbosum",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "1.5-2 m",
+    "spread": "1-1.5 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "acidic",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 22,
+    "tags": [
+      "shrub",
+      "fruit",
+      "blueberry"
+    ],
+    "description": "Highbush Blueberry is the cultivated blueberry standard producing large sweet berries on upright shrubs for Quebec zones 4 through 6. Requires acidic soil pH 4.5-5.5; test and amend with sulfur or peat before planting. Plant two or more varieties for cross-pollination. Full sun and consistent moisture with pine needle mulch. Net against birds. Prune old canes in late winter. Essential Quebec fruit shrub for acidic garden sites.",
+    "descriptionFr": "Le bleuet en corymbe est le bleuet cultivé standard produisant de grosses baies sucrées.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
+    "name": "Half-High Blueberry",
+    "scientificName": "Vaccinium corymbosum x angustifolium",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5
+    ],
+    "height": "60-120 cm",
+    "spread": "60-90 cm",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "sandy",
+      "acidic",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Jul-Aug",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 20,
+    "tags": [
+      "shrub",
+      "fruit",
+      "blueberry",
+      "cold hardy"
+    ],
+    "description": "Half-High Blueberry hybrids like Northblue combine lowbush hardiness with highbush berry size, perfect for colder Quebec zones 3 through 5. Compact plants suit containers and small gardens. Same acidic soil requirements as other blueberries. Full sun essential. Extremely winter hardy without protection. A cold-hardy fruit-bearing blueberry option bridging wild and cultivated types for northern Quebec gardeners.",
+    "descriptionFr": "Les bleuets demi-hauts combinent la rusticité du bleuet sauvage avec la taille des bleuets cultivés.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "53e01557-1740-4f69-95ef-cceac625b46f",
+    "name": "Concord Grape",
+    "scientificName": "Vitis labrusca Concord",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      4,
+      5,
+      6
+    ],
+    "height": "3-5 m (vine)",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "well-drained"
+    ],
+    "maintenance": "high",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Sep-Oct",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 25,
+    "tags": [
+      "vine",
+      "fruit",
+      "grape"
+    ],
+    "description": "Concord Grape is the classic American slip-skin grape producing abundant purple fruit for juice, jelly, and fresh eating with distinctive fox grape flavor. Hardy in Quebec zones 4 through 6 on sturdy trellis systems in full sun. Prune heavily in late winter to spurs on two-year wood. Japanese beetles are the main pest. Train on pergola or arbor for shade and fruit. A traditional Quebec fruit vine for home wine and jelly makers.",
+    "descriptionFr": "Le raisin Concord est le raisin américain classique produisant des fruits violets abondants pour jus et gelée.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  },
+  {
+    "id": "311e8c99-481d-415f-8594-995150991321",
+    "name": "Valiant Grape",
+    "scientificName": "Vitis spp. Valiant",
+    "origin": "fruit-bearing",
+    "isNative": false,
+    "isFruitBearing": true,
+    "hardinessZone": [
+      3,
+      4,
+      5
+    ],
+    "height": "3-5 m (vine)",
+    "spread": "2-4 m",
+    "sunRequirements": "full-sun",
+    "waterNeeds": "medium",
+    "soilPreference": [
+      "loamy",
+      "sandy",
+      "well-drained"
+    ],
+    "maintenance": "medium",
+    "plantingPeriod": "Apr-May",
+    "bloomPeriod": "May-Jun",
+    "harvestPeriod": "Aug-Sep",
+    "dormancyPeriod": "Nov-Mar",
+    "costCad": 22,
+    "tags": [
+      "vine",
+      "fruit",
+      "grape",
+      "cold hardy"
+    ],
+    "description": "Valiant Grape is among the hardiest grape varieties available, surviving zone 3 Quebec winters and producing small blue-black fruit excellent for juice and jelly. Developed for northern climates with short growing seasons. Full sun and well-drained soil with strong trellis support. Less vigorous than Concord requiring less pruning. The best fruit-bearing grape option for cold Quebec regions where standard grapes fail to overwinter reliably.",
+    "descriptionFr": "Le raisin Valiant est l'une des variétés de raisin les plus rustiques, survivant aux hivers de zone 3.",
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "solution": "Check soil moisture and nutrient levels; adjust watering schedule."
+      },
+      {
+        "problem": "Pest damage",
+        "solution": "Inspect regularly; use insecticidal soap or introduce beneficial insects."
+      },
+      {
+        "problem": "Slow growth",
+        "solution": "Ensure adequate sunlight and amend soil with compost in spring."
+      }
+    ]
+  }
+]
