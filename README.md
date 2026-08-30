@@ -6,6 +6,40 @@ A beginner-friendly, bilingual (English / French) web app for gardeners in **Sou
 
 ---
 
+## Screenshots
+
+### Dashboard & plant browser
+Browse 63+ plants with search, filters, and a built-in soil testing wizard.
+
+![Dashboard with hero, soil wizard, filters, and plant grid](docs/screenshots/dashboard.png)
+
+### Plant detail
+Care calendar, beginner score, quick care stats, troubleshooting, and PDF export.
+
+![Sugar Maple plant detail modal](docs/screenshots/plant-detail.png)
+
+### Garden planner
+Drag-and-drop plants onto 4×4, 4×8, or 8×8 bed grids with spacing hints.
+
+![Garden layout planner with plant palette and grid](docs/screenshots/garden-planner.png)
+
+### Seed starting
+Frost-date presets for Quebec cities with indoor start and transplant timelines.
+
+![Seed starting scheduler with city selector and timeline](docs/screenshots/seed-starting.png)
+
+### IPM guide
+Identify common Quebec garden pests and find natural control methods.
+
+![Integrated pest management guide with pest cards](docs/screenshots/ipm.png)
+
+### Dark mode
+Toggle light/dark theme from the navbar — preference saved automatically.
+
+![Dashboard in dark mode](docs/screenshots/dark-mode.png)
+
+---
+
 ## What This Website Does
 
 ### Plant discovery
