@@ -44,7 +44,7 @@ function saveJSON(key, value) {
 /** @type {AdvancedFilterState} */
 const defaultAdvancedFilters = {
   bloomColors: [],
-  heightRange: [0, 500],
+  heightRange: [0, 4000],
   foliageColor: 'all',
   foliageTexture: 'all',
   wildlifeFilter: [],

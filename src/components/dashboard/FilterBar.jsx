@@ -173,7 +173,7 @@ export default function FilterBar() {
                 <input
                   type="range"
                   min="0"
-                  max="500"
+                  max="4000"
                   value={advancedFilters.heightRange[0]}
                   onChange={(e) => setAdvancedFilters({ heightRange: [Number(e.target.value), advancedFilters.heightRange[1]] })}
                   className="flex-1"
@@ -182,7 +182,7 @@ export default function FilterBar() {
                 <input
                   type="range"
                   min="0"
-                  max="500"
+                  max="4000"
                   value={advancedFilters.heightRange[1]}
                   onChange={(e) => setAdvancedFilters({ heightRange: [advancedFilters.heightRange[0], Number(e.target.value)] })}
                   className="flex-1"

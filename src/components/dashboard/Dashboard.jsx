@@ -2,6 +2,7 @@ import { useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from '../../i18n/useTranslation';
 import SoilTester from '../soil/SoilTester';
+import SoilSuggestionBanner from '../soil/SoilSuggestionBanner';
 import FilterBar from './FilterBar';
 import ResultsGrid from './ResultsGrid';
 
@@ -34,9 +35,10 @@ export default function Dashboard() {
       </section>
 
       <div className="mx-auto max-w-7xl space-y-8 px-4 py-8">
-        <SoilTester onSkip={scrollToResults} />
+        <SoilTester onSkip={scrollToResults} onComplete={scrollToResults} />
 
         <div ref={resultsRef}>
+          <SoilSuggestionBanner />
           <FilterBar />
           <div className="mt-6">
             <ResultsGrid />

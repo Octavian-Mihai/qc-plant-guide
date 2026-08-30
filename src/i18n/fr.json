@@ -273,7 +273,15 @@
     "textureSilty": "Silteux — lisse, sensation savonneuse",
     "phAcidic": "Acide (pH inférieur à 6,5)",
     "phNeutral": "Neutre (pH 6,5–7,5)",
-    "phAlkaline": "Alcalin (pH supérieur à 7,5)"
+    "phAlkaline": "Alcalin (pH supérieur à 7,5)",
+    "suggestionTitle": "Plantes recommandées pour votre profil de sol",
+    "suggestionCount": "{count} plantes correspondent fortement (texture + plusieurs critères).",
+    "suggestionModerate": "{count} autres plantes pourraient tolérer votre sol avec des amendements — non affichées ci-dessous.",
+    "suggestionOnlyModerate": "Aucune correspondance forte, mais {count} plantes pourraient tolérer votre sol avec des soins supplémentaires.",
+    "suggestionNone": "Aucune plante ne correspond fortement à ce profil de sol.",
+    "suggestionHint": "Une correspondance forte exige votre texture de sol plus au moins deux critères compatibles (pH, drainage, etc.).",
+    "viewSuggestions": "Voir les suggestions",
+    "clearFilter": "Retirer le filtre sol"
   },
   "microgreens": {
     "title": "Micropousses 101",

@@ -5,7 +5,7 @@ import { getZoneDisplay, getPlantAttributeChips } from '../../utils/plantHelpers
 import { OriginBadge } from './Badge';
 import FavoriteButton from './FavoriteButton';
 import useStore from '../../store/useStore';
-import { matchSoilCompatibility } from '../../services/soilMatcher';
+import { getSoilMatchTier } from '../../services/soilMatcher';
 import { useTranslation } from '../../i18n/useTranslation';
 import Badge from './Badge';
 
@@ -24,8 +24,8 @@ const PlantCard = memo(function PlantCard({ plant }) {
     return () => { cancelled = true; };
   }, [plant.name]);
 
-  const soilMatch =
-    soilTestResult && matchSoilCompatibility(plant.soilPreference, soilTestResult);
+  const soilTier =
+    soilTestResult && getSoilMatchTier(plant.soilPreference, soilTestResult);
 
   const chips = getPlantAttributeChips(plant, 'en', t).slice(0, 3);
 
@@ -41,7 +41,7 @@ const PlantCard = memo(function PlantCard({ plant }) {
           />
           <div className="absolute left-2 top-2 flex flex-wrap gap-1">
             <OriginBadge origin={plant.origin} />
-            {soilMatch && <Badge type="soil">✓ {t('badges.soilMatch')}</Badge>}
+            {soilTier === 'strong' && <Badge type="soil">✓ {t('badges.soilMatch')}</Badge>}
           </div>
           <div className="absolute right-2 top-2">
             <FavoriteButton plantId={plant.id} className="bg-white/80 dark:bg-darkbg-card/80" />

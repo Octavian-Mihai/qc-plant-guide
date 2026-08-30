@@ -273,7 +273,15 @@
     "textureSilty": "Silty — smooth, soapy feel",
     "phAcidic": "Acidic (pH below 6.5)",
     "phNeutral": "Neutral (pH 6.5–7.5)",
-    "phAlkaline": "Alkaline (pH above 7.5)"
+    "phAlkaline": "Alkaline (pH above 7.5)",
+    "suggestionTitle": "Recommended plants for your soil profile",
+    "suggestionCount": "{count} plants are a strong match (texture + multiple soil criteria).",
+    "suggestionModerate": "{count} other plants may tolerate your soil with amendments — not shown below.",
+    "suggestionOnlyModerate": "No strong matches, but {count} plants may tolerate your soil with extra care (compost, drainage improvements).",
+    "suggestionNone": "No plants in our database strongly match this soil profile.",
+    "suggestionHint": "Strong matches require your soil texture plus at least two compatible criteria (pH, drainage, etc.).",
+    "viewSuggestions": "View plant suggestions",
+    "clearFilter": "Clear soil filter"
   },
   "microgreens": {
     "title": "Microgreens 101",

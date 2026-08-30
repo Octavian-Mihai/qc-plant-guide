@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react';
 import useStore from '../../store/useStore';
-import { getSoilSummary } from '../../services/soilMatcher';
+import { getSoilSummary, countSoilMatches } from '../../services/soilMatcher';
 import { useTranslation } from '../../i18n/useTranslation';
 import JarTest from './JarTest';
 import TouchTest from './TouchTest';
@@ -10,10 +10,12 @@ import PHTest from './pHTest';
  * 3-step soil testing wizard: method → results → drainage.
  * Output calls setSoilTestResult + applyFilters on the store.
  */
-export default function SoilTester({ onSkip }) {
+export default function SoilTester({ onSkip, onComplete }) {
   const { t, locale } = useTranslation();
   const setSoilTestResult = useStore((s) => s.setSoilTestResult);
   const soilTestResult = useStore((s) => s.soilTestResult);
+  const plants = useStore((s) => s.plants);
+  const filteredPlants = useStore((s) => s.filteredPlants);
 
   const [step, setStep] = useState(1);
   const [method, setMethod] = useState(null);
@@ -25,7 +27,9 @@ export default function SoilTester({ onSkip }) {
     if (!texture || !drainage) return;
     setSoilTestResult({ texture, ph, drainage });
     setStep(4);
-  }, [texture, ph, drainage, setSoilTestResult]);
+    // Scroll to results after store updates (next tick)
+    requestAnimationFrame(() => onComplete?.());
+  }, [texture, ph, drainage, setSoilTestResult, onComplete]);
 
   const handleSkip = () => {
     setSoilTestResult(null);
@@ -143,6 +147,24 @@ export default function SoilTester({ onSkip }) {
           <div className="rounded-lg bg-forest/5 p-4 dark:bg-forest/10">
             <p className="font-semibold">✓ {t('soil.result')}</p>
             <p className="mt-1 text-forest dark:text-forest-lighter">{getSoilSummary(soilTestResult, locale)}</p>
+            <p className="mt-2 text-sm text-muted">
+              {filteredPlants.length > 0
+                ? t('soil.suggestionCount', { count: filteredPlants.length })
+                : countSoilMatches(plants, soilTestResult).moderate > 0
+                  ? t('soil.suggestionOnlyModerate', {
+                      count: countSoilMatches(plants, soilTestResult).moderate,
+                    })
+                  : t('soil.suggestionNone')}
+            </p>
+            {filteredPlants.length > 0 && (
+              <button
+                type="button"
+                onClick={() => onComplete?.()}
+                className="btn-primary mt-3"
+              >
+                {t('soil.viewSuggestions')}
+              </button>
+            )}
           </div>
         )}
       </div>

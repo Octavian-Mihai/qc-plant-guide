@@ -7,7 +7,7 @@
 /** @typedef {import('../types').AdvancedFilterState} AdvancedFilterState */
 /** @typedef {import('../types').SoilTestResult} SoilTestResult */
 
-import { matchSoilCompatibility } from '../services/soilMatcher';
+import { matchSoilCompatibility, getSoilMatchScore } from '../services/soilMatcher';
 
 const ORIGIN_ORDER = { 'native-qc': 0, adaptive: 1, 'fruit-bearing': 2, introduced: 3 };
 
@@ -70,7 +70,11 @@ export function filterPlants(plants, filters) {
       }
 
       const [hMin, hMax] = advancedFilters.heightRange;
-      if (plant.heightCmMax < hMin || plant.heightCmMin > hMax) return false;
+      // Skip height filter when at default "show all" range (0–4000 cm)
+      const heightFilterActive = hMin > 0 || hMax < 4000;
+      if (heightFilterActive && (plant.heightCmMax < hMin || plant.heightCmMin > hMax)) {
+        return false;
+      }
 
       if (advancedFilters.foliageColor !== 'all' && plant.foliageColor !== advancedFilters.foliageColor) {
         return false;
@@ -110,11 +114,23 @@ export function filterPlants(plants, filters) {
     return true;
   });
 
-  return sortPlants(result, query);
+  return sortPlants(result, query, soilTestResult);
 }
 
-export function sortPlants(plants, query = '') {
+/**
+ * @param {Plant[]} plants
+ * @param {string} query
+ * @param {SoilTestResult|null} [soilTestResult]
+ */
+export function sortPlants(plants, query = '', soilTestResult = null) {
   return [...plants].sort((a, b) => {
+    if (soilTestResult) {
+      const scoreDiff =
+        getSoilMatchScore(b.soilPreference, soilTestResult) -
+        getSoilMatchScore(a.soilPreference, soilTestResult);
+      if (scoreDiff !== 0) return scoreDiff;
+    }
+
     const originDiff = (ORIGIN_ORDER[a.origin] ?? 99) - (ORIGIN_ORDER[b.origin] ?? 99);
     if (originDiff !== 0) return originDiff;
 
