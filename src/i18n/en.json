@@ -3,7 +3,16 @@
     "home": "Home",
     "microgreens": "Microgreens",
     "learn": "Learn",
-    "language": "Language"
+    "language": "Language",
+    "explore": "Explore",
+    "tools": "Tools",
+    "learnGroup": "Learn",
+    "favorites": "Favorites",
+    "compare": "Compare",
+    "gardenPlanner": "Garden Planner",
+    "seedStarting": "Seed Starting",
+    "companions": "Companions",
+    "ipm": "IPM Guide"
   },
   "hero": {
     "title": "Quebec Plant Zone Guide",
@@ -26,7 +35,59 @@
     "originAdaptive": "Winter Hardy",
     "originFruit": "Fruit Bearing",
     "reset": "Reset Filters",
-    "noResults": "No plants match your filters"
+    "noResults": "No plants match your filters",
+    "advanced": {
+      "title": "Advanced Filters",
+      "bloomColor": "Bloom Color",
+      "height": "Height Range",
+      "heightMin": "Minimum height",
+      "heightMax": "Maximum height",
+      "foliageColor": "Foliage Color",
+      "foliageTexture": "Foliage Texture",
+      "wildlifeLabel": "Wildlife Attracted",
+      "edibleLabel": "Edible Parts",
+      "medicinalOnly": "Medicinal uses only",
+      "droughtTolerant": "Drought tolerant",
+      "deerResistant": "Deer resistant",
+      "saltTolerant": "Salt tolerant",
+      "all": "All",
+      "reset": "Reset advanced filters",
+      "colors": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "white": "White",
+        "purple": "Purple",
+        "orange": "Orange",
+        "pink": "Pink",
+        "green": "Green"
+      },
+      "wildlife": {
+        "butterflies": "Butterflies",
+        "bees": "Bees",
+        "hummingbirds": "Hummingbirds",
+        "birds": "Birds"
+      },
+      "edible": {
+        "fruit": "Fruit",
+        "leaves": "Leaves",
+        "roots": "Roots",
+        "flowers": "Flowers",
+        "seeds": "Seeds"
+      },
+      "foliageColors": {
+        "green": "Green",
+        "purple": "Purple",
+        "variegated": "Variegated",
+        "silver": "Silver",
+        "red": "Red"
+      },
+      "foliageTextures": {
+        "fine": "Fine",
+        "medium": "Medium",
+        "coarse": "Coarse"
+      }
+    }
   },
   "plant": {
     "zones": "Hardiness",
@@ -46,13 +107,145 @@
     "close": "Close",
     "planting": "Planting",
     "bloom": "Bloom",
-    "harvest": "Harvest"
+    "harvest": "Harvest",
+    "attributes": "Plant Attributes"
   },
   "badges": {
     "native": "Native QC",
     "adaptive": "Adaptive",
     "fruit": "Fruit",
     "soilMatch": "Soil Match"
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "subtitle": "Your saved plants and wishlist",
+    "add": "Add to favorites",
+    "remove": "Remove from favorites",
+    "empty": "No favorites yet. Browse plants and click the heart icon!",
+    "browse": "Browse Plants",
+    "share": "Copy Wishlist Link",
+    "copied": "Wishlist link copied!",
+    "mergeConfirm": "Add shared plants to your favorites?"
+  },
+  "compare": {
+    "title": "Compare Plants",
+    "subtitle": "Side-by-side comparison of up to 3 plants",
+    "add": "Compare",
+    "remove": "Remove",
+    "clear": "Clear all",
+    "view": "Compare",
+    "barTitle": "Compare list:",
+    "empty": "No plants selected for comparison.",
+    "browse": "Browse Plants",
+    "attribute": "Attribute",
+    "name": "Name",
+    "zones": "Zones",
+    "height": "Height",
+    "sun": "Sun",
+    "water": "Water",
+    "soil": "Soil",
+    "bloom": "Bloom Colors",
+    "wildlife": "Wildlife",
+    "deer": "Deer Resistant",
+    "cost": "Cost",
+    "beginner": "Beginner Score",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "garden": {
+    "title": "Garden Layout Planner",
+    "subtitle": "Drag and drop plants onto your garden bed grid",
+    "bed": "bed",
+    "save": "Save Layout",
+    "load": "Load Layout",
+    "selectLayout": "Select a saved layout",
+    "delete": "Delete",
+    "savePrompt": "Layout name:",
+    "defaultName": "My Garden",
+    "spacing": "Spacing Calculator",
+    "selectPlant": "Select a plant on the grid to see spacing info",
+    "plant": "Plant",
+    "requiredSpacing": "Required spacing",
+    "gridCells": "Grid cells needed",
+    "companionHints": "Companion Hints",
+    "goodCompanion": "{{a}} pairs well with {{b}}",
+    "badCompanion": "{{a}} should not be planted near {{b}}",
+    "overcrowded": "Warning: Some plants are too close together",
+    "clearCell": "Clear Cell"
+  },
+  "companions": {
+    "title": "Companion Planting",
+    "subtitle": "Learn which plants grow well together in Quebec gardens",
+    "matrix": "Companion Matrix",
+    "selectPlant": "Select a plant",
+    "allelopathic": "Allelopathic Effects",
+    "threeSisters": "Three Sisters Layout",
+    "pollinator": "Pollinator Combinations",
+    "succession": "Succession Planting",
+    "forPlant": "Companions for {{name}}",
+    "viewForPlant": "View Companions",
+    "status": {
+      "good": "Good",
+      "bad": "Avoid",
+      "neutral": "Neutral"
+    }
+  },
+  "ipm": {
+    "title": "Integrated Pest Management",
+    "subtitle": "Identify and manage common Quebec garden pests naturally",
+    "disclaimer": "Informational only — always follow product labels and local regulations.",
+    "filterType": "Pest type",
+    "filterPlant": "Affected plant",
+    "allTypes": "All types",
+    "allPlants": "All plants",
+    "insect": "Insects",
+    "mammal": "Mammals",
+    "affectedPlants": "Affected Plants",
+    "naturalControls": "Natural Controls",
+    "organicTreatments": "Organic Treatments",
+    "beneficialPlants": "Beneficial Attractor Plants"
+  },
+  "seeds": {
+    "title": "Seed Starting Guide",
+    "subtitle": "Plan indoor starts and transplant dates based on Quebec frost dates",
+    "selectCity": "Select your city",
+    "selectPlant": "Select a plant",
+    "choosePlant": "Choose a plant...",
+    "lastFrost": "Last frost date",
+    "timeline": "Planting Timeline",
+    "indoorStart": "Start seeds indoors",
+    "hardeningStart": "Begin hardening off",
+    "transplant": "Transplant outdoors",
+    "soilTemp": "Soil Temperature Guide",
+    "soilTempHint": "Enter your observed soil temperature to check if conditions are right.",
+    "minRequired": "Minimum required",
+    "observedTemp": "Observed soil temp (°C)",
+    "tempMet": "Soil temperature is adequate for planting!",
+    "tempNotMet": "Soil is still too cold — wait for warmer weather.",
+    "hardeningSchedule": "7-Day Hardening Schedule",
+    "day": "Day {{n}}",
+    "scheduleReminders": "Schedule Reminders",
+    "remindersSet": "Reminders scheduled!",
+    "notify": "Enable notifications",
+    "notifyGranted": "Notifications enabled",
+    "activeReminders": "Active Reminders",
+    "reminderTitle": "Seed Starting Reminder",
+    "reminder": {
+      "start": "Time to start seeds indoors",
+      "hardening": "Begin hardening off seedlings",
+      "transplant": "Time to transplant outdoors"
+    }
+  },
+  "print": {
+    "print": "Print",
+    "exportPdf": "Export PDF",
+    "printCalendar": "Print Calendar",
+    "exportCalendarPdf": "Export Calendar PDF"
+  },
+  "theme": {
+    "toggle": "Toggle dark mode",
+    "light": "Light mode",
+    "dark": "Dark mode"
   },
   "soil": {
     "title": "Soil Testing Wizard",

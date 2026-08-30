@@ -12,7 +12,7 @@ const OptionCard = memo(function OptionCard({ selected, onClick, title, color })
       aria-pressed={selected}
     >
       {color && <span className="h-8 w-8 rounded-full border border-forest/20" style={{ backgroundColor: color }} />}
-      <span className="font-semibold text-forest-dark">{title}</span>
+      <span className="font-semibold">{title}</span>
     </button>
   );
 });
@@ -36,8 +36,8 @@ function PHTest({ texture, ph, onTextureChange, onPhChange }) {
 
   return (
     <div className="space-y-6">
-      <div className="rounded-lg bg-cream p-4 text-sm text-forest/80">
-        <p className="font-medium text-forest-dark">pH strip guide:</p>
+      <div className="surface-muted rounded-lg p-4 text-sm text-subtle">
+        <p className="font-medium">pH strip guide:</p>
         <ul className="mt-2 list-inside list-disc space-y-1">
           <li>Dip strip in soil-water mixture for 30 seconds</li>
           <li>Compare color to chart on strip package</li>
@@ -46,7 +46,7 @@ function PHTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">pH result:</p>
+        <p className="mb-2 font-medium">pH result:</p>
         <div className="grid gap-2">
           {phOptions.map((opt) => (
             <OptionCard
@@ -61,7 +61,7 @@ function PHTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">Also note texture:</p>
+        <p className="mb-2 font-medium">Also note texture:</p>
         <div className="grid gap-2 sm:grid-cols-2">
           {textures.map((opt) => (
             <OptionCard

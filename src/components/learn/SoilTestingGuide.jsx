@@ -9,15 +9,15 @@ function SoilTestingGuide() {
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-8">
-      <Link to="/learn" className="text-sm text-forest underline">← {t('common.back')}</Link>
+      <Link to="/learn" className="link-forest text-sm">← {t('common.back')}</Link>
       <h1 className="section-title mt-4">{t('learn.soilTesting')}</h1>
-      <p className="mt-2 text-forest/70">{t('learn.soilTestingDesc')}</p>
+      <p className="mt-2 text-muted">{t('learn.soilTestingDesc')}</p>
 
       <div className="mt-8 space-y-6">
-        <div className="card prose prose-sm text-forest/80">
-          <h3 className="font-semibold text-forest-dark">Why test your soil?</h3>
+        <div className="card prose prose-sm text-subtle dark:prose-invert">
+          <h3 className="font-semibold">Why test your soil?</h3>
           <p>Quebec soils vary from sandy Laurentian highlands to heavy clay in river valleys. Knowing your texture, pH, and drainage helps you choose plants that will thrive rather than struggle.</p>
-          <h3 className="mt-4 font-semibold text-forest-dark">Three easy home tests</h3>
+          <h3 className="mt-4 font-semibold">Three easy home tests</h3>
           <ul className="list-inside list-disc">
             <li><strong>Jar test</strong> — reveals sand, silt, and clay proportions</li>
             <li><strong>Touch test</strong> — quick ribbon test without equipment</li>

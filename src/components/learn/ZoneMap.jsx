@@ -15,17 +15,16 @@ function ZoneMap() {
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
-      <Link to="/learn" className="text-sm text-forest underline">← {t('common.back')}</Link>
+      <Link to="/learn" className="link-forest text-sm">← {t('common.back')}</Link>
       <h1 className="section-title mt-4">{t('zones.title')}</h1>
-      <p className="mt-2 text-forest/70">{t('zones.subtitle')}</p>
+      <p className="mt-2 text-muted">{t('zones.subtitle')}</p>
 
       <div className="card mt-8">
         <svg viewBox="0 0 400 280" className="mx-auto w-full max-w-lg" aria-label="Quebec zone map">
           {/* Simplified Quebec outline */}
           <path
             d="M80,40 L320,30 L350,120 L340,240 L120,260 L60,180 Z"
-            fill="#F8F9FA"
-            stroke="#1B4332"
+            className="fill-offwhite stroke-forest-dark dark:fill-darkbg-card dark:stroke-darkbg-text"
             strokeWidth="2"
           />
           {ZONE_DATA.map(({ zone, color, y }) => (
@@ -36,7 +35,7 @@ function ZoneMap() {
               </text>
             </g>
           ))}
-          <text x="200" y="270" textAnchor="middle" fill="#1B4332" fontSize="12">
+          <text x="200" y="270" textAnchor="middle" className="fill-forest-dark dark:fill-darkbg-text" fontSize="12">
             Southern & Central Quebec
           </text>
         </svg>

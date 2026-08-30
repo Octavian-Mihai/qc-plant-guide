@@ -9,7 +9,7 @@ function LoadingSpinner({ size = 'md' }) {
   return (
     <div className="flex items-center justify-center p-8" role="status" aria-label={t('common.loading')}>
       <div
-        className={`${sizes[size]} animate-spin rounded-full border-4 border-forest/20 border-t-forest`}
+        className={`${sizes[size]} animate-spin rounded-full border-4 border-forest/20 border-t-forest dark:border-forest/30 dark:border-t-forest-lighter`}
       />
     </div>
   );

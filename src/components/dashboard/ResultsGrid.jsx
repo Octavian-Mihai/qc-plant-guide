@@ -35,7 +35,7 @@ export default function ResultsGrid() {
 
   if (filteredPlants.length === 0) {
     return (
-      <div className="py-16 text-center text-forest/60">
+      <div className="py-16 text-center text-muted">
         <p className="text-lg">{t('filters.noResults')}</p>
       </div>
     );
@@ -49,7 +49,7 @@ export default function ResultsGrid() {
         ))}
       </div>
       {hasMore && (
-        <div ref={sentinelRef} className="py-8 text-center text-sm text-forest/50">
+        <div ref={sentinelRef} className="py-8 text-center text-sm text-muted">
           Loading more...
         </div>
       )}

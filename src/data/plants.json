@@ -47,7 +47,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 2000,
+    "heightCmMax": 3500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "f28bb77d-509e-47c6-8839-96fae5e5c849",
@@ -97,7 +120,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 2000,
+    "heightCmMax": 3000,
+    "spacingCm": 300,
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e",
+      "900ac3c3-a487-4b81-a806-2e90b28ea69b"
+    ],
+    "avoidIds": []
   },
   {
     "id": "900ac3c3-a487-4b81-a806-2e90b28ea69b",
@@ -148,7 +193,28 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 2500,
+    "heightCmMax": 4000,
+    "spacingCm": 300,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "f28bb77d-509e-47c6-8839-96fae5e5c849",
+      "aaebdc0a-0c98-4ed5-86c6-b216b7d3a47e"
+    ],
+    "avoidIds": []
   },
   {
     "id": "ac014d84-3672-4d0f-a4fe-318f9eb60706",
@@ -198,7 +264,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 1500,
+    "heightCmMax": 2500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [
+      "respiratory aid"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "046855b9-ffe1-43e5-bf98-c1b3a255327f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "046855b9-ffe1-43e5-bf98-c1b3a255327f",
@@ -249,7 +337,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 1500,
+    "heightCmMax": 2500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "ac014d84-3672-4d0f-a4fe-318f9eb60706",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+    ],
+    "avoidIds": []
   },
   {
     "id": "3b1dc978-3915-4edb-ba74-6e499eb62458",
@@ -301,7 +411,27 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 1500,
+    "heightCmMax": 2500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "1dbc59bf-df59-4599-99c5-578ffdf2dce9",
@@ -353,7 +483,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 300,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "73968cc9-761b-476b-9286-866e160eeedd",
@@ -404,7 +556,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 600,
+    "spacingCm": 120,
+    "bloomColors": [
+      "green",
+      "red"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "butterflies"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "anti-inflammatory"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+    ],
+    "avoidIds": []
   },
   {
     "id": "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
@@ -454,7 +632,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 800,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
+      "1dbc59bf-df59-4599-99c5-578ffdf2dce9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "1f89fa64-d689-4cbe-8200-ef310eed61e2",
@@ -505,7 +707,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 600,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+    ],
+    "avoidIds": []
   },
   {
     "id": "3f504319-4837-4c91-93c4-d9c800fe6c62",
@@ -556,7 +781,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 500,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+    ],
+    "avoidIds": []
   },
   {
     "id": "fdd78bd7-294a-449b-901a-5d5668f86fb1",
@@ -607,7 +855,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 800,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "431a72d4-e3fb-4f47-a5c3-8bb90b096424"
+    ],
+    "avoidIds": []
   },
   {
     "id": "431a72d4-e3fb-4f47-a5c3-8bb90b096424",
@@ -658,7 +929,34 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 50,
+    "heightCmMax": 150,
+    "spacingCm": 120,
+    "bloomColors": [
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "flowers",
+      "fruit"
+    ],
+    "medicinalUses": [
+      "anti-inflammatory"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d",
+      "1f89fa64-d689-4cbe-8200-ef310eed61e2"
+    ],
+    "avoidIds": []
   },
   {
     "id": "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
@@ -709,7 +1007,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "hummingbirds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "baa6dadd-9773-4b8b-8343-e94297023cf9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "baa6dadd-9773-4b8b-8343-e94297023cf9",
@@ -760,7 +1080,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 120,
+    "spacingCm": 150,
+    "bloomColors": [
+      "red"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "hummingbirds",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "3b77e7f6-e9db-4d54-9867-848fbdb8b30d",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+    ],
+    "avoidIds": []
   },
   {
     "id": "59ff697e-3253-49af-ae4d-ef7b91f1ac35",
@@ -811,7 +1153,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 250,
+    "spacingCm": 300,
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "coarse",
+    "wildlifeAttracts": [
+      "butterflies",
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [
+      "anti-inflammatory"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7"
+    ],
+    "avoidIds": []
   },
   {
     "id": "444cacbe-ec37-4760-ae88-35b3e205b244",
@@ -862,7 +1229,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "yellow"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "butterflies",
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7"
+    ],
+    "avoidIds": []
   },
   {
     "id": "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
@@ -913,7 +1302,36 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 120,
+    "spacingCm": 150,
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "edibleParts": [
+      "leaves"
+    ],
+    "medicinalUses": [
+      "antiseptic"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "baa6dadd-9773-4b8b-8343-e94297023cf9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "cbd88ecf-9e39-42b1-935b-7d60f9aa3aa3",
@@ -964,7 +1382,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 30,
+    "heightCmMax": 60,
+    "spacingCm": 45,
+    "bloomColors": [
+      "orange"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "butterflies",
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "f106c2b6-23e5-4c59-850f-97a03236f314",
@@ -1015,7 +1455,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 90,
+    "heightCmMax": 180,
+    "spacingCm": 150,
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "butterflies",
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
+    ],
+    "avoidIds": []
   },
   {
     "id": "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
@@ -1066,7 +1530,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 90,
+    "heightCmMax": 180,
+    "spacingCm": 150,
+    "bloomColors": [
+      "yellow"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [
+      "anti-inflammatory"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "f106c2b6-23e5-4c59-850f-97a03236f314",
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c",
+      "59ff697e-3253-49af-ae4d-ef7b91f1ac35"
+    ],
+    "avoidIds": []
   },
   {
     "id": "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb",
@@ -1117,7 +1606,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 1000,
+    "heightCmMax": 2000,
+    "spacingCm": 90,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "b98fe248-e432-4c0a-93ed-0e228f946c62"
+    ],
+    "avoidIds": []
   },
   {
     "id": "b98fe248-e432-4c0a-93ed-0e228f946c62",
@@ -1169,7 +1680,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 10,
+    "heightCmMax": 15,
+    "spacingCm": 30,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit",
+      "leaves"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "6eff4b0e-e6b1-4a6a-abdd-2e3bf2f269eb"
+    ],
+    "avoidIds": []
   },
   {
     "id": "3b459759-45fe-43f0-9324-495005c76b4d",
@@ -1220,7 +1755,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 15,
+    "heightCmMax": 60,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "9b809faa-6b1e-4f51-940b-1a932f31bb8c"
+    ],
+    "avoidIds": []
   },
   {
     "id": "6d7d4817-58a9-45ee-ad22-da0b73ab9ee7",
@@ -1271,7 +1832,27 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 10,
+    "heightCmMax": 20,
+    "spacingCm": 30,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [],
+    "avoidIds": []
   },
   {
     "id": "719a15c0-3cf4-451c-9723-31e155909ffd",
@@ -1321,7 +1902,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 100,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "7287f6c9-bacf-42e9-8e7c-4645b5444d0d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "1cb66fef-54f8-407e-9329-ee086fee74a9",
@@ -1369,7 +1976,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 90,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "53e01557-1740-4f69-95ef-cceac625b46f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "471b04e8-0fdc-45ab-b2fa-af6aed27451d",
@@ -1420,7 +2049,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 600,
+    "spacingCm": 120,
+    "bloomColors": [
+      "yellow"
+    ],
+    "foliageColor": "silver",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit",
+      "leaves"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [],
+    "avoidIds": []
   },
   {
     "id": "a36f39d3-ba1c-4e73-9784-7d925605f7c0",
@@ -1470,7 +2123,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 100,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "flowers",
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [],
+    "avoidIds": []
   },
   {
     "id": "4b2594e0-2d24-47ec-806b-d91c1940ce95",
@@ -1520,7 +2196,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 90,
+    "heightCmMax": 120,
+    "spacingCm": 150,
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "foliageColor": "silver",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0",
@@ -1570,7 +2269,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 30,
+    "heightCmMax": 60,
+    "spacingCm": 45,
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": true,
+    "companionIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
@@ -1620,7 +2342,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "orange",
+      "yellow",
+      "red"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "hummingbirds",
+      "butterflies"
+    ],
+    "edibleParts": [
+      "flowers"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": true,
+    "companionIds": [
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "15c67328-c841-4c1b-886a-59c8f94166fb"
+    ],
+    "avoidIds": []
   },
   {
     "id": "7843bf4f-973f-46ef-8bbb-84133fc1570d",
@@ -1669,7 +2417,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 100,
+    "spacingCm": 60,
+    "bloomColors": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "d01fd57e-7a45-4428-9b0b-5a69950aa336"
+    ],
+    "avoidIds": []
   },
   {
     "id": "d01fd57e-7a45-4428-9b0b-5a69950aa336",
@@ -1718,7 +2489,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "purple",
+      "blue",
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d",
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8"
+    ],
+    "avoidIds": []
   },
   {
     "id": "1c0e5051-c407-4216-8278-093073c308d3",
@@ -1767,7 +2561,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "red",
+      "orange",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "4b2594e0-2d24-47ec-806b-d91c1940ce95"
+    ],
+    "avoidIds": []
   },
   {
     "id": "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
@@ -1816,7 +2632,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 120,
+    "spacingCm": 150,
+    "bloomColors": [
+      "blue",
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "a5d660c4-8ea0-48dd-9fcc-489b64b0026d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "a5d660c4-8ea0-48dd-9fcc-489b64b0026d",
@@ -1864,7 +2703,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 120,
+    "heightCmMax": 180,
+    "spacingCm": 150,
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "hummingbirds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "46737a3d-65e9-4b5b-9801-7bb9fb209e8a",
+      "7843bf4f-973f-46ef-8bbb-84133fc1570d"
+    ],
+    "avoidIds": []
   },
   {
     "id": "15c67328-c841-4c1b-886a-59c8f94166fb",
@@ -1913,7 +2775,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 90,
+    "spacingCm": 60,
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "db78c60b-b803-4dbc-8449-4229f1bcc5c8",
+      "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f"
+    ],
+    "avoidIds": []
   },
   {
     "id": "2ecd23f7-ad3c-4cac-8a82-b68f76f81c6f",
@@ -1963,7 +2848,35 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 120,
+    "spacingCm": 150,
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [
+      "leaves"
+    ],
+    "medicinalUses": [
+      "immune support"
+    ],
+    "droughtTolerant": true,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "444cacbe-ec37-4760-ae88-35b3e205b244",
+      "550cc286-54cd-49c4-9374-85b5aa6ea2e7",
+      "58ed56dc-88ef-4688-9bb4-f2ef25ac60b0"
+    ],
+    "avoidIds": []
   },
   {
     "id": "bf55e865-0566-4808-abb5-8bebcc52571e",
@@ -2011,7 +2924,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds",
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "27eece07-52ed-450b-92ca-d456f2975aa8"
+    ],
+    "avoidIds": []
   },
   {
     "id": "27eece07-52ed-450b-92ca-d456f2975aa8",
@@ -2061,7 +2998,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 600,
+    "heightCmMax": 1000,
+    "spacingCm": 300,
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "bf55e865-0566-4808-abb5-8bebcc52571e"
+    ],
+    "avoidIds": []
   },
   {
     "id": "e22d4ce6-4f6d-4b4b-9f95-e9a2bc427b9f",
@@ -2111,7 +3072,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 800,
+    "heightCmMax": 1200,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "27eece07-52ed-450b-92ca-d456f2975aa8"
+    ],
+    "avoidIds": []
   },
   {
     "id": "fba9d338-e411-40aa-aac9-0d2754a72195",
@@ -2161,7 +3145,28 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "birds"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": true,
+    "companionIds": [
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92"
+    ],
+    "avoidIds": []
   },
   {
     "id": "734cc4e7-b5ed-4966-975a-87c7515b7b92",
@@ -2211,7 +3216,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 250,
+    "spacingCm": 120,
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "fba9d338-e411-40aa-aac9-0d2754a72195",
+      "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29"
+    ],
+    "avoidIds": []
   },
   {
     "id": "5253a5f5-1950-4a60-a5e8-c0bc6ff09e29",
@@ -2260,7 +3288,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 100,
+    "heightCmMax": 150,
+    "spacingCm": 120,
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "butterflies"
+    ],
+    "edibleParts": [],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "734cc4e7-b5ed-4966-975a-87c7515b7b92"
+    ],
+    "avoidIds": []
   },
   {
     "id": "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
@@ -2308,7 +3358,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "614de45e-b116-4380-9357-5b9913087ea8",
+      "f583b277-6361-427d-bf07-09d08bca91e2"
+    ],
+    "avoidIds": []
   },
   {
     "id": "614de45e-b116-4380-9357-5b9913087ea8",
@@ -2358,7 +3433,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "2a577c81-2112-4c2b-972d-b579632c53d9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "b1ef0af1-66f6-41f2-b1aa-c7ea02dd3000",
@@ -2407,7 +3507,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "614de45e-b116-4380-9357-5b9913087ea8"
+    ],
+    "avoidIds": []
   },
   {
     "id": "2a577c81-2112-4c2b-972d-b579632c53d9",
@@ -2455,7 +3579,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "614de45e-b116-4380-9357-5b9913087ea8",
+      "ab0e156d-9de4-477b-82d7-08bd0e887a42"
+    ],
+    "avoidIds": []
   },
   {
     "id": "ab0e156d-9de4-477b-82d7-08bd0e887a42",
@@ -2506,7 +3654,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 250,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": true,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "2a577c81-2112-4c2b-972d-b579632c53d9",
+      "602425cd-288a-4542-a824-17cfdfa46d71"
+    ],
+    "avoidIds": []
   },
   {
     "id": "602425cd-288a-4542-a824-17cfdfa46d71",
@@ -2556,7 +3729,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "ab0e156d-9de4-477b-82d7-08bd0e887a42",
+      "2a577c81-2112-4c2b-972d-b579632c53d9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "84c9ed83-38a7-4367-93c8-f4ee033a5f81",
@@ -2603,7 +3800,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 500,
+    "spacingCm": 300,
+    "bloomColors": [
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "f583b277-6361-427d-bf07-09d08bca91e2"
+    ],
+    "avoidIds": []
   },
   {
     "id": "f583b277-6361-427d-bf07-09d08bca91e2",
@@ -2650,7 +3869,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "4d157882-62b3-4d2c-ad67-59eaa172fbcb",
+      "7218088d-ee0a-45f4-a868-ac6cc282dbd6"
+    ],
+    "avoidIds": []
   },
   {
     "id": "7218088d-ee0a-45f4-a868-ac6cc282dbd6",
@@ -2700,7 +3943,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 400,
+    "heightCmMax": 600,
+    "spacingCm": 300,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "f583b277-6361-427d-bf07-09d08bca91e2"
+    ],
+    "avoidIds": []
   },
   {
     "id": "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
@@ -2750,7 +4016,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e"
+    ],
+    "avoidIds": []
   },
   {
     "id": "311049c4-4dcd-4bae-b9ae-4c125f2e2386",
@@ -2798,7 +4090,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564"
+    ],
+    "avoidIds": []
   },
   {
     "id": "275ff5cb-d174-46da-869b-26b21d54ebdc",
@@ -2847,7 +4164,32 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564"
+    ],
+    "avoidIds": []
   },
   {
     "id": "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1",
@@ -2897,7 +4239,30 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 15,
+    "heightCmMax": 20,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "689826db-a9c0-4324-9220-f6cfbda050e4",
+      "b98fe248-e432-4c0a-93ed-0e228f946c62"
+    ],
+    "avoidIds": []
   },
   {
     "id": "689826db-a9c0-4324-9220-f6cfbda050e4",
@@ -2945,7 +4310,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 15,
+    "heightCmMax": 20,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "fine",
+    "wildlifeAttracts": [
+      "bees"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "dda617b3-4a3c-4bb3-b9a1-c4130bf9cda1"
+    ],
+    "avoidIds": []
   },
   {
     "id": "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e",
@@ -2994,7 +4381,34 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 150,
+    "heightCmMax": 200,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "81ba5df9-dcbf-43c7-b0fd-ddef50115564",
+      "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "5300011a-ccbe-4b9f-bcc7-829f67b4f7a9",
@@ -3044,7 +4458,33 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 60,
+    "heightCmMax": 120,
+    "spacingCm": 120,
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [
+      "antioxidant"
+    ],
+    "droughtTolerant": false,
+    "deerResistant": true,
+    "saltTolerant": false,
+    "companionIds": [
+      "a2f8c3b0-1dd4-4795-97e8-73f8ec7ece7e"
+    ],
+    "avoidIds": []
   },
   {
     "id": "53e01557-1740-4f69-95ef-cceac625b46f",
@@ -3092,7 +4532,31 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 500,
+    "spacingCm": 90,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "311e8c99-481d-415f-8594-995150991321",
+      "1cb66fef-54f8-407e-9329-ee086fee74a9"
+    ],
+    "avoidIds": []
   },
   {
     "id": "311e8c99-481d-415f-8594-995150991321",
@@ -3142,6 +4606,29 @@
         "problem": "Slow growth",
         "solution": "Ensure adequate sunlight and amend soil with compost in spring."
       }
-    ]
+    ],
+    "heightCmMin": 300,
+    "heightCmMax": 500,
+    "spacingCm": 90,
+    "bloomColors": [
+      "green"
+    ],
+    "foliageColor": "green",
+    "foliageTexture": "medium",
+    "wildlifeAttracts": [
+      "bees",
+      "birds"
+    ],
+    "edibleParts": [
+      "fruit"
+    ],
+    "medicinalUses": [],
+    "droughtTolerant": false,
+    "deerResistant": false,
+    "saltTolerant": false,
+    "companionIds": [
+      "53e01557-1740-4f69-95ef-cceac625b46f"
+    ],
+    "avoidIds": []
   }
 ]

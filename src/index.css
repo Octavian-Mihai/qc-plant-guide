@@ -11,13 +11,18 @@
   --color-offwhite: #f8f9fa;
 }
 
+.dark {
+  --color-cream: #1e3a2f;
+  --color-offwhite: #0d2818;
+}
+
 @layer base {
   html {
     scroll-behavior: smooth;
   }
 
   body {
-    @apply bg-offwhite text-forest-dark font-sans antialiased;
+    @apply bg-offwhite text-forest-dark font-sans antialiased dark:bg-darkbg dark:text-darkbg-text;
   }
 
   h1,
@@ -26,43 +31,105 @@
     @apply font-display;
   }
 
-  /* Visible focus rings for keyboard navigation */
   *:focus-visible {
-    @apply outline-2 outline-offset-2 outline-forest-light;
+    @apply outline-2 outline-offset-2 outline-forest-light dark:outline-forest-lighter;
+  }
+
+  select,
+  input[type='text'],
+  input[type='search'],
+  input[type='number'],
+  textarea {
+    @apply dark:bg-darkbg dark:text-darkbg-text dark:border-forest/30;
+  }
+
+  option {
+    @apply dark:bg-darkbg dark:text-darkbg-text;
   }
 }
 
 @layer components {
   .btn-primary {
-    @apply inline-flex items-center justify-center rounded-lg bg-forest px-4 py-2 text-sm font-semibold text-white transition hover:bg-forest-light focus-visible:ring-2 focus-visible:ring-forest-lighter;
+    @apply inline-flex items-center justify-center rounded-lg bg-forest px-4 py-2 text-sm font-semibold text-white transition hover:bg-forest-light focus-visible:ring-2 focus-visible:ring-forest-lighter dark:bg-forest-light dark:hover:bg-forest-lighter;
   }
 
   .btn-secondary {
-    @apply inline-flex items-center justify-center rounded-lg border border-forest bg-white px-4 py-2 text-sm font-semibold text-forest transition hover:bg-cream focus-visible:ring-2 focus-visible:ring-forest-light;
+    @apply inline-flex items-center justify-center rounded-lg border border-forest bg-white px-4 py-2 text-sm font-semibold text-forest transition hover:bg-cream focus-visible:ring-2 focus-visible:ring-forest-light dark:border-forest-lighter dark:bg-darkbg-card dark:text-darkbg-text dark:hover:bg-darkbg;
+  }
+
+  .btn-hero {
+    @apply inline-flex items-center justify-center rounded-lg px-4 py-2 text-sm font-semibold transition focus-visible:ring-2 focus-visible:ring-forest-lighter;
+    @apply bg-white text-forest hover:bg-cream;
+    @apply dark:border dark:border-white dark:bg-transparent dark:text-white dark:hover:bg-white/10;
   }
 
   .card {
-    @apply rounded-xl border border-forest/10 bg-white p-4 shadow-sm;
+    @apply rounded-xl border border-forest/10 bg-white p-4 text-forest-dark shadow-sm dark:border-forest/20 dark:bg-darkbg-card dark:text-darkbg-text;
   }
 
   .section-title {
-    @apply text-2xl font-display font-bold text-forest-dark md:text-3xl;
+    @apply text-2xl font-display font-bold text-forest-dark md:text-3xl dark:text-darkbg-text;
+  }
+
+  .text-muted {
+    @apply text-forest/70 dark:text-darkbg-muted;
+  }
+
+  .text-subtle {
+    @apply text-forest/80 dark:text-darkbg-muted;
+  }
+
+  .link-forest {
+    @apply text-forest underline hover:text-forest-light dark:text-forest-lighter dark:hover:text-forest-lighter;
+  }
+
+  .surface-muted {
+    @apply bg-cream dark:bg-darkbg;
+  }
+
+  .input-field {
+    @apply rounded-lg border border-forest/20 px-3 py-2 text-forest-dark focus:border-forest focus:outline-none focus:ring-2 focus:ring-forest-light dark:border-forest/30 dark:bg-darkbg dark:text-darkbg-text;
+  }
+
+  .label-text {
+    @apply text-sm font-medium text-forest-dark dark:text-darkbg-text;
+  }
+
+  .heading-sm {
+    @apply text-lg font-semibold text-forest-dark dark:text-darkbg-text;
+  }
+
+  .filter-chip {
+    @apply rounded-full px-3 py-1 text-sm font-medium transition bg-forest/10 text-forest-dark hover:bg-forest/20 dark:bg-forest/20 dark:text-darkbg-text dark:hover:bg-forest/30;
+  }
+
+  .filter-chip-active {
+    @apply rounded-full px-3 py-1 text-sm font-medium transition bg-forest text-white dark:bg-forest-light;
   }
 }
 
-/* Season color codes for plant calendar */
 .season-spring {
-  @apply bg-green-100 text-green-800;
+  @apply bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-200;
 }
 .season-summer {
-  @apply bg-yellow-100 text-yellow-800;
+  @apply bg-yellow-100 text-yellow-800 dark:bg-yellow-900/40 dark:text-yellow-200;
 }
 .season-fall {
-  @apply bg-orange-100 text-orange-800;
+  @apply bg-orange-100 text-orange-800 dark:bg-orange-900/40 dark:text-orange-200;
 }
 .season-winter {
-  @apply bg-blue-100 text-blue-800;
+  @apply bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-200;
 }
 .season-dormant {
-  @apply bg-gray-100 text-gray-600;
+  @apply bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-300;
+}
+
+@media print {
+  nav, footer, .no-print {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
 }

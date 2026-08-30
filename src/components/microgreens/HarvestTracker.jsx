@@ -82,7 +82,7 @@ function HarvestTracker() {
         <select
           value={selected}
           onChange={(e) => setSelected(e.target.value)}
-          className="rounded-lg border border-forest/20 px-3 py-2 text-sm"
+          className="input-field text-sm"
           aria-label={t('microgreens.selectVariety')}
         >
           {VARIETIES.map((v) => (
@@ -100,20 +100,20 @@ function HarvestTracker() {
       </div>
 
       <div className="mt-6">
-        <h3 className="font-semibold text-forest-dark">{t('microgreens.activeBatches')}</h3>
+        <h3 className="heading-sm">{t('microgreens.activeBatches')}</h3>
         {batches.length === 0 ? (
-          <p className="mt-2 text-sm text-forest/60">{t('microgreens.noBatches')}</p>
+          <p className="mt-2 text-sm text-muted">{t('microgreens.noBatches')}</p>
         ) : (
           <ul className="mt-2 space-y-2">
             {batches.map((batch) => {
               const variety = VARIETIES.find((v) => v.id === batch.variety);
               const daysLeft = getDaysLeft(batch);
               return (
-                <li key={batch.id} className="flex items-center justify-between rounded-lg bg-cream p-3">
-                  <span className="font-medium text-forest-dark">
+                <li key={batch.id} className="surface-muted flex items-center justify-between rounded-lg p-3">
+                  <span className="font-medium">
                     {locale === 'fr' ? variety?.nameFr : variety?.nameEn}
                   </span>
-                  <span className={`text-sm font-semibold ${daysLeft === 0 ? 'text-forest' : 'text-forest/70'}`}>
+                  <span className={`text-sm font-semibold ${daysLeft === 0 ? 'text-forest dark:text-forest-lighter' : 'text-muted'}`}>
                     {daysLeft === 0 ? t('microgreens.readyNow') : t('microgreens.readyIn', { days: daysLeft })}
                   </span>
                 </li>

@@ -11,7 +11,7 @@ const OptionCard = memo(function OptionCard({ selected, onClick, title }) {
       }`}
       aria-pressed={selected}
     >
-      <span className="font-semibold text-forest-dark">{title}</span>
+      <span className="font-semibold">{title}</span>
     </button>
   );
 });
@@ -35,8 +35,8 @@ function TouchTest({ texture, ph, onTextureChange, onPhChange }) {
 
   return (
     <div className="space-y-6">
-      <div className="rounded-lg bg-cream p-4 text-sm text-forest/80">
-        <p className="font-medium text-forest-dark">Ribbon test instructions:</p>
+      <div className="surface-muted rounded-lg p-4 text-sm text-subtle">
+        <p className="font-medium">Ribbon test instructions:</p>
         <ul className="mt-2 list-inside list-disc space-y-1">
           <li>Moisten a handful of soil until it feels like a wrung-out sponge</li>
           <li>Squeeze it into a ball, then try to form a ribbon between thumb and finger</li>
@@ -45,7 +45,7 @@ function TouchTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">Texture result:</p>
+        <p className="mb-2 font-medium">Texture result:</p>
         <div className="grid gap-2 sm:grid-cols-2">
           {textures.map((opt) => (
             <OptionCard
@@ -59,7 +59,7 @@ function TouchTest({ texture, ph, onTextureChange, onPhChange }) {
       </div>
 
       <div>
-        <p className="mb-2 font-medium text-forest-dark">pH estimate:</p>
+        <p className="mb-2 font-medium">pH estimate:</p>
         <div className="grid gap-2 sm:grid-cols-3">
           {phOptions.map((opt) => (
             <OptionCard

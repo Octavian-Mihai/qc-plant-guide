@@ -18,7 +18,7 @@ function LearnPage() {
     <div className="mx-auto max-w-4xl px-4 py-8">
       <header className="mb-8 text-center">
         <h1 className="section-title">{t('learn.title')}</h1>
-        <p className="mt-2 text-forest/70">{t('learn.subtitle')}</p>
+        <p className="mt-2 text-muted">{t('learn.subtitle')}</p>
       </header>
 
       <div className="grid gap-4 sm:grid-cols-2">
@@ -29,9 +29,9 @@ function LearnPage() {
             className="card flex flex-col transition hover:-translate-y-1 hover:shadow-md"
           >
             <span className="text-3xl">{icon}</span>
-            <h2 className="mt-2 font-display text-lg font-semibold text-forest-dark">{t(titleKey)}</h2>
-            <p className="mt-1 flex-1 text-sm text-forest/70">{t(descKey)}</p>
-            <span className="mt-3 text-sm font-medium text-forest">{t('common.learnMore')} →</span>
+            <h2 className="mt-2 font-display text-lg font-semibold">{t(titleKey)}</h2>
+            <p className="mt-1 flex-1 text-sm text-muted">{t(descKey)}</p>
+            <span className="mt-3 text-sm font-medium text-forest dark:text-forest-lighter">{t('common.learnMore')} →</span>
           </Link>
         ))}
       </div>
