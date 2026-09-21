@@ -2,8 +2,6 @@
 
 A beginner-friendly, bilingual (English / French) web app for gardeners in **Southern and Central Quebec** (hardiness zones 4b–5a). Browse native and adaptive plants, test your soil, plan garden beds, and learn when to plant — all in the browser with no account required.
 
-**Live repo:** [github.com/Octavian-Mihai/qc-plant-guide](https://github.com/Octavian-Mihai/qc-plant-guide)
-
 **Live link:** [https://qc-plant-guide.vercel.app/](https://qc-plant-guide.vercel.app/)
 
 ---
