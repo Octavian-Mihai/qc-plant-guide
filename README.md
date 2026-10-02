@@ -1,5 +1,7 @@
 # Quebec Plant Zone Guide
 
+See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for an architecture diagram.
+
 A beginner-friendly, bilingual (English / French) web app for gardeners in **Southern and Central Quebec** (hardiness zones 4b–5a). Browse native and adaptive plants, test your soil, plan garden beds, and learn when to plant — all in the browser with no account required.
 
 **Live link:** [https://qc-plant-guide.vercel.app/](https://qc-plant-guide.vercel.app/)
