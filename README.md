@@ -1,12 +1,53 @@
 # Quebec Plant Zone Guide
 
-See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for an architecture diagram.
-
 A beginner-friendly, bilingual (English / French) web app for gardeners in **Southern and Central Quebec** (hardiness zones 4b–5a). Browse native and adaptive plants, test your soil, plan garden beds, and learn when to plant — all in the browser with no account required.
 
 **Live link:** [https://qc-plant-guide.vercel.app/](https://qc-plant-guide.vercel.app/)
 
 ---
+
+
+## Architecture
+
+```mermaid
+flowchart TD
+    Main[main.jsx] --> App[App.jsx]
+    App --> I18n["i18n/<br/>useTranslation · en.json · fr.json"]
+
+    subgraph Features["src/components"]
+        Dash[dashboard]
+        Comp[compare]
+        Fav[favorites]
+        Gar[garden planner]
+        Soil[soil wizard]
+        Seeds[seeds]
+        Comm[companions]
+        IPM[ipm — pests]
+        Micro[microgreens]
+        Learn[learn]
+        Print[print]
+        Common[common]
+    end
+
+    subgraph Data["src/data (static JSON)"]
+        Plants[plants.json]
+        Compn[companions.json]
+        Pests[pests.json]
+        Sched[seedSchedule.json]
+    end
+
+    Img[services/imageService.js] -->|plant images| Ext[(External image API)]
+    Scripts["scripts/<br/>generatePlants · extendPlants · enrich-companions"] -.generate.-> Data
+
+    App --> Features
+    Features --> Data
+    Features --> Img
+    Features --> LS[(localStorage<br/>favorites · garden)]
+    Features --> I18n
+    App -->|deploy| Vercel[(Vercel)]
+```
+
+More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ## Screenshots
 
