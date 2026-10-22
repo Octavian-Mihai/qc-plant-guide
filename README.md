@@ -151,28 +151,61 @@ Toggle light/dark theme from the navbar — preference saved automatically.
 
 ## Project Structure
 
+```mermaid
+flowchart LR
+    Data[("data/<br/>plants · companions<br/>pests · seedSchedule (JSON)")]
+    Store["store/useStore<br/>Zustand: filters · favorites · layouts<br/>theme · locale"]
+    LS[(localStorage)]
+    Utils["utils/<br/>plantHelpers (filter pipeline)<br/>dateHelpers"]
+    Svc["services/<br/>soilMatcher · imageService<br/>pdfService · notificationService"]
+    I18n["i18n/<br/>en.json · fr.json"]
+    UI["components/<br/>dashboard · soil · garden · companions<br/>ipm · seeds · microgreens · compare · learn · print"]
+    Router["App.jsx<br/>React Router"]
+    Router --> UI
+    Data --> Utils --> UI
+    Data --> Svc --> UI
+    UI <--> Store
+    Store <--> LS
+    I18n --> UI
+    Svc -->|"optional"| Unsplash[(Unsplash API)]
+    Svc -->|"Notification API"| Browser([Browser])
 ```
-src/
-├── components/
-│   ├── common/       # Navbar, Footer, PlantCard, ThemeToggle, FavoriteButton
-│   ├── dashboard/    # Dashboard, FilterBar, ResultsGrid, PlantDetailModal
-│   ├── soil/         # SoilTester wizard, SoilSuggestionBanner
-│   ├── garden/       # GardenPlanner, PlantPalette, GardenBedGrid
-│   ├── companions/   # CompanionPlanting, CompanionMatrix
-│   ├── ipm/          # IPMGuide
-│   ├── seeds/        # SeedStarting, SeedTimeline, SoilTempGuide
-│   ├── microgreens/  # Timeline, ShoppingList, HarvestTracker
-│   ├── favorites/    # FavoritesPage
-│   ├── compare/      # ComparePage, CompareBar
-│   ├── learn/        # ZoneMap, FrostDateCalculator, articles
-│   └── print/        # Print/PDF views
-├── data/             # plants.json, companions.json, pests.json, seedSchedule.json
-├── services/         # imageService, soilMatcher, pdfService, notificationService
-├── store/            # Zustand useStore
-├── i18n/             # en.json, fr.json, useTranslation hook
-├── utils/            # plantHelpers, dateHelpers
-└── types.ts          # TypeScript interfaces
-```
+
+| Path | Purpose |
+|---|---|
+| `src/App.jsx`, `main.jsx` | Router and app entry |
+| `src/components/common/` | Navbar, Footer, PlantCard, ThemeToggle, FavoriteButton |
+| `src/components/dashboard/` | Dashboard, FilterBar, ResultsGrid, PlantDetailModal |
+| `src/components/soil/` | Soil tester wizard and suggestion banner |
+| `src/components/garden/` | Drag-and-drop garden planner (palette, bed grid) |
+| `src/components/companions/` | Companion planting and matrix |
+| `src/components/ipm/` | Integrated pest management guide |
+| `src/components/seeds/`, `microgreens/` | Seed-starting timeline and soil temperatures; microgreen timeline, shopping list, harvest tracker |
+| `src/components/favorites/`, `compare/` | Favorites page; plant comparison page and bar |
+| `src/components/learn/` | Zone map, frost-date calculator, articles |
+| `src/components/print/` | Print and PDF views |
+| `src/data/` | `plants.json`, `companions.json`, `pests.json`, `seedSchedule.json` |
+| `src/services/` | `soilMatcher`, `imageService`, `pdfService`, `notificationService` |
+| `src/store/useStore.js` | Global Zustand store |
+| `src/i18n/` | `en.json`, `fr.json`, `useTranslation` hook |
+| `src/utils/` | `plantHelpers` (filter pipeline), `dateHelpers` |
+| `src/types.ts` | TypeScript interfaces (types only; runtime is JavaScript) |
+| `scripts/`, `public/`, `vercel.json` | Data scripts, static assets, SPA rewrites |
+| `docs/screenshots/` | Images used in this README |
+
+### Design patterns
+
+- **Static data, no backend.** All content is bundled JSON; the app is a pure SPA deployed as static files.
+- **One global store, persisted.** Zustand holds filters, favorites, layouts, theme and locale and mirrors the durable parts to
+  `localStorage`.
+- **Filter pipeline.** `plantHelpers` applies search, zone, season, origin, soil and advanced filters in sequence, with native
+  plants sorted first.
+- **Scored matching.** `soilMatcher` returns `strong` / `moderate` / `none` tiers rather than a yes/no.
+- **Services behind small modules.** PDF, images and notifications are isolated, and notifications are shared between the seed
+  and microgreen features.
+- **Graceful degradation.** Missing Unsplash photos fall back to an SVG placeholder; the PWA plugin caches assets for offline use.
+- **Hook-based i18n.** A `useTranslation` hook reads the locale from the store, so language switching needs no reload.
+- **Feature-folder components.** Each feature owns its folder, which keeps routes and UI together.
 
 ---
 
